@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| room.holiday    | available | $9.99     | —             | high           | low    | 4      | name.com        |
-| bag.vc          | resell    | —         | —             | high           | low    | 3      | Epik LLC        |
-| room.flights    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo        |
-| room.reise      | available | $27.89    | $97.99        | high           | low    | 4      | namesilo        |
-| live.place      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
-| room.vacations  | premium   | $242      | $242          | high           | low    | 4      | namesilo        |
-| room.reisen     | available | $3.99     | $20.99        | high           | low    | 4      | namesilo        |
-| room.tours      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
-| ship.meme       | premium   | $187.50   | —             | high           | low    | 4      | name.com        |
-| room.viajes     | available | $37.99    | $37.99        | high           | low    | 4      | namesilo        |
-| urban.place     | resell    | —         | —             | medium         | low    | 5      | Porkbun LLC     |
-| trip.mobile     | premium   | $1,250    | —             | high           | low    | 4      | name.com        |
-| room.voyage     | available | $9.99     | —             | high           | low    | 4      | name.com        |
-| hotels.berlin   | resell    | —         | —             | medium         | high   | 6      | —               |
-| guide.mobile    | premium   | $2,500    | —             | high           | low    | 5      | name.com        |
-| tent.reise      | available | $27.89    | $97.99        | medium         | low    | 4      | namesilo        |
-| hotels.catering | resell    | —         | —             | medium         | high   | 6      | NameCheap, Inc. |
-| tours.mobile    | premium   | $2,500    | —             | high           | low    | 5      | name.com        |
-| tent.travel     | available | $23.98    | $186.98       | medium         | low    | 4      | namecheap       |
-| flights.games   | resell    | —         | —             | medium         | low    | 7      | DNSPod, Inc.    |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| camp.viajes    | available | $37.99    | $37.99        | medium         | low    | 4      | namesilo                                     |
+| bag.vc         | resell    | —         | —             | high           | low    | 3      | Epik LLC                                     |
+| camp.flights   | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo                                     |
+| room.holiday   | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
+| room.tours     | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
+| room.flights   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                     |
+| room.reise     | available | $27.89    | $97.99        | high           | low    | 4      | namesilo                                     |
+| tour.shopping  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| room.shop      | premium   | $3,125    | —             | high           | low    | 4      | name.com                                     |
+| room.reisen    | available | $3.99     | $20.99        | high           | low    | 4      | namesilo                                     |
+| hotel.doctor   | resell    | —         | —             | high           | medium | 5      | NameCheap, Inc.                              |
+| room.vacations | premium   | $242      | $242          | high           | low    | 4      | namesilo                                     |
+| room.viajes    | available | $37.99    | $37.99        | high           | low    | 4      | namesilo                                     |
+| flight.holiday | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                             |
+| trip.flights   | premium   | $242      | $242          | high           | low    | 4      | namesilo                                     |
+| room.voyage    | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
+| travel.tours   | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                             |
+| trip.mobile    | premium   | $1,250    | —             | high           | low    | 4      | name.com                                     |
+| tent.reisen    | available | $3.99     | $20.99        | medium         | low    | 4      | namesilo                                     |
+| camping.games  | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
