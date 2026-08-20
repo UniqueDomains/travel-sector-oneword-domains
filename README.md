@@ -16,7 +16,7 @@ This is a curated set of one-word travel domain names spanning 506+ different TL
 
 **Public extract:** 1,000 rows · **Live catalog:** 177,776 domains · **Median ask:** $797.17 · **High-demand under $2,500:** 469
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/travel`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| air.realty    | available | $109.99   | $299          | high           | medium | 3      | namesilo                                                  |
-| air.holiday   | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
-| air.reise     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
-| air.viajes    | available | $37.99    | $37.99        | high           | medium | 3      | namesilo                                                  |
-| room.casa     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
-| air.reisen    | premium   | $26       | $26           | high           | medium | 3      | namecheap                                                 |
-| bag.flights   | available | $58.99    | $58.99        | high           | low    | 3      | namesilo                                                  |
-| room.cx       | resell    | —         | —             | high           | low    | 4      | CentralNic Ltd                                            |
-| air.vacations | premium   | $260      | $260          | high           | medium | 3      | namecheap                                                 |
-| bag.holiday   | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| room.place    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                               |
-| air.voyage    | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                                                 |
-| bag.reise     | available | $27.89    | $97.99        | high           | low    | 3      | namesilo                                                  |
-| room.tours    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
-| bag.reisen    | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                                  |
-| bag.viajes    | available | $37.99    | $37.99        | high           | low    | 3      | namesilo                                                  |
-| room.us       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| bag.vacations | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                  |
-| bag.voyage    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| ship.run      | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| travel.sh       | resell    | —           | —             | high           | medium | 6      | GoDaddy.com, LLC                                          |
+| room.management | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                                               |
+| air.realty      | available | $109.99     | $299          | high           | medium | 3      | namesilo                                                  |
+| room.co         | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC                                          |
+| air.reise       | premium   | $128.70     | $128.70       | high           | medium | 3      | namecheap                                                 |
+| air.viajes      | available | $37.99      | $37.99        | high           | medium | 3      | namesilo                                                  |
+| room.me         | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc                                               |
+| air.reisen      | premium   | $26         | $26           | high           | medium | 3      | namecheap                                                 |
+| bag.flights     | available | $58.99      | $58.99        | high           | low    | 3      | namesilo                                                  |
+| air.holiday     | resell    | —           | —             | high           | medium | 3      | Porkbun LLC                                               |
+| air.vacations   | premium   | $260        | $260          | high           | medium | 3      | namecheap                                                 |
+| bag.holiday     | available | $9.99       | —             | high           | low    | 3      | name.com                                                  |
+| map.tours       | resell    | —           | —             | high           | low    | 3      | Network Solutions, LLC                                    |
+| air.voyage      | premium   | $85.80      | $85.80        | high           | medium | 3      | namecheap                                                 |
+| bag.reise       | available | $27.89      | $97.99        | high           | low    | 3      | namesilo                                                  |
+| map.vacations   | resell    | —           | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| bag.reisen      | premium   | $23.60      | $23.60        | high           | low    | 3      | namesilo                                                  |
+| bag.travel      | available | $39.99      | —             | high           | low    | 3      | name.com                                                  |
+| book.travel     | resell    | —           | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
+| bag.vacations   | premium   | $242        | $242          | high           | low    | 3      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Travel Domain Names Across 506+ TLDs*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Travel Domain Names Across 506+ TLDs*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
