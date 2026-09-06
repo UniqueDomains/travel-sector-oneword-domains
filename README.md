@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| bag.organic     | available | $17.99    | $85.99        | medium         | low    | 3      | namesilo                                     |
-| destination.bot | resell    | $78.98    | —             | high           | low    | 11     | Dynadot, LLC                                 |
-| room.flights    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                     |
-| room.holiday    | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
-| trip.bz         | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.                              |
-| room.vacations  | premium   | $242      | $242          | high           | low    | 4      | namesilo                                     |
-| room.reisen     | available | $3.99     | $20.99        | high           | low    | 4      | namesilo                                     |
-| urban.place     | resell    | —         | —             | medium         | low    | 5      | Porkbun LLC                                  |
-| ship.meme       | premium   | $187.50   | —             | high           | low    | 4      | name.com                                     |
-| room.viajes     | available | $37.99    | $37.99        | high           | low    | 4      | namesilo                                     |
-| hotels.berlin   | resell    | —         | —             | medium         | high   | 6      | —                                            |
-| tours.shop      | premium   | $1,107    | $1,107        | high           | low    | 5      | namesilo                                     |
-| room.voyage     | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
-| flights.us      | resell    | —         | —             | medium         | low    | 7      | GoDaddy.com, LLC                             |
-| events.reisen   | premium   | $242      | $242          | medium         | low    | 6      | namesilo                                     |
-| tent.reise      | available | $27.89    | $97.99        | medium         | low    | 4      | namesilo                                     |
-| journey.cafe    | resell    | —         | —             | high           | low    | 7      | Xiamen ChinaSource Internet Service Co., Ltd |
-| hotels.moi      | premium   | $3,125    | —             | medium         | high   | 6      | name.com                                     |
-| tent.travel     | available | $23.98    | $186.98       | medium         | low    | 4      | namecheap                                    |
-| journey.chat    | resell    | —         | —             | high           | low    | 7      | Xiamen ChinaSource Internet Service Co., Ltd |
+| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar              |
+| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| travel.sh       | resell    | —           | —             | high           | medium | 6      | GoDaddy.com, LLC       |
+| room.management | resell    | —           | —             | high           | low    | 4      | Porkbun LLC            |
+| air.viajes      | available | $37.99      | $37.99        | high           | medium | 3      | namesilo               |
+| room.co         | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC       |
+| air.reise       | premium   | $128.70     | $128.70       | high           | medium | 3      | namecheap              |
+| bag.flights     | available | $23.98      | $75.98        | medium         | low    | 3      | namecheap              |
+| room.me         | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc            |
+| air.reisen      | premium   | $26         | $26           | high           | medium | 3      | namecheap              |
+| bag.holiday     | available | $64.99      | $64.99        | medium         | low    | 3      | namesilo               |
+| house.travel    | resell    | $39.99      | —             | high           | medium | 5      | Porkbun LLC            |
+| air.vacations   | premium   | $260        | $260          | high           | medium | 3      | namecheap              |
+| bag.reise       | available | $27.89      | $97.99        | medium         | low    | 3      | namesilo               |
+| air.holiday     | resell    | —           | —             | high           | medium | 3      | Porkbun LLC            |
+| air.voyage      | premium   | $85.80      | $85.80        | high           | medium | 3      | namecheap              |
+| bag.travel      | available | $23.98      | $186.98       | medium         | low    | 3      | namecheap              |
+| bag.tours       | resell    | —           | —             | medium         | low    | 3      | Sav.com, LLC - 25      |
+| bag.reisen      | premium   | $23.60      | $23.60        | medium         | low    | 3      | namesilo               |
+| bag.viajes      | available | $37.99      | $37.99        | medium         | low    | 3      | namesilo               |
+| map.tours       | resell    | —           | —             | high           | low    | 3      | Network Solutions, LLC |
+| bag.vacations   | premium   | $242        | $242          | medium         | low    | 3      | namesilo               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
