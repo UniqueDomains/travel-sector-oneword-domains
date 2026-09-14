@@ -1,10 +1,10 @@
-# One-Word Travel Domain Names Across 506+ TLDs (196,604)
+# One-Word Travel Domain Names Across 506+ TLDs (196,924)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-196%2C604%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-196%2C924%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word travel domain names spanning 506+ different TLDs, with a median asking price near $862. Updated daily, it covers everything from niche extensions to classic formats, making it easy to compare pricing and brandability across a wide range of travel-related one-word domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **196,604 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **196,924 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 196,604 domains · **Median ask:** $731.12 · **High-demand under $2,500:** 493
+**Public extract:** 1,000 rows · **Live catalog:** 196,924 domains · **Median ask:** $730.97 · **High-demand under $2,500:** 493
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/sector/travel`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| air.realty    | available | $109.99   | $299          | high           | medium | 3      | namesilo        |
-| air.holiday   | resell    | —         | —             | high           | medium | 3      | Porkbun LLC     |
-| air.reise     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap       |
-| air.viajes    | available | $37.99    | $37.99        | high           | medium | 3      | namesilo        |
-| host.travel   | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc     |
-| air.reisen    | premium   | $26       | $26           | high           | medium | 3      | namecheap       |
-| bag.voyage    | available | $9.99     | —             | high           | low    | 3      | name.com        |
-| room.cx       | resell    | —         | —             | high           | low    | 4      | CentralNic Ltd  |
-| air.vacations | premium   | $260      | $260          | high           | medium | 3      | namecheap       |
-| bed.holiday   | available | $9.99     | —             | high           | low    | 3      | name.com        |
-| room.engineer | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc     |
-| air.voyage    | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap       |
-| bed.reise     | available | $27.89    | $97.99        | high           | low    | 3      | namesilo        |
-| room.guide    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC     |
-| bed.flights   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| bed.tours     | available | $9.99     | —             | high           | low    | 3      | name.com        |
-| room.tours    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
-| bed.reisen    | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo        |
-| bed.travel    | available | $39.99    | —             | high           | low    | 3      | name.com        |
-| ship.domains  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| travel.sh     | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                          |
+| air.realty    | available | $109.99   | $299          | high           | medium | 3      | namesilo                                                  |
+| house.travel  | resell    | $39.99    | —             | high           | medium | 5      | Porkbun LLC                                               |
+| air.reise     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
+| air.viajes    | available | $37.99    | $37.99        | high           | medium | 3      | namesilo                                                  |
+| air.holiday   | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| air.reisen    | premium   | $26       | $26           | high           | medium | 3      | namecheap                                                 |
+| bag.voyage    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| map.tours     | resell    | —         | —             | high           | low    | 3      | Network Solutions, LLC                                    |
+| air.vacations | premium   | $260      | $260          | high           | medium | 3      | namecheap                                                 |
+| bed.holiday   | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| map.vacations | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| air.voyage    | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                                                 |
+| bed.reise     | available | $27.89    | $97.99        | high           | low    | 3      | namesilo                                                  |
+| book.travel   | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
+| bag.reisen    | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo                                                  |
+| bed.tours     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| book.voyage   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
+| bed.flights   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| bed.travel    | available | $39.99    | —             | high           | low    | 3      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 196,604 live domains                       |
+| 1,000-row public sample | 196,924 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 493 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Travel Domain Names Across 506+ TLDs*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Travel Domain Names Across 506+ TLDs*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
