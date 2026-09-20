@@ -1,10 +1,10 @@
-# One-Word Travel Domain Names Across 506+ TLDs (79,681)
+# One-Word Travel Domain Names Across 506+ TLDs (80,419)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-79%2C681%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-80%2C419%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word travel domain names spanning 506+ different TLDs, with a median asking price near $862. Updated daily, it covers everything from niche extensions to classic formats, making it easy to compare pricing and brandability across a wide range of travel-related one-word domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **79,681 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **80,419 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 79,681 domains · **Median ask:** $691.57 · **High-demand under $2,500:** 182
+**Public extract:** 1,000 rows · **Live catalog:** 80,419 domains · **Median ask:** $696.65 · **High-demand under $2,500:** 131
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/sector/travel`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| travel.sh         | resell    | —           | —             | high           | medium | 6      | GoDaddy.com, LLC                                          |
-| travel.industries | premium   | $520        | $520          | high           | medium | 6      | namecheap                                                 |
-| trip.barcelona    | available | $38.98      | —             | high           | low    | 4      | namecheap                                                 |
-| travel.now        | resell    | $3,125      | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| trip.autos        | premium   | $845        | $15.73        | high           | low    | 4      | namecheap                                                 |
-| trip.codes        | available | $11.99      | —             | high           | low    | 4      | name.com                                                  |
-| trip.business     | resell    | —           | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| trip.baby         | premium   | $650        | $65           | high           | low    | 4      | namecheap                                                 |
-| trip.credit       | available | $11.99      | —             | high           | low    | 4      | name.com                                                  |
-| trip.fast         | resell    | —           | —             | high           | low    | 4      | Dynadot, LLC                                              |
-| trip.beauty       | premium   | $2,600      | $15.73        | high           | low    | 4      | namecheap                                                 |
-| trip.dance        | available | $17.99      | —             | high           | low    | 4      | name.com                                                  |
-| trip.holiday      | resell    | —           | —             | medium         | low    | 4      | Sav.com, LLC - 8                                          |
-| trip.boats        | premium   | $845        | $15.73        | high           | low    | 4      | namecheap                                                 |
-| trip.doctor       | available | $14.99      | —             | high           | low    | 4      | name.com                                                  |
-| trip.la           | resell    | —           | —             | high           | low    | 4      | West263 International Limited                             |
-| trip.buzz         | premium   | $3,553.50   | —             | high           | low    | 4      | name.com                                                  |
-| trip.gripe        | available | $6.99       | $6.99         | high           | low    | 4      | namesilo                                                  |
-| trip.so           | resell    | —           | —             | high           | low    | 4      | NameCheap                                                 |
-| trip.cloud        | premium   | $415,262.01 | —             | high           | low    | 4      | GoDaddy                                                   |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| travel.sh         | resell    | —          | —             | high           | medium | 6      | GoDaddy.com, LLC                                          |
+| travel.industries | premium   | $520       | $520          | high           | medium | 6      | namecheap                                                 |
+| room.cheap        | available | $5.98      | $49.98        | medium         | low    | 4      | namecheap                                                 |
+| travel.now        | resell    | $3,125     | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| ship.meme         | premium   | $187.50    | —             | high           | low    | 4      | name.com                                                  |
+| flyer.viajes      | available | $37.99     | $37.99        | medium         | low    | 5      | namesilo                                                  |
+| holidays.media    | resell    | $7.99      | —             | medium         | low    | 8      | name.com                                                  |
+| trip.mobile       | premium   | $1,300     | $1,300        | medium         | low    | 4      | namecheap                                                 |
+| guide.clothing    | available | $19.99     | —             | high           | low    | 5      | name.com                                                  |
+| destination.bot   | resell    | $78.98     | —             | high           | low    | 11     | Dynadot, LLC                                              |
+| tours.shop        | premium   | $1,107     | $1,107        | high           | low    | 5      | namesilo                                                  |
+| guide.forex       | available | $19.99     | —             | high           | low    | 5      | name.com                                                  |
+| destination.pw    | resell    | $20.48     | —             | high           | low    | 11     | namecheap                                                 |
+| world.stream      | premium   | $35,520.79 | —             | high           | medium | 5      | NameSilo, LLC                                             |
+| price.ryukyu      | available | $22.98     | —             | medium         | low    | 5      | namecheap                                                 |
+| live.place        | resell    | —          | —             | high           | medium | 4      | Porkbun LLC                                               |
+| rental.condos     | premium   | $854       | $854          | medium         | low    | 6      | namesilo                                                  |
+| lodged.it         | available | $25.99     | —             | medium         | low    | 6      | name.com                                                  |
+| tour.shopping     | resell    | —          | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| survey.my         | premium   | $68.74     | —             | high           | low    | 6      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 79,681 live domains                        |
+| 1,000-row public sample | 80,419 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 182 high-demand names under $2,500         |
+| Basic exported fields   | 131 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Travel Domain Names Across 506+ TLDs*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Travel Domain Names Across 506+ TLDs*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
