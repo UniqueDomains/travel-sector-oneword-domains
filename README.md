@@ -1,10 +1,10 @@
-# One-Word Travel Domain Names Across 506+ TLDs (57,669)
+# One-Word Travel Domain Names Across 506+ TLDs (51,979)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-57%2C669%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-51%2C979%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated set of one-word travel domain names spanning 506+ different TLDs, with a median asking price near $862. Updated daily, it covers everything from niche extensions to classic formats, making it easy to compare pricing and brandability across a wide range of travel-related one-word domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **57,669 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **51,979 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 57,669 domains · **Median ask:** $558.58 · **High-demand under $2,500:** 102
+**Public extract:** 1,000 rows · **Live catalog:** 51,979 domains · **Median ask:** $499.79 · **High-demand under $2,500:** 92
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/travel`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| travel.sh        | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                          |
-| trip.adult       | available | $69.98    | $166.98       | high           | low    | 4      | namecheap                                                 |
-| trip.accountants | available | $117.99   | $117.99       | high           | low    | 4      | namesilo                                                  |
-| trip.farm        | resell    | $49.98    | —             | high           | low    | 4      | Spaceship, Inc.                                           |
-| tour.flights     | premium   | $520      | $520          | high           | low    | 4      | namecheap                                                 |
-| trip.actor       | available | $9.48     | $54.98        | high           | low    | 4      | namecheap                                                 |
-| trip.onl         | resell    | $28.98    | —             | high           | low    | 4      | Dynadot Inc                                               |
-| tour.reise       | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap                                                 |
-| travel.now       | resell    | $3,125    | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| tour.reisen      | premium   | $520      | $520          | high           | low    | 4      | namecheap                                                 |
-| trip.airforce    | available | $103.99   | $103.99       | high           | low    | 4      | namesilo                                                  |
-| trip.academy     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| tour.vacations   | premium   | $1,040    | $1,040        | high           | low    | 4      | namecheap                                                 |
-| trip.apartments  | available | $57.99    | $57.99        | high           | low    | 4      | namesilo                                                  |
-| trip.agency      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
-| tour.viajes      | premium   | $260      | $260          | high           | low    | 4      | namecheap                                                 |
-| trip.archi       | available | $14.98    | $132.98       | high           | low    | 4      | namecheap                                                 |
-| trip.bar         | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC                                              |
-| tour.voyage      | premium   | $85.80    | $85.80        | high           | low    | 4      | namecheap                                                 |
-| trip.army        | available | $17.48    | $48.98        | high           | low    | 4      | namecheap                                                 |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| expedition.zip      | premium   | $37.70    | $37.70        | high           | low    | 10     | namecheap        |
+| expedition.airforce | available | $103.99   | $103.99       | high           | low    | 10     | namesilo         |
+| trip.adult          | available | $69.98    | $166.98       | high           | low    | 4      | namecheap        |
+| trip.accountants    | available | $117.99   | $117.99       | high           | low    | 4      | namesilo         |
+| trip.farm           | resell    | $49.98    | —             | high           | low    | 4      | Spaceship, Inc.  |
+| trip.accountant     | premium   | $448      | $53.92        | high           | low    | 4      | namesilo         |
+| trip.actor          | available | $9.48     | $54.98        | high           | low    | 4      | namecheap        |
+| trip.onl            | resell    | $28.98    | —             | high           | low    | 4      | Dynadot Inc      |
+| trip.art            | premium   | $3,450    | $83.30        | high           | low    | 4      | namesilo         |
+| trip.academy        | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| trip.auction        | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
+| trip.airforce       | available | $103.99   | $103.99       | high           | low    | 4      | namesilo         |
+| trip.bar            | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC     |
+| trip.autos          | premium   | $845      | $15.73        | high           | low    | 4      | namecheap        |
+| trip.apartments     | available | $57.99    | $57.99        | high           | low    | 4      | namesilo         |
+| trip.bayern         | resell    | —         | —             | high           | low    | 4      | Key-Systems, LLC |
+| trip.baby           | premium   | $650      | $65           | high           | low    | 4      | namecheap        |
+| trip.archi          | available | $14.98    | $132.98       | high           | low    | 4      | namecheap        |
+| trip.business       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| trip.beauty         | premium   | $2,600    | $15.73        | high           | low    | 4      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 57,669 live domains                        |
+| 1,000-row public sample | 51,979 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 102 high-demand names under $2,500         |
+| Basic exported fields   | 92 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
