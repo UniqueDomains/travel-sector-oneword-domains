@@ -1,10 +1,10 @@
-# One-Word Travel Domain Names Across 506+ TLDs (97,514)
+# One-Word Travel Domain Names Across 506+ TLDs (99,115)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-97%2C514%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-99%2C115%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word travel domain names spanning 506+ different TLDs, with a median asking price near $862. Updated daily, it covers everything from niche extensions to classic formats, making it easy to compare pricing and brandability across a wide range of travel-related one-word domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **97,514 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **99,115 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 97,514 domains · **Median ask:** $500.19 · **High-demand under $2,500:** 557
+**Public extract:** 1,000 rows · **Live catalog:** 99,115 domains · **Median ask:** $491.58 · **High-demand under $2,500:** 546
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/sector/travel`
 **Best for:** founders, investors, studios
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 97,514 live domains                        |
+| 1,000-row public sample | 99,115 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 557 high-demand names under $2,500         |
+| Basic exported fields   | 546 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Travel Domain Names Across 506+ TLDs*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Travel Domain Names Across 506+ TLDs*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
