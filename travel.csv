@@ -1,65 +1,17 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 77d16b55-aab1-4662-a7cd-19acccc03872,travel.tours,resell,,,high,medium,6,"GoDaddy.com, LLC",03/07/2015 23:51,03/07/2027 23:51,26/09/2026 09:44
-ff4cd1dc-95bc-4bf1-ae2f-2992a5a0f79b,travel.immo,premium,260,260,high,medium,6,namecheap,,,24/09/2026 22:30
-67e4e20e-fd6c-4757-8014-2ffaa4950dbe,travel.estate,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
-abe6700a-f193-40fc-870c-9a98c46b92df,travel.irish,resell,,,high,medium,6,Dynadot Inc,19/05/2022 17:00,19/05/2027 17:00,26/09/2026 09:44
-bb276652-5484-4fdd-8480-34aaaa509fef,travel.airforce,available,103.99,103.99,high,medium,6,namesilo,,,24/09/2026 22:30
-7aeaa1cf-017f-4b09-ac77-f8f7cc3133bd,travel.moi,premium,640,640,high,medium,6,namesilo,,,24/09/2026 22:30
-fe9c026c-a9af-42ae-b52d-512f998ea686,travel.software,premium,3450,3450,high,medium,6,namesilo,,,24/09/2026 22:30
-8e0a96ff-35bf-4d78-88dc-ab666a71d8b4,travel.audio,available,104.99,114.99,high,medium,6,namesilo,,,24/09/2026 22:30
-eadc5694-40de-4831-bc85-5954d83fdcfe,travel.condos,premium,1040,1040,high,medium,6,namecheap,,,24/09/2026 22:30
-b0cf38ec-e31f-4eb4-b353-3c417bf86f4d,travel.university,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-36e0c46b-27bc-43a5-ada3-e4b12d65d2ec,travel.loan,premium,13800,116,high,medium,6,namesilo,,,24/09/2026 22:30
-4769d405-4356-4de8-a7c0-8e68e43dc547,travel.uno,premium,6900,6900,high,medium,6,namesilo,,,24/09/2026 22:30
-ac5e315b-5bd0-46b1-84c2-9d238c53d8cb,travel.cleaning,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-ee39a646-9495-4935-b901-2e58953498f6,travel.club,resell,,,high,medium,6,Porkbun,13/01/2015 20:51,12/01/2035 23:59,26/09/2026 09:44
-75c6b2df-3431-4208-bbcb-38e7633209da,travel.vodka,premium,260,32.5,high,medium,6,namecheap,,,24/09/2026 22:30
 2d497045-4414-4f9c-9f3d-6c7626ae4eba,travel.lifestyle,premium,1820,2600,high,medium,6,namecheap,,,24/09/2026 22:30
-6f526375-7327-4912-beba-f0ba2f38765f,travel.prof,premium,1688.7,1688.7,high,medium,6,namecheap,,,24/09/2026 22:30
-6b55b113-fd31-44ad-9c06-37fb128e6b6d,travel.vana,available,2298,2498,high,medium,6,namecheap,,,24/09/2026 22:30
-15259949-b17d-4dfc-922e-399c54249b89,travel.attorney,premium,1107,1107,high,medium,6,namesilo,,,24/09/2026 22:30
-ea93a49d-295a-4c27-addd-67e029f8219b,travel.llc,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
-07da0255-cba4-4744-a8a9-e2730d7a4e28,travel.schule,premium,1040,1040,high,medium,6,namecheap,,,24/09/2026 22:30
-dce85ea8-6023-440e-8ebe-4a1dc04a9939,travel.school,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-7a9e3147-7431-4f1d-83a6-773b84fb0689,travel.supplies,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-01b7d792-fd4e-4e97-a431-32af2b37d498,travel.tires,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-81d181f0-e269-44af-bb38-0af271459578,travel.love,premium,8280,8280,high,medium,6,namesilo,,,24/09/2026 22:30
-8a494c3e-5d17-46cd-aa3f-a9a949eac192,travel.cricket,premium,3450,116,high,medium,6,namesilo,,,24/09/2026 22:30
-17180421-4406-4c27-97f6-3a7b62614500,travel.cash,resell,,,high,medium,6,GoDaddy Online Services Cayman Islands Ltd.,30/08/2015 18:05,30/08/2027 18:05,26/09/2026 09:44
 7c6cf022-7b58-4aec-9576-64321e93d04b,travel.reise,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-e34b37ec-840b-4501-a422-40aec164eb7c,travel.church,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-65961efa-565f-49b0-a145-a59b7736a5cf,travel.free,premium,6900,6900,high,medium,6,namesilo,,,24/09/2026 22:30
-73c5907f-fdcc-4f02-a9ac-06e7c153fe16,travel.study,premium,242,242,high,medium,6,namesilo,,,24/09/2026 22:30
 d2911c27-1131-4ed8-9cf2-05e4065b2f5e,travel.apartments,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-34f5ce59-07d7-4831-b252-c97ae2679308,travel.charity,available,7.48,37.98,high,medium,6,namecheap,,,24/09/2026 22:30
-a8ff0b60-c109-48b6-ada7-e783cacbd283,travel.garden,premium,5200,32.5,high,medium,6,namecheap,,,24/09/2026 22:30
-d735889c-9837-4224-959a-18a31772ade6,travel.lease,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-70ed1d6e-5edf-451f-ba39-151ae82d63ba,travel.watch,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-f2b2e25f-35ab-4824-8243-3f5789a193f0,travel.hair,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
-95303d94-1263-4281-b75b-03f03c34aa39,travel.film,premium,1107,1107,high,medium,6,namesilo,,,24/09/2026 22:30
-0e227124-53f9-4b11-90f6-c1485679e93c,travel.wtf,resell,,,high,medium,6,"Spaceship, Inc.",27/09/2023 00:24,27/09/2027 00:24,01/10/2026 06:52
-ec2513e1-1d6c-4d7d-8cb0-3d1e94917579,travel.salon,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-7cf9eb3b-ce92-43e4-816a-8f4bc05b0b3b,travel.actor,available,16.99,44.49,high,medium,6,namesilo,,,24/09/2026 22:30
 1ba6fd0f-35c6-4bd2-95b2-3b868a7e609c,travel.maison,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
-a2153e41-439a-4d24-a3df-f035b56c8b5f,travel.rsvp,premium,1298.7,1298.7,high,medium,6,namecheap,,,24/09/2026 22:30
 0b1128cf-2550-4559-b1e4-d805c8ba3696,travel.sh,resell,,,high,medium,6,"GoDaddy.com, LLC",13/07/2016 00:30,13/07/2027 00:30,26/09/2026 09:44
 274d4f25-39d2-4a51-9234-ef89b92de7f8,travel.cc,resell,,,high,medium,6,"22net, Inc.",12/10/2000 04:00,12/10/2027 04:00,26/09/2026 09:44
-2ac37dc4-6295-47e2-8d18-d70f2a163283,travel.hockey,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-1b9a0325-6abc-4bc5-9bb1-86a40200494b,travel.webcam,premium,3450,116,high,medium,6,namesilo,,,24/09/2026 22:30
 20d6033e-847c-4494-a474-502921ebe1cd,travel.living,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
-e9043a83-b2f4-4b68-a57b-bb58afea5b3e,travel.foo,premium,1298.7,1298.7,high,medium,6,namecheap,,,24/09/2026 22:30
-056757d0-2504-4423-96a4-19828266fe49,travel.democrat,available,7.25,32.99,high,medium,6,namesilo,,,24/09/2026 22:30
-07c22ce9-e8c1-4dc1-b6eb-48f2ab412ece,travel.security,available,1999.99,2049.99,high,medium,6,namesilo,,,24/09/2026 22:30
-9c08750c-e168-42bb-b0fb-7d1a6c0f9b52,travel.video,premium,3450,3450,high,medium,6,namesilo,,,24/09/2026 22:30
-8ddccc43-30f0-441e-a25c-7e6b76ce94e5,travel.rehab,premium,242,242,high,medium,6,namesilo,,,24/09/2026 22:30
-92d28c1b-136b-499b-8653-c67fa02d97c6,travel.hosting,available,309.99,429.99,high,medium,6,namesilo,,,24/09/2026 22:30
-ec6764e4-bcfa-4b5e-bdf3-f7e6891d540b,travel.productions,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
 52689d1c-e889-487e-b85e-6ceb0f28ee65,travel.quest,premium,10400,10400,high,medium,6,namecheap,,,24/09/2026 22:30
 9ce7c774-c739-4621-89c4-3f93182c8af0,travel.store,premium,3250,13000,high,medium,6,namecheap,,,24/09/2026 22:30
 32a3010e-436a-4634-b25b-e08105d437c5,travel.shopping,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
 a809240a-eead-435d-aea2-1bafc875e7de,travel.autos,resell,,,high,medium,6,"Spaceship, Inc.",23/07/2021 14:35,23/07/2027 23:59,26/09/2026 09:44
 27b31073-00d5-4602-8ea2-ee33a82ebf2b,travel.bingo,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-f977a500-4c16-41ef-88ef-62c3966a5ee6,journey.viajes,available,37.99,37.99,high,medium,7,namesilo,,,30/09/2026 00:58
 0a1feada-c878-4a8f-b4ff-b675d73a7495,travel.shiksha,available,14.99,51.99,high,medium,6,namesilo,,,24/09/2026 22:30
 fd4d6ccb-10cf-4b20-8524-07e453f42157,travel.recipes,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
 dd31a6b5-5238-42e4-b291-32ce1a31b9e4,travel.auto,available,1999.99,2199,high,medium,6,namesilo,,,24/09/2026 22:30
@@ -83,10 +35,8 @@ cb8b2fa3-7306-4117-9a8f-99df5211ce5d,travel.berlin,resell,,,high,medium,6,,27/11
 cd7e4474-8be1-4511-b270-e37b44fc7304,travel.mba,premium,242,242,high,medium,6,namesilo,,,24/09/2026 22:30
 e96bd7d6-382b-4ac1-a289-166569c148f0,travel.protection,available,2070,2950,high,medium,6,namecheap,,,24/09/2026 22:30
 188c9064-6959-41bb-aaec-2a368380d525,travel.contractors,premium,128.7,128.7,high,medium,6,namecheap,,,24/09/2026 22:30
-094ca6ba-5200-4a53-b712-43bcc889beac,journey.holiday,resell,,,high,medium,7,Porkbun LLC,19/01/2026 22:19,19/01/2027 22:19,30/09/2026 00:58
 01732049-b017-4667-acd0-e2773119da5d,travel.cfd,premium,384,768,high,medium,6,namesilo,,,24/09/2026 22:30
 677b7e2f-5078-4142-9164-121836ef3f0a,travel.careers,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-d8932d2b-98c7-423f-b21d-e191e6613a43,travel.ing,premium,31050.2,31050.2,high,low,6,spaceship,,,30/09/2026 13:48
 6cd6caff-3527-433b-b651-5d6acd101561,travel.beauty,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
 3a41cf4a-cb7e-4588-828b-9e25f02ef0da,travel.space,premium,6900,6900,high,medium,6,namesilo,,,24/09/2026 22:30
 517b4cfc-8293-4049-9445-7233d3d666f9,travel.gay,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
@@ -108,7 +58,6 @@ e6d6f81e-7846-4006-8b8d-f4b537cd4902,travel.build,premium,650,650,high,medium,6,
 a4b1b2d3-3c6f-481d-a3a6-c24641e7345e,travel.dealer,premium,4278,2660,high,medium,6,namesilo,,,24/09/2026 22:30
 67b5b7c8-e75f-4363-ab92-2d8e722f2b77,travel.computer,premium,85.8,85.8,high,medium,6,namecheap,,,24/09/2026 22:30
 3d20bbcd-7419-4bd7-90e8-3d6afaa66d10,travel.camera,premium,242,242,high,medium,6,namesilo,,,24/09/2026 22:30
-0c868010-55ea-4bb6-b407-af1a98b747a9,trip.flights,premium,242,242,high,low,4,namesilo,,,08/09/2026 04:57
 a42e2b3a-952f-4c9a-8de6-1a8173108a88,travel.xyz,premium,13800,13800,high,medium,6,namesilo,,,24/09/2026 22:30
 7f0f2fc0-39bf-4eee-b34d-8aadeb93c788,travel.world,resell,,,high,medium,6,"GoDaddy.com, LLC",09/01/2015 16:00,09/01/2027 16:00,26/09/2026 09:44
 06526ed8-73d6-4e2a-8a61-a2b15865ae0f,travel.fail,premium,260,260,high,medium,6,namecheap,,,24/09/2026 22:30
@@ -135,7 +84,6 @@ eb8de7ae-c693-45cd-a1c0-7fd3be67070d,travel.dad,premium,1298.7,1298.7,high,mediu
 3e56402d-bd91-4c59-971b-a0f1aa12e15b,travel.rent,premium,650,650,high,medium,6,namecheap,,,24/09/2026 22:30
 068e3daa-d0bb-4881-b97c-c632945f69bf,travel.family,premium,1300,1300,high,medium,6,namecheap,,,24/09/2026 22:30
 31d6557a-7797-4787-a3e9-eddaf7d68d85,travel.degree,available,52.99,52.99,high,medium,6,namesilo,,,24/09/2026 22:30
-8c857071-5b5c-4330-a96d-72823e1e1d75,trip.reise,premium,242,242,high,low,4,namesilo,,,08/09/2026 04:57
 ce26d126-9cb2-4b42-9289-024bd6e4ba05,travel.wedding,premium,2660,29.5,high,medium,6,namesilo,,,24/09/2026 22:30
 6b7704ff-b8dd-48e8-8b76-0d37d86c945f,travel.one,premium,6900,6900,high,medium,6,namesilo,,,24/09/2026 22:30
 d7ce4182-b043-4a00-b176-1be4948fc2af,travel.lat,resell,,,high,medium,6,"Soluciones Corporativas IP, SL",31/07/2015 14:31,31/07/2027 23:59,26/09/2026 09:44
@@ -184,8 +132,6 @@ fd5df987-4506-4005-8cff-89268dae8f36,travel.locker,premium,1654.52,8.8,high,medi
 a2d4272b-61bd-4951-ace4-b411a3beb318,travel.shoes,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
 62625f21-843f-4e10-be6e-695da71a4352,travel.realty,premium,3450,3450,high,medium,6,namesilo,,,24/09/2026 22:30
 5b5edd42-2151-4a74-95ca-8d0c6eb56db3,travel.legal,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-9affafbf-d881-4e1b-adaf-ce6413b15e6e,journey.us,resell,,,high,medium,7,TLD Registrar Solutions Ltd.,24/04/2002 14:18,23/04/2027 23:59,30/09/2026 00:58
-d9a773dd-4d55-4e61-b24f-b33459931d35,journey.condos,available,46.78,46.78,high,medium,7,spaceship,,,30/09/2026 00:58
 180c4304-580c-4272-a845-8a080537831b,travel.investments,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
 809fa88a-8d10-42ef-9eb2-34609a39b2b0,travel.flowers,available,64.99,114.99,high,medium,6,namesilo,,,24/09/2026 22:30
 0f8fabcb-abbc-4759-9797-cd8b24b39bcb,travel.app,resell,,,high,medium,6,"Global Domains International, Inc. DBA DomainCostClub.com",18/07/2023 09:52,18/07/2027 09:52,26/09/2026 09:44
@@ -200,252 +146,129 @@ e9ab635b-c112-40ff-a8dd-f4e1b8195d42,travel.plumbing,premium,512,512,high,medium
 39ad6d1f-08a2-4aa7-8566-dc8bb9bf6c88,travel.men,premium,448,53.92,high,medium,6,namesilo,,,24/09/2026 22:30
 80dc6494-f774-421a-b72c-f2727be995f8,travel.tienda,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
 a498cdcd-508e-4b20-95b4-3291f094c34e,travel.cars,available,2070,2950,high,medium,6,namecheap,,,24/09/2026 22:30
-39c99b45-3087-47c1-90a4-d83b00258e9f,journey.host,premium,650,1300,high,medium,7,namecheap,,,30/09/2026 00:58
-4f4a1ae4-2970-4899-b8ea-3750f430e6bc,journey.finance,resell,,,high,medium,7,"Sav.com, LLC - 28",27/08/2025 15:15,27/08/2027 15:15,30/09/2026 00:58
-6ca70aa1-ea39-4049-b30e-ba8b66211ac6,journey.motorcycles,available,1.54,14.21,high,medium,7,porkbun,,,30/09/2026 00:58
 34fd69f2-92cc-4d9d-bb50-50bc15ac10bc,travel.enterprises,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
 f1a61c7b-bba2-44cb-a678-ec5d48a44e88,travel.deal,premium,13800,13800,high,medium,6,namesilo,,,24/09/2026 22:30
 9dff3231-479e-4151-8ccb-7a50d754cfda,travel.energy,premium,1040,1040,high,medium,6,namecheap,,,24/09/2026 22:30
-7e248bc4-f6e7-482b-a3ab-a4132629a053,tourism.reise,available,102.98,127.98,high,low,7,namecheap,,,29/09/2026 20:31
 d70f8796-937f-4ab6-b431-3260d7a9a29f,travel.rentals,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
 8060872f-71ae-4ace-adf1-00918c47bb12,travel.place,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-6d0767f4-97bf-44af-8043-abea0a5684a2,journey.bingo,available,41.2,41.2,high,medium,7,cloudflare,,,30/09/2026 00:58
-7612cb88-f6ac-4568-bcb4-8975d4357b70,journey.industries,available,36.43,36.43,high,medium,7,spaceship,,,30/09/2026 00:58
-b26c4570-b6c4-4f2f-951f-121cf93e4e4a,journey.bar,premium,230.4,230.4,high,medium,7,namesilo,,,30/09/2026 00:58
 250e242f-44b1-4c2d-8e97-983c71da4abb,travel.jewelry,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
-187c37c4-6339-4fc0-b4aa-a45285932229,journey.ltda,premium,52.8,30.18,high,medium,7,dynadot,,,30/09/2026 00:58
-2fb6b288-1bf2-4f2c-87f1-929736536fec,journey.taxi,available,48.2,48.2,high,medium,7,cloudflare,,,30/09/2026 00:58
-e44bb468-2e7a-4ddf-b37e-7e9274af6562,journey.sh,resell,,,high,medium,7,Porkbun LLC,09/08/2022 23:04,09/08/2027 23:04,30/09/2026 00:58
 1888a481-21c8-4085-b2b6-665adfdb6d45,travel.boo,premium,1298.7,1298.7,high,medium,6,namecheap,,,24/09/2026 22:30
-4412bb35-cfb7-420c-a313-b0513746a013,journey.country,available,2064.2,2064.2,high,medium,7,spaceship,,,30/09/2026 00:58
-d016f11d-42a7-4c6e-aeea-3c05ae5badaf,journey.locker,premium,159.23,8.8,high,medium,7,namesilo,,,30/09/2026 00:58
-29b57e02-9ba6-4547-a325-ec083a9c5cf1,journey.rent,available,10.5,53.72,high,medium,7,dynadot,,,30/09/2026 00:58
 06b58040-78dd-4e6e-ba5e-76f589e51d26,travel.casino,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-34038cb1-5969-4ad6-bfeb-5ad914c61159,journey.lat,resell,,,high,medium,7,"Spaceship, Inc.",29/12/2025 01:03,29/12/2026 23:59,30/09/2026 00:58
-07e0d930-6307-4c6c-b9ee-b04997c32e0b,journey.vet,available,33.47,33.47,high,medium,7,porkbun,,,30/09/2026 00:58
 1fb86341-9be8-43a5-8957-fee9cd454fa7,travel.surgery,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
 9d144d1c-b602-4e2c-bb76-091fda5d8c0a,travel.coupons,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
 062fa79e-434a-4328-9402-92e817c096af,travel.forex,resell,,,high,medium,6,Porkbun LLC,20/09/2022 12:07,20/09/2027 12:07,27/09/2026 06:33
 abf3fd8f-201e-4fb3-9536-57ff247a60c0,travel.furniture,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-995db650-0b4c-452a-88d3-17a097056621,journey.democrat,available,7.25,32.99,high,medium,7,namesilo,,,30/09/2026 00:58
-5dfca79c-b45d-497d-8ea8-a9b144f5195c,journey.construction,available,31.25,31.25,high,medium,7,spaceship,,,30/09/2026 00:58
 c0840bcb-8e76-446b-94e4-9c54b06884f2,travel.academy,resell,,,high,medium,6,"Sav.com, LLC",19/03/2014 19:08,19/03/2027 19:08,26/09/2026 09:44
-42f5bdf2-b26c-4fbc-bd20-37a9b3fd76f1,trip.miami,premium,96,21.24,high,low,4,namesilo,,,08/09/2026 04:57
 0d9964be-9162-4740-a3e5-dba48da75d98,travel.science,premium,640,77.35,high,medium,6,namesilo,,,24/09/2026 22:30
 4a50e487-dd03-4e61-a27a-f921902fb798,travel.team,resell,,,high,medium,6,"Spaceship, Inc.",04/04/2025 15:15,04/04/2027 15:15,26/09/2026 09:44
-b0cfb5ea-b98b-46fc-b4c3-9a9af8e49c9a,journey.observer,premium,29.5,29.5,high,medium,7,namesilo,,,30/09/2026 00:58
-c0b71097-3c06-429a-8113-c76bf6fd1aaf,journey.chat,resell,,,high,medium,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),02/08/2023 15:15,02/08/2027 15:15,30/09/2026 00:58
-bb8bc0c4-0ff3-49b1-a85e-e1df8444189a,journey.shoes,available,21.11,52.01,high,medium,7,porkbun,,,30/09/2026 00:58
-f723a1c9-0bef-48fd-924a-71b3fdadd3cb,journey.sbs,premium,192,384,high,medium,7,namesilo,,,30/09/2026 00:58
 37862ecb-dc53-4ab8-ad78-17f8ebb42637,travel.skin,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
 75b428ae-a6ab-445c-8d13-cfbb5fdce4b3,travel.fit,premium,5200,32.5,high,medium,6,namecheap,,,24/09/2026 22:30
-8bf5b9a0-3f89-4f80-b7e4-519f75358e6e,journey.run,resell,,,high,medium,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),18/07/2018 11:19,18/07/2027 11:19,30/09/2026 00:58
-e5e76ae8-76aa-4533-a4a9-3cd04a2cd61a,journey.space,premium,2587.7,10350.2,high,medium,7,spaceship,,,30/09/2026 00:58
-ff2f1ae6-3f5b-4cff-a10f-4c6053c147cb,journey.technology,resell,,,high,medium,7,"Spaceship, Inc.",02/09/2026 17:01,02/09/2027 17:01,30/09/2026 00:58
 8d77e339-dda8-49bb-b9e4-fd66950b8242,travel.haus,resell,,,high,medium,6,"GoDaddy.com, LLC",16/07/2016 15:16,16/07/2027 15:16,26/09/2026 09:44
-3e4274ce-354e-4263-8598-791681b7c617,trip.quest,premium,845,15.73,high,low,4,namecheap,,,
-70bb68d3-fc74-4131-8903-85b82ff23ca2,journey.design,premium,116,116,high,medium,7,namesilo,,,30/09/2026 00:58
-b974b291-ea7b-4761-b950-dd2423fa62ba,trip.cx,resell,,,high,low,4,CentralNic Ltd,07/05/2015 15:26,07/05/2027 15:26,26/09/2026 09:46
 7008ec0a-b6d3-4f1a-a79e-bc84e92cca18,journey.reisen,available,3.99,20.99,high,medium,7,namesilo,,,30/09/2026 00:58
-38a00eac-d955-47c2-bffe-26cc9eca7af1,journey.loan,premium,437.5,,high,medium,7,name.com,,,30/09/2026 00:58
-86ae07ff-98a9-4c53-b4d3-43c00c2a6272,trip.so,resell,,,high,low,4,NameCheap,08/09/2021 05:01,08/09/2025 05:01,
-1ba29166-8369-4c58-bf13-8dae79fc6739,journey.ski,premium,102.67,102.67,high,medium,7,spaceship,,,30/09/2026 00:58
 204a1212-049d-490c-853f-b07cb84c064e,travel.zip,premium,1298.7,1298.7,high,medium,6,namecheap,,,24/09/2026 22:30
 19482052-84c9-4c60-9f85-31b6448ebc39,travel.green,premium,1995,1995,high,medium,6,namesilo,,,24/09/2026 22:30
 6f570d4b-fb19-48ba-8e72-94cc034a7f7c,travel.horse,premium,242,29.5,high,medium,6,namesilo,,,24/09/2026 22:30
 8e73c4cd-3c08-4138-ae0a-8e234f0e4656,travel.phd,premium,1688.7,1688.7,high,medium,6,namecheap,,,24/09/2026 22:30
-74b68627-0124-489a-9dcd-ec35307e8261,journey.broker,available,10.55,29.18,high,medium,7,spaceship,,,30/09/2026 00:58
-2ba75ac1-7df6-4183-b5a2-93d5994ddae5,trip.ski,premium,6514.75,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",15/04/2025 15:15,15/04/2027 15:15,
-7ba3f4f2-3bc9-4d3a-96a4-f33849805bdb,trip.photos,resell,,,high,low,4,"GoDaddy.com, LLC",11/12/2017 20:23,11/12/2026 20:23,26/09/2026 09:46
-fb02df51-1852-42dc-ba6a-58e7cb48fca1,trip.immo,available,34.99,34.99,high,low,4,namesilo,,,08/09/2026 04:57
+ff4cd1dc-95bc-4bf1-ae2f-2992a5a0f79b,travel.immo,premium,260,260,high,medium,6,namecheap,,,24/09/2026 22:30
 16c41104-3950-4846-9658-77c57679cbde,travel.construction,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
 a09e1fb4-1514-4638-8274-b0baed4f0290,travel.kim,premium,5520,5520,high,medium,6,namesilo,,,24/09/2026 22:30
-d1b51922-8d5a-45ba-b1cb-b285c0672783,journey.ngo,premium,55,27.5,high,medium,7,dynadot,,,30/09/2026 00:58
-f7a92893-b590-4f77-b2de-0a6937c81aed,journey.ong,premium,55,27.5,high,medium,7,dynadot,,,30/09/2026 00:58
 f3e7ecf9-c1dd-4a2d-a7e2-bb95e40a2c73,travel.financial,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
 d5dd25ac-2427-4149-8121-102d8edca709,travel.ltda,premium,56.64,33.04,high,medium,6,namesilo,,,24/09/2026 22:30
-2fbea6e7-6408-4939-8dd1-05f1bb556960,journey.mba,available,10.55,31.25,high,medium,7,spaceship,,,30/09/2026 00:58
 3256e96d-5a5f-4285-8c64-4f32cb757e95,travel.discount,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-d52d1b5c-32fc-45ee-8d37-cfc171dd77bd,journey.solutions,resell,,,high,medium,7,UM DOMAINS PTE. LTD,28/08/2026 15:16,28/08/2027 15:16,30/09/2026 00:58
-6cecd91a-c73e-41de-9894-54882a8cbbbd,trip.estate,available,6.98,52.98,high,low,4,namecheap,,,08/09/2026 04:57
-4e307ea8-ee0a-4504-b18c-7873164c9bbd,journey.photo,premium,103.7,103.7,high,medium,7,spaceship,,,30/09/2026 00:58
 a6680169-cc08-4445-8f90-d2d1d563200f,travel.pizza,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-ba3d3e8a-76fe-4a98-af30-e8d8b4cad50c,trip.company,resell,,,high,low,4,Dynadot Inc,16/11/2023 15:15,16/11/2028 15:15,26/09/2026 09:46
-db053147-0d90-45c0-86d1-b3fda4bc948f,trip.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,08/09/2026 04:57
-500d93f1-51ba-4d02-822a-403948d25dbe,journey.win,premium,382.61,55.11,high,medium,7,porkbun,,,30/09/2026 00:58
+67e4e20e-fd6c-4757-8014-2ffaa4950dbe,travel.estate,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
 ce8d769c-3b06-4b51-9b07-5d8d2cfabf0c,travel.rich,resell,,,high,medium,6,Dynadot Inc,31/01/2026 13:12,31/01/2027 13:12,26/09/2026 09:44
-817154c8-4493-46c2-a6f3-a32d0c0e161e,journey.zip,premium,257.92,257.92,high,medium,7,spaceship,,,30/09/2026 00:58
-c4818309-ddad-458a-a62c-3a918e363cef,trip.mov,premium,1298.7,1298.7,high,low,4,namecheap,,,08/09/2026 04:57
 81309a60-d70f-4a9d-b4f7-d9a4accc2181,trip.cruises,premium,118.8,118.8,high,low,4,namesilo,,,08/09/2026 04:57
-d3ca67ae-1556-4708-9b00-3eb10b4cc0a0,journey.mov,premium,257.92,257.92,high,medium,7,spaceship,,,30/09/2026 00:58
 ebed3ba2-7115-4c48-836c-ac4b118a0c1a,travel.limited,resell,,,high,medium,6,"Sav.com, LLC",08/09/2024 23:12,08/09/2027 23:12,26/09/2026 09:44
 5f330368-417f-44f8-9757-c3b454b13e2b,travel.shop,premium,13800,13800,high,medium,6,namesilo,,,24/09/2026 22:30
-97ba714f-5cb7-43f0-b72d-19812dd23b24,journey.cool,resell,,,high,medium,7,"Xiamen ChinaSource Internet Service Co., Ltd",28/11/2019 01:19,28/11/2026 01:19,30/09/2026 00:58
-1f8d7b56-a60a-488e-982c-efba3a28970e,journey.dating,available,13.06,53.72,high,medium,7,dynadot,,,30/09/2026 00:58
-03b981e9-76b2-4ab1-9283-e69ec2928229,trip.gripe,available,6.99,6.99,high,low,4,namesilo,,,
-d03e9812-6993-4b06-b559-f6f5c14fb7bd,trip.soy,premium,418.6,418.6,high,low,4,namecheap,,,08/09/2026 04:57
 c068b47e-7049-43d7-b8d9-b04941c079b6,travel.diamonds,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-e833b9c2-0685-421e-aab5-b079716d3e18,trip.faith,premium,1107,116,high,low,4,namesilo,,,08/09/2026 04:57
-fe56f30d-a4fc-4ea7-80ec-c22157cdf30f,journey.horse,available,32.49,32.49,high,medium,7,namesilo,,,30/09/2026 00:58
-aeb874d2-99c1-45f3-9cf7-a5e293dc248b,journey.pro,resell,,,high,medium,7,"Spaceship, Inc.",13/04/2017 10:06,13/04/2027 10:06,30/09/2026 00:58
-74c5dad0-5a3f-4a50-a5fc-3f54f7c4872d,trip.doctor,available,14.99,,high,low,4,name.com,,,
-510ad70a-2a09-4403-b61f-d884a342434e,trip.shoes,available,34.98,81.98,high,low,4,namecheap,,,08/09/2026 04:57
-5faef5a9-5d04-4220-8387-2273344d1dc2,journey.jewelry,available,50.2,50.2,high,medium,7,cloudflare,,,30/09/2026 00:58
-d003caf0-87b4-403f-bf21-d040ae887cfa,trip.plumbing,available,72.99,72.99,high,low,4,namesilo,,,08/09/2026 04:57
 fa880ec4-cf19-4d8a-b818-48805d410217,travel.exposed,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-82e25c17-7e62-447d-9314-d1796abc61fe,tour.tours,resell,,,high,low,4,Dynadot Inc,24/02/2018 12:40,24/02/2027 12:40,26/09/2026 09:42
-24f75e43-e352-4f16-8bb7-0b52f704df06,trip.study,premium,116,116,high,low,4,namesilo,,,08/09/2026 04:57
-b7326da7-ec54-411f-9ace-de967c5b7e6f,journey.realty,available,88.18,289.16,high,medium,7,spaceship,,,30/09/2026 00:58
-1d2c0a70-bfb8-468c-ae5c-81603e2e94d0,trip.construction,available,38.99,38.99,high,low,4,namesilo,,,08/09/2026 04:57
-9c58eb15-fb72-4b74-a68a-3a8a2952c0db,journey.reviews,available,62.99,62.99,high,medium,7,namesilo,,,30/09/2026 00:58
-8af3fb5d-5803-4017-acde-0d64db3e460e,trip.accountants,available,117.99,117.99,high,low,4,namesilo,,,08/09/2026 04:57
-4867c617-545b-4928-943e-8ef062d9d12d,trip.diamonds,available,54.99,54.99,high,low,4,namesilo,,,08/09/2026 04:57
 4aa6e80f-fd1a-4f18-961f-322fcf32bcde,travel.catering,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
-7f8b1e0a-7208-44b0-8e2f-0dc7a9d93171,trip.racing,premium,116,116,high,low,4,namesilo,,,08/09/2026 04:57
 9712aa8c-28d0-4c74-a9e5-24a7485d4589,journey.cruises,available,56.99,56.99,high,medium,7,namesilo,,,30/09/2026 00:58
-1b5844e6-832b-45bb-ae44-aab3b794ed0d,journey.webcam,available,10.53,10.53,high,medium,7,spaceship,,,30/09/2026 00:58
 e0323beb-f8d5-4b1d-b847-716bd8af48c8,travel.industries,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
-a5c3a028-29dc-4d12-8ada-63edcc9e7a8a,trip.mom,premium,832,832,high,low,4,namesilo,,,08/09/2026 04:57
-d160598d-244f-4b68-939f-7bef63117442,journey.furniture,available,27.99,94.99,high,medium,7,namesilo,,,30/09/2026 00:58
 da2f8bd8-ff9e-41df-bc30-eb2e9a53ea3f,travel.blackfriday,available,114.99,114.99,high,medium,6,namesilo,,,24/09/2026 22:30
-97c49565-ca50-4481-b881-6cf362fd6f95,journey.dentist,available,65.99,65.99,high,medium,7,namesilo,,,30/09/2026 00:58
-348ebbe1-8505-486c-8fce-4fc418946efd,journey.blackfriday,available,128.98,134.98,high,medium,7,namecheap,,,30/09/2026 00:58
 9f1a0eb5-1d21-4222-9351-41e1c7edc9e4,travel.vin,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+abe6700a-f193-40fc-870c-9a98c46b92df,travel.irish,resell,,,high,medium,6,Dynadot Inc,19/05/2022 17:00,19/05/2027 17:00,26/09/2026 09:44
 fa8d7826-c88f-4074-aec4-65b24e41f6a1,travel.vip,resell,,,high,medium,6,Go France Domains Inc,23/01/2021 00:11,23/01/2028 00:11,26/09/2026 09:44
-972dd6b8-b5b3-4d0a-984b-051033eb35e1,trip.rsvp,premium,1298.7,1298.7,high,low,4,namecheap,,,08/09/2026 04:57
-d1a9e909-5632-45ee-8924-53aa66531e62,journey.pictures,available,12.62,12.62,high,medium,7,spaceship,,,30/09/2026 00:58
 67a443ce-9c87-4352-8e29-3991612ab0c9,travel.promo,premium,3450,3450,high,medium,6,namesilo,,,24/09/2026 22:30
 010e7409-4f17-4c0c-854a-d1c6cf2e8581,travel.mov,premium,1298.7,1298.7,high,medium,6,namecheap,,,24/09/2026 22:30
-0e666b21-460e-4f7e-974d-5796bb286873,trip.forsale,premium,242,242,high,low,4,namesilo,,,08/09/2026 04:57
-b4f41982-9323-49f8-8a5d-786f5d8ff33e,trip.monster,premium,260,15.73,high,low,4,namecheap,,,
-9111e148-0906-4558-8f63-956d98887a38,journey.boo,premium,257.92,257.92,high,medium,7,spaceship,,,30/09/2026 00:58
+bb276652-5484-4fdd-8480-34aaaa509fef,travel.airforce,available,103.99,103.99,high,medium,6,namesilo,,,24/09/2026 22:30
 016cd040-c77e-4246-9d96-e4f44fc37896,journey.maison,available,45.74,45.74,high,medium,7,spaceship,,,30/09/2026 00:58
-d2d45964-a8e7-4a4c-93fe-3cf132b46e13,trip.systems,available,21.99,,high,low,4,name.com,,,
-61e631b2-2e4a-4cff-b466-18beab4b5db1,trip.jewelry,available,64.99,64.99,high,low,4,namesilo,,,08/09/2026 04:57
-9e40725a-2f97-4248-8818-79dbeab6907f,journey.cleaning,available,75.49,75.49,high,medium,7,namesilo,,,30/09/2026 00:58
-df3cdfe2-15c4-48ed-90a3-59477eafebf3,trip.work,resell,,,high,low,4,West263 International Limited,12/07/2017 19:57,12/07/2027 19:57,26/09/2026 09:46
-14955913-8bf0-44cc-b11a-025a7f55759d,trip.mobile,premium,1300,1300,high,low,4,namecheap,,,08/09/2026 04:57
-0face17d-1a21-4ab7-a4fd-f1819e3a08d9,journey.esq,premium,411.25,,high,medium,7,name.com,,,30/09/2026 00:58
-23a1db18-92a0-4109-95c3-1aac78a7a89c,journey.legal,available,55.2,55.2,high,medium,7,cloudflare,,,30/09/2026 00:58
-197d20cc-32fb-466c-9832-5b2e2ca92441,trip.fun,premium,1625,6500,high,low,4,namecheap,,,08/09/2026 04:57
-47191a0f-e365-4d58-b3af-7ec3621e51e7,trip.live,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",06/01/2024 17:00,06/01/2027 17:00,26/09/2026 09:46
-f31fc8b8-0293-471c-8f66-2637eda2f022,trip.channel,premium,1298.7,1298.7,high,low,4,namecheap,,,08/09/2026 04:57
-b50cf9cd-def8-429c-bdf1-65768d162529,tour.viajes,premium,242,242,high,low,4,namesilo,,,24/09/2026 22:26
-94192537-1d32-42ff-9053-3f18ff53b814,trip.furniture,available,23.98,127.98,high,low,4,namecheap,,,08/09/2026 04:57
+7aeaa1cf-017f-4b09-ac77-f8f7cc3133bd,travel.moi,premium,640,640,high,medium,6,namesilo,,,24/09/2026 22:30
 94c54146-744d-4c33-875d-402451c13a68,travel.accountants,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-2df13693-1a6f-43f5-914f-146be3b01f8d,trip.investments,available,6.98,166.98,high,low,4,namecheap,,,08/09/2026 04:57
-9f6b8553-8c46-46b2-80d4-3bcfaf69f61c,trip.top,premium,14806.25,,high,low,4,阿里云计算有限公司,13/04/2017 01:49,13/04/2028 01:49,
-bc251f49-31e5-46a5-a48c-1231865e855b,trip.pizza,available,5.98,83.98,high,low,4,namecheap,,,08/09/2026 04:57
-f50cd3c4-0784-46ce-82f8-1760148491c3,journey.giving,available,7.48,35.98,high,medium,7,namecheap,,,30/09/2026 00:58
-6fa8e2be-fc84-4442-bd5d-25259df864c5,trip.cleaning,available,75.49,75.49,high,low,4,namesilo,,,08/09/2026 04:57
-bf6a5fce-4e1d-4e06-9d4e-76459d4f5d2b,trip.discount,premium,78.54,78.54,high,low,4,namesilo,,,08/09/2026 04:57
-a20f2fb9-5b6b-4340-adee-06e61be3926e,trip.games,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",17/12/2025 15:15,17/12/2026 15:15,26/09/2026 09:46
-dad2f7f8-65aa-4b22-871e-7bb5cc7d3d8b,trip.website,premium,650,1300,high,low,4,namecheap,,,08/09/2026 04:57
-1de67b61-bf51-45ef-9347-e776dc8ed96f,trip.bingo,available,51.98,68.98,high,low,4,namecheap,,,08/09/2026 04:57
-2de7370f-ad99-4a77-8749-966a6ba9a286,journey.autos,resell,,,high,medium,7,"Spaceship, Inc.",12/03/2022 12:02,12/03/2027 23:59,30/09/2026 00:58
-b1c78645-1a0c-45b7-9b8a-f94f40bb4526,trip.airforce,available,103.99,103.99,high,low,4,namesilo,,,08/09/2026 04:57
-dae195cd-8f8a-4e88-87f4-aab797ac52c2,journey.day,premium,311.25,,high,medium,7,name.com,,,30/09/2026 00:58
-534b2497-3bf7-4d1a-9b4e-5d70512c06c8,trip.uno,premium,1107,1107,high,low,4,namesilo,,,08/09/2026 04:57
-878c0b67-253f-4b28-a0f0-d9f68cda3a30,journey.channel,premium,323.7,323.7,high,medium,7,namecheap,,,30/09/2026 00:58
-8cc5697d-288f-458b-b5c9-45c839c4f168,trip.courses,premium,116,116,high,low,4,namesilo,,,08/09/2026 04:57
-c5aee11a-8302-4d88-9b9d-940c92980b45,journey.date,premium,384,53.92,high,medium,7,namesilo,,,30/09/2026 00:58
-4b730577-07fe-4ebc-b35d-fbc588c7e259,journey.gratis,available,23.99,23.99,high,medium,7,namesilo,,,30/09/2026 00:58
-84d697be-5faa-4f84-8dfa-77fece44040e,journey.vana,available,2070.2,2070.2,high,medium,7,spaceship,,,30/09/2026 00:58
-340b74a2-c1ee-482f-8f11-7d586225f3e2,expedition.travel,resell,,,high,low,10,"Sav.com, LLC - 13",01/04/2026 15:15,01/04/2027 15:15,29/09/2026 18:24
-9f90748e-c73a-4960-b0a0-a66a64e378a2,trip.dad,premium,1298.7,1298.7,high,low,4,namecheap,,,08/09/2026 04:57
-cab4c4cd-c465-42e9-b8a2-2c50390b5610,trip.limo,available,54.99,54.99,high,low,4,namesilo,,,08/09/2026 04:57
-ef5fa6d8-7856-45f3-a818-74b9a4e464cc,trip.trade,resell,,,high,low,4,TuringSign Inc. d/b/a Cosmotown,29/07/2019 12:59,29/07/2030 12:59,26/09/2026 09:46
-d8f2240a-fc7e-42e0-87af-75f06c8ac140,trip.baby,premium,650,65,high,low,4,namecheap,,,
-1c8fd423-3760-4a8d-a197-dca21d94fa57,journey.shiksha,available,10.55,41.6,high,medium,7,spaceship,,,30/09/2026 00:58
-5e7312ce-7c7e-4ed0-941f-3508ca546e26,trip.kaufen,available,5.99,26.99,high,low,4,namesilo,,,08/09/2026 04:57
-f48bdac9-de7c-4c50-b026-2a4dbb6c57d1,trip.fan,resell,,,high,low,4,"DNSPod, Inc.",12/12/2018 16:01,12/12/2026 16:01,26/09/2026 09:46
-a35fc03a-94d6-449e-8851-45b6c692544f,journey.health,resell,,,high,medium,7,"Spaceship, Inc.",08/04/2025 02:41,08/04/2027 02:41,30/09/2026 00:58
-cfe5010e-94a5-4945-9966-f92ae5f7ec4a,journey.show,resell,,,high,medium,7,"Xiamen ChinaSource Internet Service Co., Ltd",20/12/2019 08:30,20/12/2026 08:30,30/09/2026 00:58
-0f5dc6f2-7e7f-4e39-9fee-4ef00e2a3ca0,vacation.viajes,available,43.98,57.98,high,low,8,namecheap,,,29/09/2026 22:55
+fe9c026c-a9af-42ae-b52d-512f998ea686,travel.software,premium,3450,3450,high,medium,6,namesilo,,,24/09/2026 22:30
+8e0a96ff-35bf-4d78-88dc-ab666a71d8b4,travel.audio,available,104.99,114.99,high,medium,6,namesilo,,,24/09/2026 22:30
+eadc5694-40de-4831-bc85-5954d83fdcfe,travel.condos,premium,1040,1040,high,medium,6,namecheap,,,24/09/2026 22:30
+b0cf38ec-e31f-4eb4-b353-3c417bf86f4d,travel.university,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+36e0c46b-27bc-43a5-ada3-e4b12d65d2ec,travel.loan,premium,13800,116,high,medium,6,namesilo,,,24/09/2026 22:30
 8239daf5-8b7a-44b8-84c4-368ac1975eeb,trip.holiday,resell,,,high,low,4,"Sav.com, LLC - 8",20/08/2026 15:15,20/08/2027 15:15,26/09/2026 09:46
 baa602c2-57bb-4ec9-9c8a-f6f3448c7d4b,journey.menu,available,27.99,27.99,high,medium,7,namesilo,,,30/09/2026 00:58
-ed2228c1-13a3-49a0-9747-35eb347a7f22,journey.rehab,available,36.99,36.99,high,medium,7,namesilo,,,30/09/2026 00:58
-b8e37681-e36b-4848-a180-61e7beea370e,trip.archi,available,14.98,132.98,high,low,4,namecheap,,,08/09/2026 04:57
-7a6330e8-c1ea-4e28-a210-0ca0496b2f2c,journey.claims,available,50.2,50.2,high,medium,7,cloudflare,,,30/09/2026 00:58
-93618092-54fc-4cd3-a9b2-85be7bfc5538,journey.wtf,resell,,,high,medium,7,"Sav.com, LLC - 45",07/05/2026 15:15,07/05/2027 15:15,30/09/2026 00:58
-d6406fa1-350c-45d1-a1ce-33f30344e474,journey.security,available,1999.99,2049.99,high,medium,7,namesilo,,,30/09/2026 00:58
-a8a90f79-760c-4529-8606-d668fdcad593,journey.creditcard,available,144.99,144.99,high,medium,7,namesilo,,,30/09/2026 00:58
+4769d405-4356-4de8-a7c0-8e68e43dc547,travel.uno,premium,6900,6900,high,medium,6,namesilo,,,24/09/2026 22:30
+ac5e315b-5bd0-46b1-84c2-9d238c53d8cb,travel.cleaning,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+ee39a646-9495-4935-b901-2e58953498f6,travel.club,resell,,,high,medium,6,Porkbun,13/01/2015 20:51,12/01/2035 23:59,26/09/2026 09:44
 10d9b3a2-d0e9-4d16-bbef-96153e698926,journey.desi,available,19.98,22.98,high,medium,7,namecheap,,,30/09/2026 00:58
-2758a0da-2387-47af-9ba7-3962e2a99324,journey.lawyer,premium,102.67,102.67,high,medium,7,spaceship,,,30/09/2026 00:58
-de81cdc1-c866-4226-907b-af112199eaa2,journey.top,premium,277.97,277.97,high,medium,7,spaceship,,,30/09/2026 00:58
-77957cb2-e572-428f-aff5-6443852e30a6,trip.movie,available,40.98,446.98,high,low,4,namecheap,,,08/09/2026 04:57
-0811d4ec-a769-4594-a2f4-598444e83ec9,trip.international,resell,,,high,low,4,"Sav.com, LLC - 38",12/03/2026 15:15,12/03/2027 15:15,26/09/2026 09:46
+75c6b2df-3431-4208-bbcb-38e7633209da,travel.vodka,premium,260,32.5,high,medium,6,namecheap,,,24/09/2026 22:30
 39036dec-c04c-44e9-88e7-9e7490cbe6fc,journey.recipes,available,8.99,77.99,high,medium,7,namesilo,,,30/09/2026 00:58
 f43cb2bb-eb36-4dba-b4cc-9dd8b3f23e33,journey.singles,available,9.49,33.99,high,medium,7,namesilo,,,30/09/2026 00:58
-cbb9ec0d-1adc-4d01-9ab0-5958e5dc4863,trip.memorial,available,52.99,52.99,high,low,4,namesilo,,,08/09/2026 04:57
 f98281c8-410b-4263-8103-7c54a9bfbbf6,journey.hair,available,1.24,13.97,high,medium,7,spaceship,,,30/09/2026 00:58
 f88c8dd1-1fbe-4024-8549-3a61847facc4,journey.racing,premium,103.7,103.7,high,medium,7,spaceship,,,30/09/2026 00:58
 69048282-07e7-4743-8cb4-a947043a4dec,journey.store,premium,129.58,517.7,high,medium,7,spaceship,,,30/09/2026 00:58
-33752fbd-52a8-4365-bdd5-f3deb352c3f5,trip.eco,premium,4550,74.75,high,low,4,namecheap,,,08/09/2026 04:57
-9e3bdc56-ef02-452e-a2cc-39a4d788bd8f,tourist.flights,available,31.41,46.86,high,low,7,porkbun,,,29/09/2026 22:57
+6f526375-7327-4912-beba-f0ba2f38765f,travel.prof,premium,1688.7,1688.7,high,medium,6,namecheap,,,24/09/2026 22:30
 46464e8a-a9a1-4d00-92ef-a6520595bfe3,journey.movie,available,47.99,349.99,high,medium,7,namesilo,,,30/09/2026 00:58
+6b55b113-fd31-44ad-9c06-37fb128e6b6d,travel.vana,available,2298,2498,high,medium,6,namecheap,,,24/09/2026 22:30
 e2ff176c-9d23-4603-bb7b-e5abf689858d,journey.gmbh,available,45.99,45.99,high,medium,7,namesilo,,,30/09/2026 00:58
+15259949-b17d-4dfc-922e-399c54249b89,travel.attorney,premium,1107,1107,high,medium,6,namesilo,,,24/09/2026 22:30
+ea93a49d-295a-4c27-addd-67e029f8219b,travel.llc,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
 df57bdee-26d9-41d8-bc24-06fb7bbe3997,trip.homes,premium,845,15.73,high,low,4,namecheap,,,
-fb513b97-c45a-4380-8766-865f39de11a9,trip.sexy,premium,13000,13000,high,low,4,namecheap,,,08/09/2026 04:57
-190119d9-c585-4329-a5f1-4f903a6a2d4c,trip.productions,available,6.48,50.98,high,low,4,namecheap,,,08/09/2026 04:57
-64fabea6-611f-4160-a05a-42b0be1dfde1,trip.group,resell,,,high,low,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),29/08/2017 21:42,29/05/2031 02:15,26/09/2026 09:46
+07da0255-cba4-4744-a8a9-e2730d7a4e28,travel.schule,premium,1040,1040,high,medium,6,namecheap,,,24/09/2026 22:30
+dce85ea8-6023-440e-8ebe-4a1dc04a9939,travel.school,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
 6b29ccd3-5022-4e3b-81e8-a7aff63133d3,trip.realty,available,99.8,456.98,high,low,4,namecheap,,,08/09/2026 04:57
+7a9e3147-7431-4f1d-83a6-773b84fb0689,travel.supplies,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
 4005305e-6003-4596-8839-23f52206e480,journey.art,premium,3450,83.3,high,medium,7,namesilo,,,30/09/2026 00:58
-9484d6dc-300b-4286-9563-3e7d39f4dab3,trip.zone,resell,,,high,low,4,"Spaceship, Inc.",23/04/2019 09:11,23/04/2027 09:11,26/09/2026 09:46
 3789344a-f006-41c5-8601-47b4852eb212,journey.eco,premium,1650,61.74,high,medium,7,dynadot,,,30/09/2026 00:58
-d85f27ab-631f-48f7-b7fb-73d226e99d24,trip.mortgage,available,62.99,62.99,high,low,4,namesilo,,,08/09/2026 04:57
 20eeb657-0302-4ce0-867a-2eb58f1d6eaf,journey.financial,resell,,,high,medium,7,"Sav.com, LLC - 20",29/12/2025 15:15,29/12/2026 15:15,30/09/2026 00:58
+01b7d792-fd4e-4e97-a431-32af2b37d498,travel.tires,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
 3def9898-4ba3-4bab-b531-6ea0eeb9552f,journey.my,premium,382.39,546.14,high,medium,7,porkbun,,,30/09/2026 00:58
-742787b3-c0e9-4a25-94a9-b9509bc957a3,trip.reviews,available,,,high,low,4,,,,
+81d181f0-e269-44af-bb38-0af271459578,travel.love,premium,8280,8280,high,medium,6,namesilo,,,24/09/2026 22:30
+8a494c3e-5d17-46cd-aa3f-a9a949eac192,travel.cricket,premium,3450,116,high,medium,6,namesilo,,,24/09/2026 22:30
 5e559657-239a-4647-bd48-c3b6ec01935c,journey.wedding,available,26.08,26.08,high,medium,7,spaceship,,,30/09/2026 00:58
-77baac88-f99a-442c-89cd-3a8c213f8c92,trip.vodka,available,32.49,32.49,high,low,4,namesilo,,,08/09/2026 04:57
 7e4c5002-0e41-475a-8611-4e443c1751a7,trip.at,available,,,high,low,4,,,,
-7a2de15a-4720-4fca-8065-45175ba40190,trip.download,premium,640,77.35,high,low,4,namesilo,,,08/09/2026 04:57
-455d264d-ecf2-418c-81e6-fab662ca3975,trip.graphics,premium,118.8,118.8,high,low,4,namesilo,,,08/09/2026 04:57
+17180421-4406-4c27-97f6-3a7b62614500,travel.cash,resell,,,high,medium,6,GoDaddy Online Services Cayman Islands Ltd.,30/08/2015 18:05,30/08/2027 18:05,26/09/2026 09:44
+e34b37ec-840b-4501-a422-40aec164eb7c,travel.church,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
 c210516c-c3d1-4162-b831-a8de28c0ea25,trip.barcelona,available,38.98,,high,low,4,namecheap,,,
 4941422f-cec3-4d14-b2ad-4ab287263f07,journey.llc,premium,1107,1107,high,medium,7,namesilo,,,30/09/2026 00:58
-ce670bbf-b27d-45dc-a73c-090b8a72af11,trip.agency,resell,,,high,low,4,Dynadot Inc,30/04/2014 16:00,30/04/2027 16:00,26/09/2026 09:46
-d1082f14-5b79-4539-869f-2f61ff151da7,tourism.taxi,available,10.5,,high,low,7,unstoppable,,,29/09/2026 20:31
-2efcac5c-478e-4f93-8919-28e2dc055f9a,trip.hot,premium,1107,1107,high,low,4,namesilo,,,08/09/2026 04:57
+65961efa-565f-49b0-a145-a59b7736a5cf,travel.free,premium,6900,6900,high,medium,6,namesilo,,,24/09/2026 22:30
+73c5907f-fdcc-4f02-a9ac-06e7c153fe16,travel.study,premium,242,242,high,medium,6,namesilo,,,24/09/2026 22:30
 04611994-3bd7-44e8-b822-38b359e3844d,journey.farm,resell,,,high,medium,7,"Spaceship, Inc.",23/02/2026 08:03,23/02/2027 08:03,30/09/2026 00:58
-42e6575b-9c7e-41ce-99d8-f173064747eb,trip.shiksha,available,11.98,69.98,high,low,4,namecheap,,,08/09/2026 04:57
+34f5ce59-07d7-4831-b252-c97ae2679308,travel.charity,available,7.48,37.98,high,medium,6,namecheap,,,24/09/2026 22:30
 92cf5379-9aa2-4dad-8b9b-46db428d4602,trip.rentals,available,6.98,56.98,high,low,4,namecheap,,,08/09/2026 04:57
 0b96d412-21f8-458b-b477-3ee437bc975f,journey.new,available,412.2,412.2,high,medium,7,spaceship,,,30/09/2026 00:58
 37d14ad2-28c3-4e19-bd98-be045acd3b8c,journey.tickets,available,359.99,488.88,high,medium,7,namesilo,,,30/09/2026 00:58
-ec661f7d-8410-488a-922c-d34b322c11f0,trip.porn,available,69.98,154.98,high,low,4,namecheap,,,08/09/2026 04:57
+a8ff0b60-c109-48b6-ada7-e783cacbd283,travel.garden,premium,5200,32.5,high,medium,6,namecheap,,,24/09/2026 22:30
 efd80585-3dde-4321-9f19-811a31b176cb,journey.spot,premium,130,130,high,medium,7,namecheap,,,30/09/2026 00:58
-c1f33c5b-b9b9-462e-8889-95470c2c882f,trip.hockey,available,59.99,59.99,high,low,4,namesilo,,,08/09/2026 04:57
+d735889c-9837-4224-959a-18a31772ade6,travel.lease,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
 1477a89a-36b7-4015-8508-2227b821d8ff,journey.city,resell,,,high,medium,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),09/08/2018 05:45,09/08/2027 05:45,30/09/2026 00:58
-0400cc81-9d8b-4770-aca3-91f1579f5868,trip.fishing,premium,96,29.5,high,low,4,namesilo,,,08/09/2026 04:57
-5c31f6a8-a683-4844-8556-0bf23491cf9e,trip.lease,resell,,,high,low,4,"Sav.com, LLC",20/09/2022 23:16,20/09/2027 23:16,26/09/2026 09:46
 ad3bdde6-98f4-4fb5-8e7e-d6ffd48ef1c5,journey.moda,available,33.32,33.32,high,medium,7,spaceship,,,30/09/2026 00:58
 9e842ae6-9957-44c0-a5f8-386f6a567d0f,journey.website,premium,1107,1107,high,medium,7,namesilo,,,30/09/2026 00:58
 3e6af1d2-f7cf-423e-b789-652c4a6567fe,journey.fast,premium,51.95,51.95,high,medium,7,spaceship,,,30/09/2026 00:58
 d9945fd2-eb68-4582-b140-6f968594bade,journey.bargains,available,13.14,23.94,high,medium,7,spaceship,,,30/09/2026 00:58
-52ac89cc-451a-4c60-afaa-8be27856bba5,trip.tennis,available,65.99,65.99,high,low,4,namesilo,,,08/09/2026 04:57
-daa36567-a2e6-4e50-bca6-d45afc18a5c3,trip.engineering,available,10.48,85.98,high,low,4,namecheap,,,08/09/2026 04:57
-72e8cd07-efad-4de4-998a-aeffbce517a6,trip.how,premium,474.5,474.5,high,low,4,namecheap,,,08/09/2026 04:57
-d0d8b6e3-cc25-43c6-99f2-4f45bbcaf3bf,trip.clinic,available,11.98,82.98,high,low,4,namecheap,,,08/09/2026 04:57
-d4d767ff-6f82-4240-9969-844b6d452ee0,trip.lol,premium,832,832,high,low,4,namesilo,,,08/09/2026 04:57
+70ed1d6e-5edf-451f-ba39-151ae82d63ba,travel.watch,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+f2b2e25f-35ab-4824-8243-3f5789a193f0,travel.hair,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
+95303d94-1263-4281-b75b-03f03c34aa39,travel.film,premium,1107,1107,high,medium,6,namesilo,,,24/09/2026 22:30
+0e227124-53f9-4b11-90f6-c1485679e93c,travel.wtf,resell,,,high,medium,6,"Spaceship, Inc.",27/09/2023 00:24,27/09/2027 00:24,01/10/2026 06:52
 c7032c5c-66b0-4847-a2a6-910e442af09f,journey.talk,premium,62.3,62.3,high,medium,7,spaceship,,,30/09/2026 00:58
 bf403e6a-6f16-47e7-a38b-f10890db8d1d,journey.cricket,premium,448,53.92,high,medium,7,namesilo,,,30/09/2026 00:58
 6c88d2bb-2f01-486d-883d-b80e398fc429,journey.promo,available,19.2,19.2,high,medium,7,cloudflare,,,30/09/2026 00:58
 fb9f0c6e-e784-4b9f-bbc2-d3e3a7db1fe5,journey.info,resell,,,high,medium,7,"GoDaddy.com, LLC",25/08/2001 14:02,25/08/2027 14:02,30/09/2026 00:58
-40ec3a21-a7c9-43d9-9465-46d0c41d2323,trip.press,premium,3250,6500,high,low,4,namecheap,,,08/09/2026 04:57
 5f34d8d1-d2f7-436a-ba93-b2487daf5547,trip.hiphop,available,,,high,low,4,,,,
-7f485d2a-872e-4830-a127-043a5c8f3477,trip.voto,available,19.99,,high,low,4,name.com,,,
-5d5973b6-05a4-4d36-9e38-d89b51c6417e,trip.buzz,premium,3553.5,,high,low,4,name.com,,,
-cddd1418-b440-48a5-bff5-98afaf5068c7,trip.rehab,available,36.99,36.99,high,low,4,namesilo,,,08/09/2026 04:57
-c907cf13-af37-4845-8eac-bafd03313ddc,trip.holdings,available,64.99,64.99,high,low,4,namesilo,,,08/09/2026 04:57
-0d7b68f5-355e-4a89-ac35-f945df83e1a1,tourism.la,resell,,,high,low,7,,,,29/09/2026 20:31
+ec2513e1-1d6c-4d7d-8cb0-3d1e94917579,travel.salon,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+7cf9eb3b-ce92-43e4-816a-8f4bc05b0b3b,travel.actor,available,16.99,44.49,high,medium,6,namesilo,,,24/09/2026 22:30
 26a5a6a2-6567-4d85-9e35-58c1c0fc6fb4,trip.co,resell,,,high,low,4,Hello Internet Corp.,25/02/2010 01:17,24/02/2027 23:59,26/09/2026 09:46
-8c2b0cb5-adf0-4d19-a303-d4a77d636577,trip.exposed,available,22.49,22.49,high,low,4,namesilo,,,08/09/2026 04:57
-cf746ef0-bc14-4e8b-ae0f-a2728c07cc07,trip.money,resell,,,high,low,4,"Spaceship, Inc.",06/04/2022 15:18,06/04/2027 15:18,26/09/2026 09:46
-fdb14de2-35d4-4030-ba99-18d25619b780,trip.navy,available,41.99,41.99,high,low,4,namesilo,,,08/09/2026 04:57
 1ffa16b1-2514-496c-8831-6e6bf5f28d6d,journey.forum,premium,103.7,103.7,high,medium,7,spaceship,,,30/09/2026 00:58
 f112a264-81c9-4732-b9b9-25fa7f330251,journey.auction,premium,220,220,high,medium,7,dynadot,,,30/09/2026 00:58
 81b66afe-3e0f-4ac6-a758-cc5c22e8f4f0,trip.bayern,resell,,,high,low,4,"Key-Systems, LLC",02/06/2022 11:20,02/06/2027 11:20,26/09/2026 09:46
 20d49928-ffe3-42f7-8da3-5c6fb3902903,trip.cricket,premium,448,53.92,high,low,4,namesilo,,,08/09/2026 04:57
+a2153e41-439a-4d24-a3df-f035b56c8b5f,travel.rsvp,premium,1298.7,1298.7,high,medium,6,namecheap,,,24/09/2026 22:30
 36f8ec0e-8eb6-4d5b-8389-9bb92404172d,trip.lighting,available,22.98,31.98,high,low,4,namecheap,,,08/09/2026 04:57
 24324bfb-d00c-43b7-be6f-89e66f3eeea8,journey.gift,available,14.99,14.99,high,medium,7,namesilo,,,30/09/2026 00:58
 186e3579-03df-41f4-bd75-e80df585f192,trip.beauty,premium,2600,15.73,high,low,4,namecheap,,,
@@ -455,33 +278,39 @@ f3725208-a034-4737-82b9-8b3b3361d027,journey.food,premium,640,640,high,medium,7,
 d4f8f5fa-a979-440d-a6c4-1e27969f5b6e,trip.pink,available,,,high,low,4,,,,
 983f2442-c3b8-4171-8262-378dbd96868c,journey.golf,resell,,,high,medium,7,Dynadot Inc,30/06/2026 17:00,30/06/2027 17:00,30/09/2026 00:58
 01fe9a89-8481-411a-98d6-ef8e26eb035b,journey.irish,available,5.38,17.8,high,medium,7,spaceship,,,30/09/2026 00:58
+2ac37dc4-6295-47e2-8d18-d70f2a163283,travel.hockey,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
 2e28d3e7-9fad-4d2a-9d3f-9a1e9cc2df57,journey.science,premium,3450,116,high,medium,7,namesilo,,,30/09/2026 00:58
 2fbf066a-cf64-47f5-a90e-34293e95a9dc,trip.photo,premium,116,116,high,low,4,namesilo,,,08/09/2026 04:57
 ea725263-1025-4138-bfa1-e0588938b9ff,trip.security,available,1999.99,2049.99,high,low,4,namesilo,,,08/09/2026 04:57
+1b9a0325-6abc-4bc5-9bb1-86a40200494b,travel.webcam,premium,3450,116,high,medium,6,namesilo,,,24/09/2026 22:30
 0f3d72c5-9100-430d-90f2-2baa9aa379c0,journey.hiv,available,184.86,184.86,high,medium,7,porkbun,,,30/09/2026 00:58
 e7d523b0-3955-4575-a99a-4cf7d3f34992,trip.surgery,available,54.99,54.99,high,low,4,namesilo,,,08/09/2026 04:57
+e9043a83-b2f4-4b68-a57b-bb58afea5b3e,travel.foo,premium,1298.7,1298.7,high,medium,6,namecheap,,,24/09/2026 22:30
 496ab307-dca8-4d5c-bbe7-bf457054a5a3,trip.attorney,available,62.99,62.99,high,low,4,namesilo,,,08/09/2026 04:57
 0ee0c4d7-4398-4ed6-9cb3-cd362df4ed7f,trip.tube,premium,468.75,,high,low,4,name.com,,,
-311d31a5-22e0-49a5-bcb6-80662cafc828,tourism.id,resell,,,high,low,7,,,,29/09/2026 20:31
+056757d0-2504-4423-96a4-19828266fe49,travel.democrat,available,7.25,32.99,high,medium,6,namesilo,,,24/09/2026 22:30
+07c22ce9-e8c1-4dc1-b6eb-48f2ab412ece,travel.security,available,1999.99,2049.99,high,medium,6,namesilo,,,24/09/2026 22:30
 4cea952d-59fd-4045-ae2d-5274a399cde5,journey.living,premium,362.45,517.7,high,medium,7,spaceship,,,30/09/2026 00:58
 d7bcec03-d62b-4573-b95a-fdfdeb9081e4,trip.phd,premium,1688.7,1688.7,high,low,4,namecheap,,,08/09/2026 04:57
-216b7534-7a14-4164-ba19-4b0d925407ca,itinerary.holiday,available,67.98,81.98,high,low,9,namecheap,,,01/10/2026 20:07
 262473ac-ed72-4c10-8104-da6b827c5218,journey.audio,available,104.99,114.99,high,medium,7,namesilo,,,30/09/2026 00:58
 1f4ed79a-7135-4c45-a394-a792036bba23,journey.luxe,resell,,,high,medium,7,"GoDaddy.com, LLC",05/05/2021 12:57,05/05/2027 12:57,30/09/2026 00:58
 87766a2b-c98a-46f3-9d18-3749c6de94e1,trip.coach,resell,,,high,low,4,"Sav.com, LLC - 2",06/03/2024 15:15,06/03/2027 15:15,26/09/2026 09:46
 6cba1af1-ce68-40e0-96d4-37487158e76e,journey.actor,available,8.48,35.39,high,medium,7,spaceship,,,30/09/2026 00:58
 da623dc1-2021-485a-9c18-e07540380692,trip.fashion,premium,512,29.5,high,low,4,namesilo,,,08/09/2026 04:57
+9c08750c-e168-42bb-b0fb-7d1a6c0f9b52,travel.video,premium,3450,3450,high,medium,6,namesilo,,,24/09/2026 22:30
 0ff236d3-fbf7-41de-b405-c83f7fa8f561,journey.dealer,premium,4278,2660,high,medium,7,namesilo,,,30/09/2026 00:58
 697fea3e-2be1-41f2-af7f-088661a6389c,journey.lease,available,44.71,44.71,high,medium,7,spaceship,,,30/09/2026 00:58
 95f1ead5-00ee-4496-94cc-cd4397d2a117,journey.fashion,resell,,,high,medium,7,"Chengdu West Dimension Digital Technology Co., Ltd.",15/08/2026 15:47,15/08/2027 15:47,30/09/2026 00:58
 33e494d4-3831-478a-b8e8-de5679cc832c,journey.cars,available,1999.99,2199,high,medium,7,namesilo,,,30/09/2026 00:58
-b1673bcb-0ad0-4b80-92af-dd4927153130,excursion.cruises,available,8.24,44.8,high,low,9,porkbun,,,29/09/2026 18:22
 017d5f23-81b6-4a11-ae0f-1c3b582f0944,journey.work,resell,,,high,medium,7,West263 International Limited,27/08/2018 13:45,27/08/2027 13:45,30/09/2026 00:58
+8ddccc43-30f0-441e-a25c-7e6b76ce94e5,travel.rehab,premium,242,242,high,medium,6,namesilo,,,24/09/2026 22:30
 e55bf395-08f0-46bd-8bff-255cc9047cda,trip.schule,available,28.99,28.99,high,low,4,namesilo,,,08/09/2026 04:57
+92d28c1b-136b-499b-8653-c67fa02d97c6,travel.hosting,available,309.99,429.99,high,medium,6,namesilo,,,24/09/2026 22:30
 ea6c6568-6912-4b1b-a2e7-f1963c7588e4,expedition.viajes,available,35.2,35.2,high,low,10,cloudflare,,,29/09/2026 18:24
 4993cf7e-e7b7-4837-a448-9f61d2a3e8ea,trip.vacations,premium,854,854,high,low,4,namesilo,,,08/09/2026 04:57
 5782d806-8b04-4b7f-903a-7397b5eca3b1,journey.voting,available,1398,1448,high,medium,7,namecheap,,,30/09/2026 00:58
 b1b01cad-5066-4528-b707-497efc0258b2,journey.expert,available,48.2,48.2,high,medium,7,cloudflare,,,30/09/2026 00:58
+ec6764e4-bcfa-4b5e-bdf3-f7e6891d540b,travel.productions,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
 7a9ab432-40e6-400d-b04a-bc3ce5d2be12,journey.co,resell,,,high,medium,7,Dynadot Inc,21/07/2010 21:41,20/07/2028 23:59,30/09/2026 00:58
 2dd2d69e-f3cb-435a-919b-579904c19c5b,journey.discount,available,30.99,30.99,high,medium,7,namesilo,,,30/09/2026 00:58
 b98b1eb9-5e10-4e66-8143-36a3e99eedb9,journey.moe,available,13.99,13.99,high,medium,7,namesilo,,,30/09/2026 00:58
@@ -490,66 +319,44 @@ b98b1eb9-5e10-4e66-8143-36a3e99eedb9,journey.moe,available,13.99,13.99,high,medi
 15538699-8bd8-42a2-b930-333cd7eaf86a,journey.credit,available,8.48,83,high,medium,7,spaceship,,,30/09/2026 00:58
 3e9d2b91-284c-40d1-8e39-ebc9c9109129,itinerary.viajes,available,35.18,35.18,high,low,9,spaceship,,,01/10/2026 20:07
 dab873e5-ca31-42e8-a7a4-1a15e4a30092,trip.cooking,premium,96,29.5,high,low,4,namesilo,,,08/09/2026 04:57
-ef8d7162-7619-48de-85c3-26f9562d7f1b,tourism.space,premium,13800,13800,high,low,7,namesilo,,,29/09/2026 20:31
 ad6c9492-e5d8-4e55-b570-cf87d0b709c4,trip.christmas,available,1.8,49.98,high,low,4,namecheap,,,08/09/2026 04:57
-52db402d-1d4b-4d07-919f-b028d5973c7a,tourism.trading,available,16.2,16.2,high,low,7,cloudflare,,,29/09/2026 20:31
 997aa999-9505-42b7-89b2-1aee9461a4a6,journey.trade,premium,362.45,51.95,high,medium,7,spaceship,,,30/09/2026 00:58
-e8345b90-14a6-44c8-a1bd-c6ec48d01739,tourism.schule,available,22.97,22.97,high,low,7,spaceship,,,29/09/2026 20:31
+f977a500-4c16-41ef-88ef-62c3966a5ee6,journey.viajes,available,37.99,37.99,high,medium,7,namesilo,,,30/09/2026 00:58
 699b8243-bbe1-48ec-8a4b-fa9c0dfa2a23,journey.berlin,available,54.67,54.67,high,medium,7,dynadot,,,30/09/2026 00:58
 df7debb1-b8a9-41f7-acc0-7af6fa66ea48,trip.rest,resell,,,high,low,4,"Spaceship, Inc.",18/08/2026 20:45,18/08/2027 20:45,26/09/2026 09:46
 73311cc0-a40c-4b75-893a-dac865b62235,journey.page,premium,318.72,318.72,high,medium,7,namesilo,,,30/09/2026 00:58
-dac6e8d1-ff9d-447d-b1eb-66f726e03f49,tourism.mobile,premium,181.33,181.33,high,low,7,spaceship,,,29/09/2026 20:31
 a614219e-83da-41aa-92dc-5692d7980b94,trip.reisen,premium,23.6,23.6,high,low,4,namesilo,,,08/09/2026 04:57
 be128b12-f1b1-4534-9212-b021e213acc0,trip.art,premium,3450,83.3,high,low,4,namesilo,,,08/09/2026 04:57
-cd60336d-84f3-4b4b-b17c-13727d9f386d,tourism.shoes,available,50.2,50.2,high,low,7,cloudflare,,,29/09/2026 20:31
-fd77c1b2-aff4-44af-88e9-ef3634a4e702,tourism.ventures,available,5.57,49.44,high,low,7,dynadot,,,29/09/2026 20:31
-5175bf2a-1acd-428a-94b6-1fc0a5458257,destination.viajes,available,37.99,37.99,high,low,11,namesilo,,,26/09/2026 03:27
 d65ef9ed-02fe-46e9-90e7-76bbbdf7c925,journey.ryukyu,available,17.98,22.98,high,medium,7,namecheap,,,30/09/2026 00:58
 52fd1722-97a3-417c-ac10-4313f75d094b,trip.ooo,premium,7038,119.99,high,low,4,namesilo,,,08/09/2026 04:57
-79690166-b258-4630-b699-bb49392ea21d,tourism.movie,available,36.43,279.65,high,low,7,spaceship,,,29/09/2026 20:31
 af85481b-c0e9-4b9b-8b4d-27c7a34865d2,excursion.reisen,available,16.2,16.2,high,low,9,cloudflare,,,29/09/2026 18:22
 c7ead41f-72c6-41ed-aa0e-7295c3c39007,journey.villas,available,59.99,59.99,high,medium,7,namesilo,,,30/09/2026 00:58
 0b757bd3-f628-4a7c-939d-86b6f93ea26d,trip.republican,available,5.98,43.98,high,low,4,namecheap,,,08/09/2026 04:57
-b9fd1292-e239-47e4-b2cd-f72023ce0828,tourism.boo,premium,516.67,516.67,high,low,7,spaceship,,,29/09/2026 20:31
 8b7d9dab-7874-43dc-90eb-afdf5a3572b6,journey.supply,available,20.2,20.2,high,medium,7,cloudflare,,,30/09/2026 00:58
-87300990-011c-42be-af2c-6a2c4858e3af,tourism.click,resell,,,high,low,7,,,,29/09/2026 20:31
 9c82e3c4-a928-4e95-9c3c-3e0c44f23b81,trip.diy,premium,227.5,325,high,low,4,namecheap,,,08/09/2026 04:57
 a947504e-ebcf-42c0-8592-4ffbc824cf55,voyage.holiday,premium,118.8,118.8,high,low,6,namesilo,,,28/09/2026 02:51
-371534ae-abc9-453c-aeae-66dc144920d0,tourism.coach,premium,414.2,414.2,high,low,7,spaceship,,,29/09/2026 20:31
-8598701a-260e-44ad-8024-27aac7e5bc36,tourism.attorney,premium,3105.2,3105.2,high,low,7,spaceship,,,29/09/2026 20:31
-95936314-358e-4e70-a034-22144fe97a8b,tourism.furniture,available,80.2,80.2,high,low,7,cloudflare,,,29/09/2026 20:31
 d45bdd30-cefa-4b63-b052-6f656ca81350,trip.florist,available,31.98,41.98,high,low,4,namecheap,,,08/09/2026 04:57
 37ac163e-2377-4327-ae8f-c9d7ec5c530f,journey.cards,available,2.5,32.21,high,medium,7,dynadot,,,30/09/2026 00:58
-d2bce8c5-2b35-4bed-a549-ecbe33e14c1a,voyage.bayern,available,31.99,30.8,high,low,6,porkbun,,,28/09/2026 02:51
 9f2d4e3e-1b73-4f68-9587-2e9ec591cafc,journey.vodka,available,25.2,25.2,high,medium,7,cloudflare,,,30/09/2026 00:58
-1afea7d4-52ee-4db7-abdf-14afb506f9b4,tourism.center,resell,,,high,low,7,,,,29/09/2026 20:31
-5cc43573-5ddf-4f7b-8d9f-53c658e18999,tourism.rest,premium,138.07,197.02,high,low,7,porkbun,,,29/09/2026 20:31
 b4bed6e2-3850-41ad-9637-afdca7e7bd25,trip.online,premium,3125,12500,high,low,4,name.com,,,
 0273fa37-b76f-4171-a469-a5af52989aba,trip.sarl,available,6.98,8.98,high,low,4,namecheap,,,08/09/2026 04:57
 42d618bc-61e7-4ce2-955b-5a5bc836c634,voyage.viajes,available,37.99,37.99,high,low,6,namesilo,,,28/09/2026 02:51
 f06bab93-426c-493b-9a9d-a71ca591c6bc,trip.mobi,resell,,,high,low,4,"GoDaddy.com, LLC",11/05/2006 22:17,11/05/2027 22:17,26/09/2026 09:46
 5b69c95d-7af1-4ce9-bae0-cfb6f585de20,journey.accountants,available,93.35,93.35,high,medium,7,spaceship,,,30/09/2026 00:58
 82b43f8e-9474-4cad-aed9-a387bb426933,trip.tires,available,5.99,78.99,high,low,4,namesilo,,,08/09/2026 04:57
-e33daffe-bb4a-4a25-9dee-a0c4fc7047f0,tourism.pub,available,32.29,32.29,high,low,7,spaceship,,,29/09/2026 20:31
-cd095f82-4c7f-430c-b6b5-f6c6f5b0777f,tourism.works,resell,,,high,low,7,,,,29/09/2026 20:31
-ec2f980d-2da6-42ee-aa58-d640f2a656a1,tourism.legal,available,74.98,88.98,high,low,7,namecheap,,,29/09/2026 20:31
-4a1db0f4-9de7-492f-a86b-c3710ac16cef,tourism.watch,premium,68.51,68.51,high,low,7,spaceship,,,29/09/2026 20:31
 9a19a89b-76c9-4317-b010-07a5e6f2e0e9,journey.network,resell,,,high,medium,7,"Spaceship, Inc.",13/01/2025 15:15,13/01/2027 15:15,30/09/2026 00:58
-2ef92d73-9100-47d5-bdbc-56708ee51cc5,tourism.social,resell,,,high,low,7,,,,29/09/2026 20:31
 cacbbed7-6fbe-4904-90ba-a64406899f51,trip.boo,premium,1298.7,1298.7,high,low,4,namecheap,,,08/09/2026 04:57
 2c3f71fc-a512-40d6-9571-4051af38bcd9,journey.mobile,premium,1035.2,1035.2,high,medium,7,spaceship,,,30/09/2026 00:58
 68842ed8-1dd3-4eb5-89f2-873809e39c9d,trip.school,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",05/08/2024 15:15,05/08/2027 15:15,26/09/2026 09:46
 de4edfbd-0ba2-491f-80f0-6737bd07006b,journey.hamburg,available,69.98,73.98,high,medium,7,namecheap,,,30/09/2026 00:58
 76759f90-5f50-4d65-b6a6-741235d70a2e,trip.salon,premium,118.8,118.8,high,low,4,namesilo,,,08/09/2026 04:57
 e3567b23-f66d-4f5c-8244-e24bc66db019,trip.prof,premium,1688.7,1688.7,high,low,4,namecheap,,,08/09/2026 04:57
-325f9eed-fcb1-4ff4-96b3-7a350a991f92,expedition.cab,available,26.08,26.08,high,low,10,spaceship,,,29/09/2026 18:24
 f83b859a-431d-4b22-98a8-6b54abe24be0,trip.diet,available,104.99,114.99,high,low,4,namesilo,,,08/09/2026 04:57
 ea949aa3-ecff-4b8e-b3e3-7c6f6711b63c,excursion.flights,available,45.2,45.2,high,low,9,cloudflare,,,29/09/2026 18:22
 a5d2c06a-b8e7-4eec-b5cb-cc95043ba62c,trip.living,premium,227.5,325,high,low,4,namecheap,,,08/09/2026 04:57
 cd52d18d-5ec3-4feb-9ace-242bd2e3a671,trip.run,resell,,,high,low,4,"GoDaddy.com, LLC",01/01/2017 06:00,01/01/2027 06:00,26/09/2026 09:46
 1368f292-789d-4064-bf5d-b77bd4ead7fe,journey.contractors,available,28.15,28.15,high,medium,7,spaceship,,,30/09/2026 00:58
 91a61a57-2c4c-41e3-9283-a22b0facd110,trip.music,available,,,high,low,4,,,,
-47ee8224-e77e-4c91-8cf3-cb7be7702f53,tourism.shop,premium,2183.84,33.27,high,low,7,porkbun,,,29/09/2026 20:31
 d8fefc51-4397-4ff4-af6d-783b57e9adea,trip.cheap,resell,,,high,low,4,Porkbun LLC,29/07/2016 09:42,29/07/2027 09:42,26/09/2026 09:46
 b924a5a3-0389-4b16-802b-cd443dcd2d67,journey.fun,premium,687.5,2750,high,medium,7,dynadot,,,30/09/2026 00:58
 ff21d0f2-c8f0-4adf-bf07-c143efa0aa3b,trip.hospital,available,55.98,71.98,high,low,4,namecheap,,,08/09/2026 04:57
@@ -557,445 +364,638 @@ ff21d0f2-c8f0-4adf-bf07-c143efa0aa3b,trip.hospital,available,55.98,71.98,high,lo
 7fa3aee3-5461-4a8d-871e-60aa01af16e7,trip.partners,resell,,,high,low,4,"Sav.com, LLC - 4",18/09/2025 15:16,18/09/2027 15:16,26/09/2026 09:46
 86c15f1d-ac53-47c4-b1ef-a8df95a6e477,journey.surgery,available,43.77,43.77,high,medium,7,porkbun,,,30/09/2026 00:58
 ba140c35-77b9-4712-a80a-b5b999f61002,journey.uno,premium,302.5,302.5,high,medium,7,namesilo,,,30/09/2026 00:58
-69c5b184-2cb3-42eb-b00e-73526f9fc060,tourism.lifestyle,available,1.24,31.25,high,low,7,spaceship,,,29/09/2026 20:31
-d3539ed2-d39c-40fd-b674-cdf215914937,tourism.equipment,available,22.2,22.2,high,low,7,cloudflare,,,29/09/2026 20:31
+094ca6ba-5200-4a53-b712-43bcc889beac,journey.holiday,resell,,,high,medium,7,Porkbun LLC,19/01/2026 22:19,19/01/2027 22:19,30/09/2026 00:58
 f0690d67-bad4-4fe2-898a-01e5da112446,trip.dental,available,78.99,78.99,high,low,4,namesilo,,,08/09/2026 04:57
-66d4c029-fde8-40fc-8d25-b7c0d87c800b,tourism.sex,available,51.95,98.53,high,low,7,spaceship,,,29/09/2026 20:31
-9e16f4c4-5a83-42db-8d29-b3fb049e1e01,tourism.haus,available,13.5,,high,low,7,unstoppable,,,29/09/2026 20:31
-d992d8bc-78ab-42c6-86f4-d75c1c618f7e,tourism.bingo,available,42.64,42.64,high,low,7,spaceship,,,29/09/2026 20:31
-177078e2-1932-46fe-8346-9ed3a610df6e,expedition.gold,available,9,,high,low,10,unstoppable,,,29/09/2026 18:24
 878f20ee-a8b6-448d-b1bb-2534204626c7,tour.reisen,premium,512,512,high,low,4,namesilo,,,24/09/2026 22:26
 958879b3-0cb0-4bc1-ad4f-e3215cc03f01,trip.vin,available,,,high,low,4,,,,
 066c5566-9c2b-487d-b5dd-b84ed696e13b,trip.rich,available,94.99,1999,high,low,4,namesilo,,,08/09/2026 04:57
-b0530a36-4dc1-4a39-82b3-e4e1a03f0bdc,tourism.top,resell,,,high,low,7,,,,29/09/2026 20:31
-99fd04c8-898a-4fdd-b5f8-41031c4bc88c,expedition.bio,available,5.38,58.16,high,low,10,spaceship,,,29/09/2026 18:24
 921a17c5-0aa6-42b3-81d5-487ab8432c07,trip.juegos,available,368.98,478.98,high,low,4,namecheap,,,08/09/2026 04:57
-c658e250-838f-471f-a8fe-fb7c1440772c,expedition.blackfriday,available,103.5,103.5,high,low,10,porkbun,,,29/09/2026 18:24
-1fb3a6da-8298-434d-8eb9-3b6be8f27943,expedition.gives,available,5.99,22.66,high,low,10,porkbun,,,29/09/2026 18:24
 5a954949-eb78-45fd-a0ba-24d76fc3c346,journey.gifts,available,38.48,47.48,high,medium,7,namecheap,,,30/09/2026 00:58
-60182f21-cc6b-4218-ba74-bb3bdf194f33,expedition.build,available,26,26,high,low,10,spaceship,,,29/09/2026 18:24
-04500c7a-3e2d-4881-8e21-0a560119d8ef,tourism.co,resell,,,high,low,7,,,,29/09/2026 20:31
 902493c6-57cc-414d-bce9-0878aa384589,trip.bar,resell,,,high,low,4,"Dynadot, LLC",31/01/2026 06:15,31/01/2027 06:15,26/09/2026 09:46
-aec3fb07-f21f-4066-8daf-1d556ec22e8f,expedition.ooo,available,22.21,22.21,high,low,10,dynadot,,,29/09/2026 18:24
 85423bcd-31b0-4ef4-9a95-1bfa10c8ad2a,trip.charity,available,7.48,37.98,high,low,4,namecheap,,,08/09/2026 04:57
-c8d84223-6885-4515-8daa-44dc58efc006,tourism.vin,premium,102.67,102.67,high,low,7,spaceship,,,29/09/2026 20:31
-6e39067c-d902-4c8f-962e-cbd130ae62e5,itinerary.cab,available,25.2,25.2,high,low,9,cloudflare,,,01/10/2026 20:07
-0a8167e9-483e-42d5-aeaf-71feb048e47c,excursion.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,29/09/2026 18:22
-313c3245-e9ef-493a-94ea-1fc1e3ebd716,expedition.wedding,available,26.08,26.08,high,low,10,spaceship,,,29/09/2026 18:24
 c9061ab2-a9d7-4e95-a335-06a0fa513bb6,trip.love,premium,1365,1950,high,low,4,namecheap,,,08/09/2026 04:57
 ca3d52ee-05b4-4817-9285-11586d5a1a0b,trip.vana,available,2298,2498,high,low,4,namecheap,,,08/09/2026 04:57
-c0c529e3-0a7e-4356-8083-ea2284d8b01b,expedition.services,resell,,,high,low,10,"GoDaddy.com, LLC",05/06/2026 20:13,05/06/2027 20:13,29/09/2026 18:24
+d8932d2b-98c7-423f-b21d-e191e6613a43,travel.ing,premium,31050.2,31050.2,high,low,6,spaceship,,,30/09/2026 13:48
 07cab6b7-7d75-4fe1-9d94-b40c93a6fcd0,journey.lighting,available,23.99,23.99,high,medium,7,namesilo,,,30/09/2026 00:58
-cb30b653-5190-41bf-a438-24016ee62f14,expedition.juegos,available,368.98,478.98,high,low,10,namecheap,,,29/09/2026 18:24
 d0068bab-078c-4645-bed3-61150739b629,journey.associates,available,18.99,38.99,high,medium,7,namesilo,,,30/09/2026 00:58
-3418c327-864f-4d62-97d2-2efffa0e8fc3,tourism.accountants,available,90.2,90.2,high,low,7,cloudflare,,,29/09/2026 20:31
 0e7a3279-3ee8-42c3-8351-e2b333ba808b,trip.poker,available,5.98,85.98,high,low,4,namecheap,,,08/09/2026 04:57
-f147522d-49f8-4271-a65c-7a18ad24d081,expedition.exposed,available,17.8,17.8,high,low,10,spaceship,,,29/09/2026 18:24
-425667e7-3ada-4e9a-992c-336aa75bc486,excursion.bayern,available,31.99,30.8,high,low,9,porkbun,,,29/09/2026 18:22
 8c7d06df-2f2c-49c5-9716-d8fc7c1a6fec,journey.equipment,available,29.98,32.98,high,medium,7,namecheap,,,30/09/2026 00:58
 4935a2ca-989b-4cbd-961b-2b16a64e3e55,journey.sexy,available,2749.99,2749.99,high,medium,7,namesilo,,,30/09/2026 00:58
-c104a5c1-c7cd-4310-8bd1-4c39530f4cad,expedition.football,available,10.92,21.62,high,low,10,dynadot,,,29/09/2026 18:24
-6615bc01-5041-40bc-a32b-4ff74055729f,tourism.clothing,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 20:31
-fdbc056a-fa3c-4c84-9a9e-672c6736510b,excursion.hamburg,available,69.98,73.98,high,low,9,namecheap,,,29/09/2026 18:22
 f71c1f00-d7f5-435c-9ad2-a65ad02cdb65,journey.school,resell,,,high,medium,7,"Xiamen ChinaSource Internet Service Co., Ltd",01/04/2021 08:23,01/04/2027 08:23,30/09/2026 00:58
-62200ad2-6f59-40c6-a972-55972be1a4d5,expedition.rent,available,45.2,45.2,high,low,10,cloudflare,,,29/09/2026 18:24
-fda63628-40ec-457c-bbb0-8b5558b7e575,expedition.credit,available,8.48,83,high,low,10,spaceship,,,29/09/2026 18:24
 f710bc5d-9ca2-4d3d-9fff-abd4f367e4a2,trip.condos,available,58.99,58.99,high,low,4,namesilo,,,08/09/2026 04:57
-059446ac-e4b4-4aa6-99bd-d42e03602c32,tourism.fans,premium,51.95,103.7,high,low,7,spaceship,,,29/09/2026 20:31
-d5ee64fb-3a1e-44a5-a02b-f9dea67914b3,expedition.review,premium,103.7,26.08,high,low,10,spaceship,,,29/09/2026 18:24
-cdafc608-5f1a-427c-9b28-1b655e02c870,expedition.trade,premium,455,65,high,low,10,namecheap,,,29/09/2026 18:24
-a295150a-c01d-47f8-8db0-7bcbb17802eb,tourism.dad,premium,516.67,516.67,high,low,7,spaceship,,,29/09/2026 20:31
-0ee1e8bd-97de-4500-95d7-45d54c34aac3,expedition.yoga,available,26.08,26.08,high,low,10,spaceship,,,29/09/2026 18:24
-b48e4a65-0ab5-48da-8c77-e1243fa2d191,expedition.navy,available,33.32,33.32,high,low,10,spaceship,,,29/09/2026 18:24
 ff8bb60c-3832-425b-85b2-2c79ca1af7b2,trip.skin,premium,2600,15.73,high,low,4,namecheap,,,
 c6410530-2449-4733-a322-1d84a6af376f,trip.town,resell,,,high,low,4,"Spaceship, Inc.",24/08/2015 20:20,24/08/2027 20:20,26/09/2026 09:46
 6c8f05cb-2744-4bba-8b02-e1f219a7c1e2,trip.audio,available,104.99,114.99,high,low,4,namesilo,,,08/09/2026 04:57
-e58ab168-ecab-48f5-8feb-4e80e483957c,expedition.host,available,79.2,79.2,high,low,10,cloudflare,,,29/09/2026 18:24
-d7e4ae7b-020c-4ec1-b9e2-f0e8c7c4e930,tourism.gifts,available,29.18,29.18,high,low,7,spaceship,,,29/09/2026 20:31
-c0a7fc60-0680-4611-aad6-2edc64ea85dd,tourism.surf,premium,437.19,27.82,high,low,7,porkbun,,,29/09/2026 20:31
-45de8ca2-619a-4994-a03d-5f7f7f02ed19,excursion.taxi,available,7.96,49.88,high,low,9,spaceship,,,29/09/2026 18:22
-07634ba3-2ba2-4358-a399-f6590c360aa2,tour.bayern,premium,568.9,50.99,high,low,4,name.com,,,24/09/2026 22:26
-9c0cf36f-eb60-41a3-a8bd-76d3b1d88a53,tourism.lat,resell,,,high,low,7,,,,29/09/2026 20:31
 9b240525-e485-4c6e-a446-634779bfc1e7,journey.blog,premium,1662.5,6900,high,medium,7,namesilo,,,30/09/2026 00:58
-9f0c8dd6-bf52-4dbc-9b6a-8a182ef1363e,excursion.town,available,6.41,29.18,high,low,9,spaceship,,,29/09/2026 18:22
 3c0b08cd-dabb-4cc2-9745-d0c035d64aac,trip.financial,available,17.48,66.98,high,low,4,namecheap,,,08/09/2026 04:57
 cd0b65db-3f42-4468-89e3-6a8ce944aa87,journey.uk,resell,,,high,medium,7,Catch22 Media Limited,08/12/2016 13:16,08/12/2027 13:16,30/09/2026 00:58
 5ae0039e-d963-4420-afa4-5cd7aa3decf8,journey.green,premium,550,550,high,medium,7,dynadot,,,30/09/2026 00:58
 b162f96a-0202-4192-99a6-55933b3f854b,journey.catering,available,38.99,38.99,high,medium,7,namesilo,,,30/09/2026 00:58
 8c5e2dfe-98ae-4b0e-a1fc-a5fb922aa4cf,trip.apartments,available,57.99,57.99,high,low,4,namesilo,,,08/09/2026 04:57
-f749c09c-63c1-401e-956e-cd02a6761ced,expedition.live,resell,,,high,low,10,"DNSPod, Inc.",30/12/2019 19:25,30/12/2026 19:25,29/09/2026 18:24
-d7627f69-5900-43ca-a410-e5bc7e16a5d5,excursion.id,available,22.98,25.98,high,low,9,namecheap,,,29/09/2026 18:22
 8a3d3e0d-8510-4fe6-9cc4-4f080b85ebd2,trip.accountant,premium,448,53.92,high,low,4,namesilo,,,08/09/2026 04:57
-4936170d-2f64-411b-a149-79356bfc06fc,expedition.boutique,available,2.27,26.08,high,low,10,spaceship,,,29/09/2026 18:24
 8fb7f4d3-9621-4a1e-b7e8-af80f14c00df,journey.schule,available,22.2,22.2,high,medium,7,cloudflare,,,30/09/2026 00:58
-97debcfb-1106-451d-804c-4a0b98ccd228,vacation.lifestyle,premium,724.7,1035.2,high,low,8,spaceship,,,29/09/2026 22:55
-08c57ccf-1fcd-457b-b468-89a0d43d7b25,tourist.rest,premium,576,576,high,low,7,namesilo,,,29/09/2026 22:57
-ff7575a0-fcba-46d2-a4d2-20e74de91605,expedition.love,resell,,,high,low,10,"Chengdu West Dimension Digital Technology Co., LTD",19/08/2026 05:43,19/08/2027 05:43,29/09/2026 18:24
-da3568aa-3fbd-4165-85be-72e5d9096df0,tourism.game,available,309.47,340.37,high,low,7,porkbun,,,29/09/2026 20:31
-22e0ef78-7867-44e7-bdf7-9739fbd2e1fe,expedition.land,available,15,54.98,high,low,10,unstoppable,,,29/09/2026 18:24
 77595319-bfd8-41be-b1fb-8858c6dc0c2d,journey.diy,premium,640,640,high,medium,7,namesilo,,,30/09/2026 00:58
 61f06250-fa86-4054-8fe4-71a01b302ba8,trip.consulting,premium,130,260,high,low,4,namecheap,,,08/09/2026 04:57
-f10b2317-1e97-4072-bba6-f1c854d514fb,expedition.talk,available,31.25,31.25,high,low,10,spaceship,,,29/09/2026 18:24
-3db76fb9-a081-4b53-a6fd-385efa864922,voyage.page,premium,167.7,167.7,high,low,6,namecheap,,,28/09/2026 02:51
 14ccfaf7-23a8-40dd-a6a1-1729d5f25365,trip.gay,premium,2600,2600,high,low,4,namecheap,,,08/09/2026 04:57
-58a8ba84-48f3-4ad2-bcf1-bef0fbd7e6c8,tourism.dog,available,50.2,50.2,high,low,7,cloudflare,,,29/09/2026 20:31
 d0a86c52-9be5-4b8e-bdc3-60ae9284dbe3,journey.sydney,available,40.12,40.12,high,medium,7,porkbun,,,30/09/2026 00:58
-0eadebdf-6e71-49c0-aa45-6fbc635b5fc3,expedition.hot,available,52.98,58.98,high,low,10,namecheap,,,29/09/2026 18:24
-912f2638-bc71-4427-9d85-b4991ab5b3d5,itinerary.lifestyle,available,1.8,48.98,high,low,9,namecheap,,,01/10/2026 20:07
-7ae7e4b6-8c7e-41c4-8bfd-e03648356399,tourism.food,available,4.35,31.25,high,low,7,spaceship,,,29/09/2026 20:31
 1edda195-58c5-4b0a-96d8-4c599e54e75d,trip.tattoo,available,2.98,48.98,high,low,4,namecheap,,,08/09/2026 04:57
-00a1375c-71b0-4bd6-a4dc-93fc19e4632e,tourism.yoga,premium,414.2,26.08,high,low,7,spaceship,,,29/09/2026 20:31
-fca94b6e-c100-47a0-8b58-3596c73e5cd9,tourism.ong,available,16.72,16.72,high,low,7,dynadot,,,29/09/2026 20:31
-2a782735-a513-4033-a236-290353634471,tourism.engineering,available,6.69,52.01,high,low,7,porkbun,,,29/09/2026 20:31
-c966ff38-a323-4995-aa71-426017c60acb,tourism.gratis,available,18.83,18.83,high,low,7,spaceship,,,29/09/2026 20:31
 2a94e170-c282-4690-bd9d-2d11f9d2c842,trip.yachts,premium,812.5,,high,low,4,name.com,,,
 879f96e6-cec1-4d1f-a467-f7e185265a3e,journey.asia,resell,,,high,medium,7,"GoDaddy.com, LLC",15/07/2008 07:03,15/07/2027 07:03,30/09/2026 00:58
 bf626f3d-69c7-4acc-a5c2-5b9375ded8e4,journey.guitars,available,104.99,114.99,high,medium,7,namesilo,,,30/09/2026 00:58
 4519afe3-51c5-4287-a8e4-799528ebbe2e,tourism.viajes,available,35.2,35.2,high,low,7,cloudflare,,,29/09/2026 20:31
-7922e2c7-f2cd-4aec-8481-a747ea47ed50,voyage.dad,premium,133.72,133.72,high,low,6,spaceship,,,28/09/2026 02:51
-caf03e16-665c-4ed1-bab6-afd35d47311b,tourism.review,premium,13000,130,high,low,7,namecheap,,,29/09/2026 20:31
-1069ba75-1e5e-4aef-9ae3-bf12bd4e78a5,tourism.tires,available,70.2,70.2,high,low,7,cloudflare,,,29/09/2026 20:31
-5122a83d-8e47-470e-858a-8a5c051b5c10,tour.country,available,2298,2450,high,low,4,namecheap,,,24/09/2026 22:26
 b1b2ceb3-a248-4cb2-88cd-80153dc9e3f1,journey.army,available,18.99,39.99,high,medium,7,namesilo,,,30/09/2026 00:58
 b9195edf-4d2c-4603-940f-e6c2f61886b3,journey.osaka,available,26.97,26.97,high,medium,7,dynadot,,,30/09/2026 00:58
 01d8f823-da80-4d4e-b901-5f7606ceaa0d,trip.immobilien,available,37.99,37.99,high,low,4,namesilo,,,08/09/2026 04:57
 96dcf6ad-dd12-4583-90ee-cb49f28d8acd,tourism.melbourne,available,44.98,53.98,high,low,7,namecheap,,,29/09/2026 20:31
 59cbe575-8efa-4f5e-8c13-dea08dea7ab2,journey.best,resell,,,high,medium,7,Dynadot Inc,15/08/2026 00:12,15/08/2027 23:59,30/09/2026 00:58
-42d8c2ef-9173-43bb-8c5a-775539daca25,tour.rent,resell,81.98,,high,low,4,"GoDaddy.com, LLC",07/12/2025 09:57,07/12/2026 23:59,26/09/2026 09:42
-57d427c9-fbc6-42c0-9078-cb094f6ab632,expedition.theater,available,51.95,51.95,high,low,10,spaceship,,,29/09/2026 18:24
 ddcadde9-0c7a-4a4f-958e-ef792063e2d9,trip.foo,premium,1298.7,1298.7,high,low,4,namecheap,,,08/09/2026 04:57
 577f9aad-4fe1-4cc5-a5e9-61086e4c6aff,trip.icu,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",28/12/2021 02:15,28/12/2026 23:59,26/09/2026 09:46
 c8624368-4b8e-4f8e-a6a6-e1a5b8e8fc25,trip.voting,available,1398,1448,high,low,4,namecheap,,,08/09/2026 04:57
 49f5685c-3811-48b7-bd16-04c282429721,trip.lgbt,premium,2600,2600,high,low,4,namecheap,,,08/09/2026 04:57
-ec3af288-50e9-4433-80aa-97c879cf78f5,tourism.futbol,available,5.38,13.66,high,low,7,spaceship,,,29/09/2026 20:31
-1e44247a-0232-423f-bf73-5e4e2fef3ed9,tourism.lighting,available,22.98,31.98,high,low,7,namecheap,,,29/09/2026 20:31
-5339f423-7795-446f-86fd-035258d76e5b,voyage.maison,available,44.2,44.2,high,low,6,cloudflare,,,28/09/2026 02:51
-764ca603-fbca-4ee8-9c8c-47f8d9c1664d,voyage.marketing,premium,78.54,78.54,high,low,6,namesilo,,,28/09/2026 02:51
-d6f3ab11-325b-4e22-90e2-086230032830,voyage.furniture,available,27.99,94.99,high,low,6,namesilo,,,28/09/2026 02:51
-db6bd851-9a24-48d8-8715-bb2d037d3c2d,tourism.auto,available,1863.2,2064.2,high,low,7,spaceship,,,29/09/2026 20:31
-f0701fb8-1e27-4215-a156-dc3fe8869678,vacation.casa,resell,,,high,low,8,"Spaceship, Inc.",05/06/2026 20:26,05/06/2027 20:26,29/09/2026 22:55
-c96b3e42-8ed3-4c97-b03a-5d3450368103,tourism.guru,premium,828.2,828.2,high,low,7,spaceship,,,29/09/2026 20:31
-0a3b92bb-3044-432f-a025-4a4811b1810a,tourist.london,premium,273.99,273.99,high,low,7,spaceship,,,29/09/2026 22:57
-5c496fe2-406b-4074-8bdd-e3a6f626b393,expedition.lifestyle,available,1.8,48.98,high,low,10,namecheap,,,29/09/2026 18:24
 6ff270b2-d9c7-4058-950f-0946b90c6336,journey.solar,available,5.66,52.01,high,medium,7,porkbun,,,30/09/2026 00:58
 ccbfd758-731b-4fef-9b12-f7746382d7ec,trip.dealer,premium,2015,2600,high,low,4,namecheap,,,08/09/2026 04:57
 ba3ff3d3-583d-4379-b268-f90d475aa1c1,trip.wiki,resell,,,high,low,4,Megazone Corp.,11/06/2024 16:49,11/06/2028 16:49,26/09/2026 09:46
-9dc9cbf7-9c92-4c6c-841d-6d3b30bab148,voyage.eco,premium,7762.7,59.71,high,low,6,spaceship,,,28/09/2026 02:51
-b5ee8067-44c1-456d-9eb5-6a3e12534bb9,tourism.place,resell,,,high,low,7,,,,29/09/2026 20:31
-bb77ed85-7ff1-4a3e-9154-9ecd41fba4bf,expedition.hospital,available,55.98,71.98,high,low,10,namecheap,,,29/09/2026 18:24
 a2d94dea-c0e5-409c-b1e0-ce9a923d96e0,journey.kim,available,5.38,18.83,high,medium,7,spaceship,,,30/09/2026 00:58
 8436422f-f61d-4384-af76-ff4e8ea38e28,trip.motorcycles,premium,845,15.73,high,low,4,namecheap,,,
-7aad9f4f-ae0b-4e45-aaef-7b892ac0cd34,excursion.guitars,available,93.35,103.4,high,low,9,spaceship,,,29/09/2026 18:22
-ebb09b6b-793c-4ed5-bcc8-444d88c45238,tourism.cleaning,available,60.23,60.23,high,low,7,spaceship,,,29/09/2026 20:31
 14a07d59-38e2-42c8-96b1-540092f18b08,journey.holdings,available,51.95,51.95,high,medium,7,spaceship,,,30/09/2026 00:58
-33145050-272f-43aa-a006-4386558a46cd,tourism.company,resell,,,high,low,7,,,,29/09/2026 20:31
-467c6c51-266a-4a91-a10e-ba55d5949c17,expedition.faith,premium,103.7,26.08,high,low,10,spaceship,,,29/09/2026 18:24
-148e53ad-f69f-4819-b0ad-b666b632fada,voyage.security,available,2070,2950,high,low,6,namecheap,,,28/09/2026 02:51
-28c0f9ae-72dc-4c9b-a440-6c0033019811,tourism.solar,available,50.2,50.2,high,low,7,cloudflare,,,29/09/2026 20:31
-c8856ba6-5af6-439c-91c1-71c2feefeea1,tour.pw,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",28/01/2016 13:04,28/01/2030 23:59,26/09/2026 09:42
-70559193-3229-4639-adec-8deac72590c1,expedition.vision,available,36.43,36.43,high,low,10,spaceship,,,29/09/2026 18:24
 a7bf9df1-03f3-495b-b647-23f8b517ff8c,journey.lifestyle,premium,640,640,high,medium,7,namesilo,,,30/09/2026 00:58
-adff3936-7038-46ca-ba9d-3dc1296d1a11,expedition.osaka,available,26.68,26.88,high,low,10,porkbun,,,29/09/2026 18:24
 3ec49bad-79e6-474b-9f2d-42f9ca027b63,journey.navy,available,33.32,33.32,high,medium,7,spaceship,,,30/09/2026 00:58
 fa7a7799-7566-4e6f-8d70-845b8ba10719,journey.plumbing,available,58.16,58.16,high,medium,7,spaceship,,,30/09/2026 00:58
-34a542b8-e179-46bb-be35-000a1754414f,vacation.london,premium,1410.24,31.28,high,low,8,namesilo,,,29/09/2026 22:55
-bcdb0da4-3775-4da7-bef3-a8312b378117,voyage.theatre,available,465.95,500.18,high,low,6,spaceship,,,28/09/2026 02:51
 2000c3de-5f9e-47d4-9728-b695b4cf1c11,trip.rocks,resell,,,high,low,4,Dynadot Inc,08/02/2026 17:00,08/02/2027 17:00,26/09/2026 09:46
 a9d6fa0f-d040-46e9-9bbd-08e707232e1a,trip.cv,premium,1309.75,87.75,high,low,4,namecheap,,,08/09/2026 04:57
-1db8ca87-950a-4198-ac8a-bd0120565789,expedition.channel,premium,32.18,32.18,high,low,10,porkbun,,,29/09/2026 18:24
-7101afe6-970b-401d-be4c-ec8cf6d1a08a,expedition.lawyer,available,48.2,48.2,high,low,10,cloudflare,,,29/09/2026 18:24
-92b11367-f6a8-4474-98cf-971750d92d40,voyage.enterprises,available,8.48,28.15,high,low,6,spaceship,,,28/09/2026 02:51
-58875fca-ed5b-4c9f-879a-25544664f62d,tourism.army,available,30.2,30.2,high,low,7,cloudflare,,,29/09/2026 20:31
-97123523-24d7-4e8d-8c48-16c4a3e36273,tourism.theater,available,67.98,80.98,high,low,7,namecheap,,,29/09/2026 20:31
 8289ec8c-ec9f-48c3-a271-631819010195,trip.glass,available,72.99,72.99,high,low,4,namesilo,,,08/09/2026 04:57
 bf2b9931-9b55-47fd-8479-0050ff18953f,journey.engineer,available,9.78,31.41,high,medium,7,porkbun,,,30/09/2026 00:58
 523ea632-5af1-4396-afb5-19e517707d60,journey.group,resell,,,high,medium,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),29/09/2018 08:38,29/09/2028 08:38,30/09/2026 00:58
 0169eccd-fc65-4df1-b92b-f2928dbf6005,journey.company,resell,,,high,medium,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),18/01/2022 13:15,18/01/2027 13:15,30/09/2026 00:58
 c88f2532-a807-434d-974b-e217299eb711,journey.help,premium,83.3,116,high,medium,7,namesilo,,,30/09/2026 00:58
 cfe0bfd5-31c1-42ef-b324-8dc8f73113de,trip.soccer,available,25.99,25.99,high,low,4,namesilo,,,08/09/2026 04:57
-87571b9f-7f8b-4c67-98c3-bfd5812a7f68,tourism.moda,available,33.32,33.32,high,low,7,spaceship,,,29/09/2026 20:31
 5804a23c-2312-4d6d-94b9-629385a35161,trip.lifestyle,premium,227.5,325,high,low,4,namecheap,,,08/09/2026 04:57
 3914374b-9d44-4e43-9898-c368f84d799e,journey.bid,premium,448,53.92,high,medium,7,namesilo,,,30/09/2026 00:58
-08cdf440-4f2a-4b99-b325-e2c16e5b8a3b,traveler.reisen,available,16.99,16.99,high,low,8,porkbun,,,30/09/2026 13:52
 458c3a56-2b7d-4d5c-b618-81b309f8c859,trip.finance,resell,,,high,low,4,"Sav.com, LLC - 8",20/05/2026 15:15,20/05/2027 15:15,26/09/2026 09:46
-a19d20d4-8c91-4203-a90f-6aa857ae7389,voyage.tickets,available,393.98,608.98,high,low,6,namecheap,,,28/09/2026 02:51
-0c214c01-101c-4619-9abd-a7b49bc1147d,excursion.london,available,12.98,41.98,high,low,9,namecheap,,,29/09/2026 18:22
-f6283c56-b6a7-4796-b505-d3e4b68d34ec,itinerary.bz,available,18.88,18.88,high,low,9,dynadot,,,01/10/2026 20:07
-b885e0a1-2856-4fa4-aa9d-dd388ea8a9a4,tour.family,premium,242,242,high,low,4,namesilo,,,24/09/2026 22:26
-d4766259-4cac-47f0-9678-c6e21a4de36b,tourism.supply,available,20.9,20.9,high,low,7,spaceship,,,29/09/2026 20:31
-7995caeb-364e-4937-bb64-f86ddbdf6739,voyage.giving,available,7.48,35.98,high,low,6,namecheap,,,28/09/2026 02:51
-9068aaf4-0bca-4a03-a95a-dbefa87c6ce4,voyage.faith,premium,,,high,low,6,,,,28/09/2026 02:51
-c0abe94a-cf1d-41b6-9eee-c54eafc1f9c1,voyage.condos,premium,102.67,102.67,high,low,6,spaceship,,,28/09/2026 02:51
 749a99cd-1cfb-440b-a7f4-d977fd0115ed,journey.immo,available,34.99,34.99,high,medium,7,namesilo,,,30/09/2026 00:58
-9b817467-f7b0-4b41-926d-d244a4f17f77,expedition.camera,available,11.84,46.86,high,low,10,porkbun,,,29/09/2026 18:24
 e0bef9f2-42cd-4a7c-97cd-9029c2949793,journey.dad,premium,257.92,257.92,high,medium,7,spaceship,,,30/09/2026 00:58
-33869e74-51d6-4cd6-8956-4d45e5fdf748,tourism.how,premium,474.5,474.5,high,low,7,namecheap,,,29/09/2026 20:31
-5d26454c-e1f1-4097-8e67-32ccb60a4124,vacation.asia,resell,,,high,low,8,"Xiamen ChinaSource Internet Service Co., Ltd",10/05/2025 21:55,10/05/2027 21:55,29/09/2026 22:55
-954a2fc0-e45b-49b2-9b28-2bf9bbde90de,voyage.beer,available,1.24,26.08,high,low,6,spaceship,,,28/09/2026 02:51
-462060ef-dd51-4072-a671-55982129029b,tour.rich,available,94.99,1999,high,low,4,namesilo,,,24/09/2026 22:26
-4feb0b0f-4241-483b-ad75-407a4fb54142,expedition.sex,available,95.2,95.2,high,low,10,cloudflare,,,29/09/2026 18:24
-1e315cde-294b-4657-8395-39bb6fe88c6c,tour.study,premium,116,116,high,low,4,namesilo,,,24/09/2026 22:26
-5181260c-e386-47a3-ba09-1aeceb7d5a4f,vacation.cv,premium,1042.76,7.76,high,low,8,spaceship,,,29/09/2026 22:55
-44e97d61-e54e-4174-a758-1481ca5f3d97,tour.rsvp,premium,648.7,648.7,high,low,4,namecheap,,,24/09/2026 22:26
-ea33f3dc-428c-4d0f-b29c-89e857663194,tourist.ag,available,89.99,79.99,high,low,7,namesilo,,,29/09/2026 22:57
-2792ff78-0925-4501-a2b5-fc54685867ba,vacation.country,available,2140.22,2140.22,high,low,8,dynadot,,,29/09/2026 22:55
-46552670-e867-44f2-9b06-900ab6865783,tourist.tienda,available,5.66,47.89,high,low,7,porkbun,,,29/09/2026 22:57
-4b7a14f4-5f5e-47f1-a40f-1d7601de6b31,itinerary.life,available,2.27,29.18,high,low,9,spaceship,,,01/10/2026 20:07
-e1ab296e-4d49-44e1-9ecc-657ff5568c4f,tourism.wine,available,7.45,47.81,high,low,7,spaceship,,,29/09/2026 20:31
-e6055b69-cdcb-4fd1-ba42-bb38e6a51ee9,voyage.voto,available,10.81,56.13,high,low,6,porkbun,,,28/09/2026 02:51
-681602ab-3ff7-4fbf-9a38-565d9000d3bd,voyage.restaurant,available,20.99,64.99,high,low,6,namesilo,,,28/09/2026 02:51
-a4616cf1-4e6b-49fb-8d74-ab05bfed94e6,itinerary.day,available,10.2,10.2,high,low,9,cloudflare,,,01/10/2026 20:07
-0119561d-ce18-4709-9b26-f3ddef2d730d,tourism.computer,available,17.8,31.25,high,low,7,spaceship,,,29/09/2026 20:31
 e411e018-69f5-46a4-8e27-cbed3efb07ce,journey.nexus,premium,272.35,272.35,high,medium,7,porkbun,,,30/09/2026 00:58
-3b5db411-67bb-422c-ba15-c2851a30e678,tour.properties,premium,1040,1040,high,low,4,namecheap,,,24/09/2026 22:26
 0fa6a5ac-d6c3-4e62-a1f1-a98cc4dd9196,trip.surf,premium,242,29.5,high,low,4,namesilo,,,08/09/2026 04:57
-94aa3095-e718-4c4e-b89d-34d1f96f9e56,tour.phd,premium,843.7,843.7,high,low,4,namecheap,,,24/09/2026 22:26
 aa2422df-8e3a-4dda-bd46-6d50d78487da,trip.fyi,resell,,,high,low,4,"Spaceship, Inc.",18/11/2017 16:11,18/11/2026 16:11,26/09/2026 09:46
-40552ca2-3e67-4239-9f89-2cb1bea5440b,voyage.moda,available,33.32,33.32,high,low,6,spaceship,,,28/09/2026 02:51
-cf3c0e22-14c3-4dbf-8d1a-11867c91a15d,tourism.chat,resell,,,high,low,7,,,,29/09/2026 20:31
-c76dc1e9-4810-49e0-b287-c2f0659d6e45,tour.hot,premium,1107,1107,high,low,4,namesilo,,,24/09/2026 22:26
-201aea0a-5e5c-414d-aa1f-074c8830d5d5,tourist.la,resell,,,high,low,7,LA Domain Names,20/04/2023 08:45,20/04/2027 23:59,29/09/2026 22:57
 f8741186-0edf-4bef-80a7-1df8e1c1d9bf,tourist.reisen,available,3.99,20.99,high,low,7,namesilo,,,29/09/2026 22:57
-0606235e-e9fd-4fa4-b56d-3db4f2d3efbe,excursion.car,available,1863.2,2064.2,high,low,9,spaceship,,,29/09/2026 18:22
-ab323961-95fa-451c-b90d-fcfc81bb0b68,excursion.supplies,available,19.87,19.87,high,low,9,spaceship,,,29/09/2026 18:22
-c086b1da-a19b-4128-af67-91805c572d87,tour.rodeo,premium,96,11.8,high,low,4,namesilo,,,24/09/2026 22:26
-38f07444-460c-46fd-9b22-1ee0b36b7c41,voyage.coffee,available,16.99,42.99,high,low,6,namesilo,,,28/09/2026 02:51
-6b4c72cc-df36-426f-b8fc-f821edfee76a,expedition.airforce,available,85.82,85.82,high,low,10,dynadot,,,29/09/2026 18:24
 31e609b7-3b7a-44aa-8e60-580b0817ed64,trip.rip,available,,,high,low,4,,,,
-d7e9f9c8-40c2-4745-8ae9-cee8356dc901,tourism.cool,available,5.38,36.43,high,low,7,spaceship,,,29/09/2026 20:31
 695b59a9-94ca-4ba4-8f51-ecf805973ca8,journey.gives,available,14.99,23.99,high,medium,7,namesilo,,,30/09/2026 00:58
-52ce5003-8556-43c8-8d87-f17fb88c5af3,itinerary.camp,available,49.88,49.88,high,low,9,spaceship,,,01/10/2026 20:07
 1c2163b4-0222-4cec-94bb-b546aa541506,trip.auction,premium,242,242,high,low,4,namesilo,,,08/09/2026 04:57
 eb703d33-4d85-4fa5-b00d-51683acb6d83,voyage.vacations,premium,242,242,high,low,6,namesilo,,,28/09/2026 02:51
 2f6f0463-9126-4a8c-8154-c9a18ea08a26,journey.hospital,available,45.74,45.74,high,medium,7,spaceship,,,30/09/2026 00:58
-ddc4529e-d95b-4864-b5cd-8137d923a6b3,vacation.property,resell,,,high,low,8,Epik LLC,23/11/2017 08:48,23/11/2026 08:48,29/09/2026 22:55
-5874e060-7881-4db5-a012-2b63661cfea6,expedition.lgbt,available,13.5,,high,low,10,unstoppable,,,29/09/2026 18:24
 1bc60f5f-bb1e-41ce-aecc-d1443cc9e7cc,trip.restaurant,available,11.98,81.98,high,low,4,namecheap,,,08/09/2026 04:57
-52f61a59-174f-479d-ad78-951e8fc732bf,voyage.company,premium,78.54,78.54,high,low,6,namesilo,,,28/09/2026 02:51
 e3a132ae-4beb-4e5b-a62b-fe6a04f81a66,trip.global,resell,,,high,low,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),20/11/2019 01:07,20/11/2034 01:07,26/09/2026 09:46
 1237a0d2-3b18-401e-9947-864a078612e9,journey.kids,premium,384,21.24,high,medium,7,namesilo,,,30/09/2026 00:58
-e7dbf86c-1e70-44fc-b208-29e59cbba7ed,tour.mobile,premium,390,390,high,low,4,namecheap,,,24/09/2026 22:26
-6fe80e16-0dc6-4df3-9ec8-818c19ed1206,excursion.cv,available,7.98,7.98,high,low,9,spaceship,,,29/09/2026 18:22
 8ff5a62b-776e-4a7a-bae1-9d3bb7625caa,trip.theater,available,65.99,65.99,high,low,4,namesilo,,,08/09/2026 04:57
-c3e9f507-5051-4e6a-b44a-2a4f56bcab3c,tourism.foundation,premium,,,high,low,7,,,,29/09/2026 20:31
 af064833-aac8-436e-8543-14624e07eead,trip.flowers,available,64.99,114.99,high,low,4,namesilo,,,08/09/2026 04:57
-5f293c34-d5bd-4e4e-8e3f-74f4b57e6fd5,tourist.bargains,premium,66.5,78.54,high,low,7,unstoppable,,,29/09/2026 22:57
-f4def274-6272-416f-9dd0-1da255a56c90,expedition.vegas,available,16.51,43.61,high,low,10,dynadot,,,29/09/2026 18:24
 4feb276b-c555-40b1-8b21-4da9f90b618b,trip.autos,premium,845,15.73,high,low,4,namecheap,,,
-ffec5d3d-971a-4b33-af37-0511f81813ad,expedition.holdings,available,50.2,50.2,high,low,10,cloudflare,,,29/09/2026 18:24
-5ff445bf-0716-4f26-91b9-745ca8c7adaa,tourism.gmbh,available,36.56,36.56,high,low,7,porkbun,,,29/09/2026 20:31
-cef5813b-8f37-4e1d-8763-7a8537d43291,excursion.sale,available,7,,high,low,9,unstoppable,,,29/09/2026 18:22
 c7b66ad0-984a-44d4-8a87-c8aceda5bfd2,journey.forex,available,80.2,80.2,high,medium,7,cloudflare,,,30/09/2026 00:58
-46e4cd5a-9139-4063-9642-74fdce5c535b,voyage.land,premium,118.8,118.8,high,low,6,namesilo,,,28/09/2026 02:51
-d170e5f7-78df-4ba9-9546-f38442d2462d,vacation.desi,available,19.98,22.98,high,low,8,namecheap,,,29/09/2026 22:55
-dd08b23b-d1e3-4d7c-b7f6-25cb0da74c61,excursion.school,available,5.66,29.35,high,low,9,porkbun,,,29/09/2026 18:22
 e9edf985-937c-424b-8a36-f3f2e86a5366,journey.tattoo,available,2.06,31.41,high,medium,7,porkbun,,,30/09/2026 00:58
-16ffaa1d-8eab-41af-b922-2f0bddbcd491,expedition.education,available,21.62,29.11,high,low,10,dynadot,,,29/09/2026 18:24
 c6ac7ae4-aac6-4608-9bbf-0bff91c70cde,trip.recipes,available,5.48,95.98,high,low,4,namecheap,,,08/09/2026 04:57
-4b43bb28-4deb-4293-9f93-9b976015a74e,tourism.health,premium,2587.7,62.3,high,low,7,spaceship,,,29/09/2026 20:31
 30060df8-d06c-4b37-9740-6f1593a5f5ae,journey.sarl,available,5.2,5.2,high,medium,7,cloudflare,,,30/09/2026 00:58
-75b9d1a4-0e52-47a7-816d-cce49701c1e9,tour.mov,premium,648.7,648.7,high,low,4,namecheap,,,24/09/2026 22:26
-80fbf380-3e74-404d-b594-ac84150a80f8,tour.accountant,premium,625,81.25,high,low,4,name.com,,,24/09/2026 22:26
-c5bb11c8-a519-4bec-8548-3865ce646ba3,vacation.mobi,resell,,,high,low,8,Epik LLC,28/07/2020 14:31,28/07/2027 14:31,29/09/2026 22:55
-38047ba2-d916-4f55-b98e-d3e0ff80cf13,excursion.cat,available,18.83,25.04,high,low,9,spaceship,,,29/09/2026 18:22
-50867889-4550-4cac-9bad-10e89600d2db,tour.mortgage,available,65.98,76.98,high,low,4,namecheap,,,24/09/2026 22:26
-38c45968-fc48-4739-bb03-579acb3ff313,tourism.soy,premium,299.2,,high,low,7,unstoppable,,,29/09/2026 20:31
-f40406bb-1332-4ad8-8824-3830af87014c,expedition.mortgage,available,49.88,49.88,high,low,10,spaceship,,,29/09/2026 18:24
 04502513-6fba-4f8b-ac36-f48ee721d870,trip.academy,resell,,,high,low,4,"GoDaddy.com, LLC",15/05/2014 13:40,15/05/2027 13:40,26/09/2026 09:46
 cea1746a-73ee-407b-9060-791b4822103e,trip.luxury,resell,,,high,low,4,Dynadot Inc,24/10/2025 00:03,24/10/2027 23:59,26/09/2026 09:46
-a601370a-b488-46f8-81bc-229c6b7c90e3,excursion.bond,premium,155.45,310.7,high,low,9,spaceship,,,29/09/2026 18:22
 d0c0973e-ed06-4fb8-bbd6-d2e8d0223da6,trip.football,available,25.99,25.99,high,low,4,namesilo,,,08/09/2026 04:57
-b840482a-06f7-473d-a9e8-deb31959b44b,tourism.auction,premium,207.2,207.2,high,low,7,spaceship,,,29/09/2026 20:31
-66ea2f0e-4f38-4d1e-a291-1b9f3ebfacea,voyage.hiphop,available,27,,high,low,6,unstoppable,,,28/09/2026 02:51
-d7401be9-9f5f-4b63-89c2-ff6d19a33672,voyage.cheap,premium,118.8,118.8,high,low,6,namesilo,,,28/09/2026 02:51
-300ec92b-4ddc-46a8-83c0-fe6681cafd07,excursion.investments,available,6.41,103.7,high,low,9,spaceship,,,29/09/2026 18:22
-9dbf540e-1c94-4fea-be52-a0b25d21e7ac,tour.forsale,premium,118.8,118.8,high,low,4,namesilo,,,24/09/2026 22:26
-f44a5e73-ee05-48d9-817e-4f03c55bee7e,excursion.rehab,available,29.18,29.18,high,low,9,spaceship,,,29/09/2026 18:22
-076cba61-ee5f-41bb-be3b-49ba7c007dc1,expedition.sydney,available,44.98,54.98,high,low,10,namecheap,,,29/09/2026 18:24
-0cebfdde-110c-4263-8a31-2db764ee5b99,tour.institute,resell,,,high,low,4,"Global Domains International, Inc. DBA DomainCostClub.com",05/04/2026 15:16,05/04/2027 15:16,26/09/2026 09:42
-defe354c-28e4-406c-a149-273106f716e3,expedition.casino,available,125.2,125.2,high,low,10,cloudflare,,,29/09/2026 18:24
-e944d42c-f4d1-46f8-9cb4-e5a077f0869a,expedition.gratis,available,18.83,18.83,high,low,10,spaceship,,,29/09/2026 18:24
 3993b415-042e-4c2d-a374-277fde84a385,journey.degree,available,52.99,52.99,high,medium,7,namesilo,,,30/09/2026 00:58
-2d4186fc-dad2-410b-a4c4-546d43e184a4,itinerary.beer,available,25.2,25.2,high,low,9,cloudflare,,,01/10/2026 20:07
 14a1c7e4-66f7-47aa-90fe-818fe0d9981f,trip.review,available,,,high,low,4,,,,
 026df097-67e1-40ee-be72-18f7453f7b8b,voyage.reise,available,77.83,77.83,high,low,6,spaceship,,,28/09/2026 02:51
 7d420c72-66b8-4dfb-a7ef-66441bbbb3da,trip.name,available,,,high,low,4,,,,
-969d950c-33d6-4410-b76f-139d123084d6,tourism.parts,available,32.2,32.2,high,low,7,cloudflare,,,29/09/2026 20:31
-ec81a2b4-8f7a-4fbb-8282-8301dcb468e6,vacation.hosting,available,309.99,429.99,high,low,8,namesilo,,,29/09/2026 22:55
-bb368461-dd6e-4cb5-bc5f-83b18438b874,excursion.so,available,,,high,low,9,,,,
 4fc92603-025d-4466-8e67-14deb36e6a2e,journey.team,resell,,,high,medium,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),14/08/2019 08:44,14/08/2027 08:44,30/09/2026 00:58
-451365dd-05bc-47a7-9494-cebc3c883bbf,expedition.gifts,available,29.18,29.18,high,low,10,spaceship,,,29/09/2026 18:24
-8c9675fa-b6d8-45bc-ae33-57492e0df741,tourism.gallery,available,23.17,23.17,high,low,7,porkbun,,,29/09/2026 20:31
 ae399434-b92e-4369-aa8b-23b17702806e,trip.pictures,resell,,,high,low,4,"Sav.com, LLC - 30",01/01/2026 15:15,01/01/2027 15:15,26/09/2026 09:46
-4c216c84-afcf-438b-b7a3-d9c3c798350b,expedition.miami,premium,207.2,18.83,high,low,10,spaceship,,,29/09/2026 18:24
-4055f305-f95d-421e-a795-de2675a676d4,excursion.zip,available,10.52,10.52,high,low,9,spaceship,,,29/09/2026 18:22
-e43aa30f-5422-413b-a9c8-0bd282e4b0ad,voyage.space,premium,3250,13000,high,low,6,namecheap,,,28/09/2026 02:51
-40f16e69-98c7-43c8-8aed-874c8e38406e,vacation.food,premium,1107,1107,high,low,8,namesilo,,,29/09/2026 22:55
-95a6d1f1-3295-4b92-b34d-d9fe138e4d4e,vacation.discount,premium,102.67,102.67,high,low,8,spaceship,,,29/09/2026 22:55
-283c01bc-8497-4413-94d9-a08859af5145,excursion.agency,available,24.2,24.2,high,low,9,cloudflare,,,29/09/2026 18:22
-5a11dd34-5a09-4503-b0da-31d7cf66d048,vacation.vet,available,32.2,32.2,high,low,8,cloudflare,,,29/09/2026 22:55
-f1f7bd0d-d292-4519-98b8-3ecabc5a8b22,voyage.team,premium,,,high,low,6,,,,28/09/2026 02:51
-012fdcb4-8572-4725-a616-241578fff381,tourist.io,resell,,,high,low,7,"humbly, LLC",09/01/2014 18:04,09/01/2027 18:04,29/09/2026 22:57
-59d70a40-8e45-47e7-b4be-775f65548f8f,itinerary.cx,available,17.66,17.66,high,low,9,dynadot,,,01/10/2026 20:07
-e53dfb6c-91aa-4cb6-aa4b-901b29af0f26,excursion.software,available,10.55,33.32,high,low,9,spaceship,,,29/09/2026 18:22
-6ccbde6d-8128-42fb-b1d6-dc585daf7109,itinerary.furniture,available,21.59,85.01,high,low,9,dynadot,,,01/10/2026 20:07
-3489a0da-1d05-43b8-9e89-892a1865fc42,excursion.yoga,available,25.2,25.2,high,low,9,cloudflare,,,29/09/2026 18:22
-43e95891-bd03-4584-bea3-b611a483cbc2,excursion.navy,available,32.2,32.2,high,low,9,cloudflare,,,29/09/2026 18:22
 5365f694-38fe-423b-ba51-60155f1a1bc7,journey.cyou,premium,192,384,high,medium,7,namesilo,,,30/09/2026 00:58
-039a5b59-33bb-4519-be1e-020a5a7e80f5,excursion.voting,available,1398,1448,high,low,9,namecheap,,,29/09/2026 18:22
-a5ef7b0c-7e4f-4c02-b1ef-f266593cae0d,itinerary.car,available,1863.2,2064.2,high,low,9,spaceship,,,01/10/2026 20:07
-d7b521bf-6e50-400f-b7c5-1951e37b1a82,vacation.host,premium,258.95,517.7,high,low,8,spaceship,,,29/09/2026 22:55
-46d48698-b3ea-4f96-be47-e40e8e004066,itinerary.hair,available,1.24,13.97,high,low,9,spaceship,,,01/10/2026 20:07
-24b9bc51-5795-426f-b4a9-8b78e1db75e1,voyage.taxi,available,48.2,48.2,high,low,6,cloudflare,,,28/09/2026 02:51
-bdfae578-fe73-46e7-b513-a85d3fd17c07,tourism.plumbing,available,56.2,56.2,high,low,7,cloudflare,,,29/09/2026 20:31
-079cea30-e3fa-47d9-94e8-4b00ab654200,tourism.dance,available,9.78,22.14,high,low,7,porkbun,,,29/09/2026 20:31
-7878f178-66f6-4310-b985-d7dee14d0c1f,expedition.ceo,available,9.78,103.5,high,low,10,porkbun,,,29/09/2026 18:24
-2498333d-ae9b-44f1-a350-5e6b84edf374,tour.creditcard,available,144.99,144.99,high,low,4,namesilo,,,24/09/2026 22:26
-59e39ea4-ff03-42d1-8353-efffa9971fe0,itinerary.you,available,18.94,18.94,high,low,9,dynadot,,,01/10/2026 20:07
-06f1d9e7-9dd9-4a40-8217-77f1a52ad7c2,tourism.storage,available,500.2,500.2,high,low,7,cloudflare,,,29/09/2026 20:31
-a31c52b2-c7f3-47f7-832e-d801a57fd8b4,excursion.love,available,4.98,38.98,high,low,9,namecheap,,,29/09/2026 18:22
-2561b520-8529-4edd-b5c2-4016e51b9ae3,holiday.vacations,premium,828.2,828.2,high,low,7,spaceship,,,29/09/2026 22:56
-ddf24e94-0616-4ecc-9a6a-7405d475ef0d,voyage.theater,available,65.99,65.99,high,low,6,namesilo,,,28/09/2026 02:51
-4028851c-e54f-46a9-9324-30f94348421b,expedition.cafe,available,5.38,41.6,high,low,10,spaceship,,,29/09/2026 18:24
 d2a5a448-671f-4b08-8057-53602b3be4b4,trip.contractors,available,35.49,35.49,high,low,4,namesilo,,,08/09/2026 04:57
-214202b7-f455-4856-9ad3-0615f1f38e4e,voyage.channel,premium,133.72,133.72,high,low,6,spaceship,,,28/09/2026 02:51
-d9ea6b32-0319-4b33-841b-1a6c38381a75,vacation.archi,available,18.5,,high,low,8,unstoppable,,,29/09/2026 22:55
-9333a225-b483-455f-964f-f701660e31ab,voyage.games,resell,,,high,low,6,,,,28/09/2026 02:51
-50daecea-a731-460b-8b38-b2aee59c066d,tourist.space,premium,81.25,325,high,low,7,namecheap,,,29/09/2026 22:57
 b1e54519-4d7a-46bc-a474-e21a1dc3acc8,trip.beer,premium,242,29.5,high,low,4,namesilo,,,08/09/2026 04:57
-3fe53996-4833-4a97-be50-4e845d34a237,itinerary.photo,available,26.08,26.08,high,low,9,spaceship,,,01/10/2026 20:07
-c248b82e-8553-45ef-a048-deab5041b7d9,tour.so,resell,,,high,low,4,NameCheap,06/06/2021 05:06,06/06/2026 05:06,
 30d6e065-ff3c-4251-9bda-d3748197f6f5,journey.voto,available,10.55,55.93,high,medium,7,spaceship,,,30/09/2026 00:58
 47553a1e-5427-4f8c-b14b-5378cad4de7e,trip.repair,available,5.98,47.48,high,low,4,namecheap,,,08/09/2026 04:57
-688d5e07-52d6-4858-8e15-6a7b33f2c7af,tour.dealer,premium,2015,2600,high,low,4,namecheap,,,24/09/2026 22:26
-f6916a92-bb9b-4eb2-80d5-c079930283c9,tour.loan,premium,640,77.35,high,low,4,namesilo,,,24/09/2026 22:26
-41d48d25-49a2-49d3-a45f-b1e4bf201a1c,tour.toys,available,14.98,82.48,high,low,4,namecheap,,,24/09/2026 22:26
-2deecf3e-baad-4f49-a147-076e2f582e93,voyage.you,premium,517.7,517.7,high,low,6,spaceship,,,28/09/2026 02:51
-fe322df8-a94e-4a14-9a54-2d936e70696f,tour.shiksha,available,14.99,51.99,high,low,4,namesilo,,,24/09/2026 22:26
 15041726-d811-4787-bf4d-461ce3e60249,journey.faith,premium,517.7,67.48,high,medium,7,spaceship,,,30/09/2026 00:58
-8b6e6943-bdc1-4aac-8930-8a9dc92d3eeb,tourism.giving,available,6.41,22.39,high,low,7,spaceship,,,29/09/2026 20:31
-ad514b51-f283-4d39-9d94-49cf793d816c,voyage.show,resell,,,high,low,6,,,,28/09/2026 02:51
-303ad6fb-6f5b-4ded-a134-87b6b7ce83e5,holiday.reise,premium,118.8,118.8,high,low,7,namesilo,,,29/09/2026 22:56
-db767a51-3783-43c8-8daa-244f5ee46781,excursion.cricket,premium,437.5,,high,low,9,name.com,,,29/09/2026 18:22
 f2bbe04b-a0c5-4e69-8aa9-12d38ac3df31,trip.rodeo,available,12.99,12.99,high,low,4,namesilo,,,08/09/2026 04:57
 627d407c-d0ed-405b-947b-ad7d1e670b72,trip.build,premium,1950,1950,high,low,4,namecheap,,,08/09/2026 04:57
-27509d9c-e7f0-44f8-a195-48001f4de96a,tourist.camp,premium,512,512,high,low,7,namesilo,,,29/09/2026 22:57
-5a99005f-050b-4e4f-9a4e-be458812bf4d,excursion.technology,available,3.31,22.97,high,low,9,spaceship,,,29/09/2026 18:22
-5ab459ce-7942-401a-b2de-e2d35c63891a,adventure.hamburg,available,69.98,73.98,high,medium,9,namecheap,,,28/09/2026 18:58
 d0e75a31-b14a-408f-85ba-02ee41fa4d8b,journey.cam,premium,1552.7,14.69,high,medium,7,spaceship,,,30/09/2026 00:58
-7578f119-8a1f-4047-bdcb-f211971783c2,tourism.world,premium,520,520,high,low,7,namecheap,,,29/09/2026 20:31
-48e8c7b1-debc-4e55-8bfe-a43a518e6fce,tour.rip,available,23.49,23.49,high,low,4,namesilo,,,24/09/2026 22:26
-26a242c7-3a8c-4705-b9e5-18648a065e46,vacation.camp,premium,128.7,128.7,high,low,8,namecheap,,,29/09/2026 22:55
-0893bf1c-3272-4da3-92be-a42b4079df7a,expedition.vin,available,6.41,47.81,high,low,10,spaceship,,,29/09/2026 18:24
 d1c9cc01-d87a-446d-bc2c-3be30007978b,trip.car,available,1999.99,2199,high,low,4,namesilo,,,08/09/2026 04:57
 5df2ecec-dc82-47e7-9256-0ee3c87f5245,tourism.tienda,available,5.57,49.44,high,low,7,dynadot,,,29/09/2026 20:31
-147f7066-ffe2-4b48-8f4b-e6d034dc57b6,itinerary.express,available,11.5,,high,low,9,unstoppable,,,01/10/2026 20:07
 0396484d-8578-4c4e-a374-2b31114f3d09,journey.market,resell,,,high,medium,7,"Chengdu West Dimension Digital Technology Co., Ltd.",04/02/2024 15:15,04/02/2027 15:15,30/09/2026 00:58
-1ec0940f-c5e4-4195-a6e4-6983d81979c3,adventure.lifestyle,premium,2183.84,2183.84,high,medium,9,porkbun,,,28/09/2026 18:58
-4975e573-8296-4cde-89d4-f108100a5a09,tour.diy,premium,640,640,high,low,4,namesilo,,,24/09/2026 22:26
 979c36d7-a52e-440b-97d1-8dbce4a7b224,journey.qpon,premium,640,23.54,high,medium,7,namesilo,,,30/09/2026 00:58
-960ea581-2781-46ed-8fa3-5f56ae1ee759,itinerary.dad,available,10.52,10.52,high,low,9,spaceship,,,01/10/2026 20:07
-6cbdcf16-ab88-429d-b50d-c1b6bd612cb4,tour.voting,available,1398,1448,high,low,4,namecheap,,,24/09/2026 22:26
 d133c88d-3c94-4eb4-9b10-54e07ef3ac5d,trip.haus,available,11.98,37.98,high,low,4,namecheap,,,08/09/2026 04:57
-edf1c29d-f402-431c-82ba-181d82752da1,expedition.new,available,488.98,601.98,high,low,10,namecheap,,,29/09/2026 18:24
 5313b929-19e9-43f3-b2f6-4468f41c5e2c,trip.equipment,available,28.99,28.99,high,low,4,namesilo,,,08/09/2026 04:57
-7d10c154-8949-4d3f-8b99-65109e1aba85,tourism.you,premium,517.7,517.7,high,low,7,spaceship,,,29/09/2026 20:31
+0c868010-55ea-4bb6-b407-af1a98b747a9,trip.flights,premium,242,242,high,low,4,namesilo,,,08/09/2026 04:57
 22d395eb-6be7-4205-bfeb-989e6eeeef93,trip.moi,premium,3450,3450,high,low,4,namesilo,,,08/09/2026 04:57
-f0d686c0-33b2-4f19-b41f-33a57b3f10ee,excursion.accountants,available,122.98,145.98,high,low,9,namecheap,,,29/09/2026 18:22
 b0ee898c-7f17-4ef9-8e91-307c13981807,tourism.realty,premium,724.7,1035.2,high,low,7,spaceship,,,29/09/2026 20:31
-6bced003-5121-4b04-bc17-65c790f94fc8,vacation.training,available,15,,high,low,8,unstoppable,,,29/09/2026 22:55
-79e707b2-e1a3-4198-b828-85d4adc6456b,excursion.directory,available,4.34,21.94,high,low,9,spaceship,,,29/09/2026 18:22
-1d642e79-1bce-4522-ac1b-2f1396c2ea42,itinerary.tattoo,available,2,32.32,high,low,9,dynadot,,,01/10/2026 20:07
-19e93a96-5285-45b9-83af-bc03d1f3127d,voyage.blackfriday,available,103.7,103.7,high,low,6,spaceship,,,28/09/2026 02:51
-683bde56-a0d9-42ed-b2ba-7a9298b2f101,itinerary.insure,available,58.16,58.16,high,low,9,spaceship,,,01/10/2026 20:07
-54133f4a-af47-4974-a6aa-94ebdf518262,itinerary.creditcard,available,5.66,129.25,high,low,9,porkbun,,,01/10/2026 20:07
-b2868faa-534e-4808-a3dd-a238195bb58e,expedition.baby,available,1.18,51.8,high,low,10,spaceship,,,29/09/2026 18:24
-12145a05-2a60-4655-ad27-559cfb98c26d,vacation.broker,available,8.24,30.18,high,low,8,dynadot,,,29/09/2026 22:55
-f99f6519-de04-4969-8d2a-7bf4adc496d4,expedition.de,resell,,,high,low,10,,,,29/09/2026 18:24
 2be31ca2-7ec4-4125-9e9c-fc754d5939f4,journey.rich,available,94.99,1999,high,medium,7,namesilo,,,30/09/2026 00:58
-03b321b1-4ffe-4793-bd48-a350fb6be286,expedition.shoes,available,50.2,50.2,high,low,10,cloudflare,,,29/09/2026 18:24
-8b101531-037b-4cd1-9ab3-117b21f80426,itinerary.markets,available,5.38,15.73,high,low,9,spaceship,,,01/10/2026 20:07
 f72a6433-55de-46a7-8754-eb8b43d629da,trip.sucks,premium,2658.67,2658.67,high,low,4,namesilo,,,08/09/2026 04:57
-51897834-6683-4425-bf44-c3df91aff8b6,vacation.markets,available,7,,high,low,8,unstoppable,,,29/09/2026 22:55
 0e770a46-2972-4cab-9b00-6e5dfd94f78f,trip.ltda,available,34.99,34.99,high,low,4,namesilo,,,08/09/2026 04:57
-9a9a285b-870c-47d8-9602-8942a9fea390,itinerary.solar,available,50.2,50.2,high,low,9,cloudflare,,,01/10/2026 20:07
-a3d23ff4-891b-4df4-8713-e055ac5ddde4,vacation.energy,available,11.99,96.52,high,low,8,dynadot,,,29/09/2026 22:55
-07c0e142-b7af-4f22-9880-7fe39af7bbfc,tourist.estate,available,6.41,31.25,high,low,7,spaceship,,,29/09/2026 22:57
-ab126476-83ca-440c-bc74-df752e2afd00,tour.auto,available,1999.99,2199,high,low,4,namesilo,,,24/09/2026 22:26
-76223e3a-104b-421b-9d40-c2d57932cb11,tour.shopping,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",29/11/2020 03:55,29/11/2026 03:55,26/09/2026 09:42
-4f7b93c0-a14a-423b-9c98-8a58fa5e4e95,voyage.mortgage,available,65.98,76.98,high,low,6,namecheap,,,28/09/2026 02:51
-e54fac31-338d-4f69-8184-ed9e7181310e,excursion.moe,available,13.02,13.05,high,low,9,porkbun,,,29/09/2026 18:22
-26a7b842-bbcb-4e98-a647-7a51bb2e7a26,tour.social,resell,,,high,low,4,"DNSPod, Inc.",16/05/2018 08:24,16/05/2028 08:24,26/09/2026 09:42
-085afbd6-23d1-49d4-b81f-6d53feba9bf0,vacation.law,available,105.98,130.98,high,low,8,namecheap,,,29/09/2026 22:55
 2b3571f0-8aca-4e4e-93a8-269d308d30d3,trip.city,resell,,,high,low,4,"DNSPod, Inc.",22/12/2017 11:26,22/12/2026 11:26,26/09/2026 09:46
-417370f4-7cd3-4092-8bc0-0791da2a3830,tour.army,available,19.99,50.99,high,low,4,name.com,,,24/09/2026 22:26
-2d18f61f-6b56-40e2-9a50-2fa117306b34,voyage.surgery,available,54.99,54.99,high,low,6,namesilo,,,28/09/2026 02:51
 1eebf5bf-a475-422f-9b18-d9d605745fd6,trip.men,premium,116,29.5,high,low,4,namesilo,,,08/09/2026 04:57
-6c9bf9eb-0ccc-4f7b-a981-a7eda771cf90,tourism.exposed,premium,102.67,102.67,high,low,7,spaceship,,,29/09/2026 20:31
-ae7477f0-f39f-4b58-aa0b-79460cb23afb,tourism.uno,premium,1375,2750,high,low,7,dynadot,,,29/09/2026 20:31
-e4a856c8-515d-462c-9f4b-9035f16b7e54,expedition.careers,available,28.98,89.98,high,low,10,namecheap,,,29/09/2026 18:24
-f6dcce2e-a782-421b-9c08-19394437b489,vacation.software,premium,500,,high,low,8,name.com,,,29/09/2026 22:55
-1ead131e-8e28-4905-aca8-44828be9f389,voyage.cleaning,premium,78.54,78.54,high,low,6,namesilo,,,28/09/2026 02:51
-30327cff-75e3-42bf-b04d-c45161cb8ffc,expedition.creditcard,available,129.2,129.2,high,low,10,spaceship,,,29/09/2026 18:24
-2d0520fb-d18b-4594-9418-99186435e9d2,itinerary.place,available,17.8,17.8,high,low,9,spaceship,,,01/10/2026 20:07
-e0c343d8-cfbe-4299-97e6-8f0197a309b2,voyage.singles,available,26.2,26.2,high,low,6,cloudflare,,,28/09/2026 02:51
 5933db51-e013-4ebc-b136-0e69383dcd3b,trip.cam,premium,854,16.52,high,low,4,namesilo,,,08/09/2026 04:57
 e7c8d72b-8ce9-40f5-a1da-b0813bdbc125,trip.to,resell,,,high,low,4,101domain GRS Ltd.,17/12/2024 07:41,17/12/2026 07:41,26/09/2026 09:46
-1acc3704-c84f-4ddd-87a4-da4c8725514d,excursion.auction,available,29.18,29.18,high,low,9,spaceship,,,29/09/2026 18:22
-ae10af56-7c0f-4d5c-b01c-442e34de72be,expedition.moe,available,13.06,13.06,high,low,10,dynadot,,,29/09/2026 18:24
-828655fa-5c8b-451f-90d6-b727a884dcb0,excursion.vin,available,6.41,47.81,high,low,9,spaceship,,,29/09/2026 18:22
-858ac82c-292d-48cc-bf0e-2085228eee55,excursion.solar,available,50.2,50.2,high,low,9,cloudflare,,,29/09/2026 18:22
 cd8769f2-6487-4856-8e9a-10e4b6739b63,trip.qpon,premium,3450,23.54,high,low,4,namesilo,,,08/09/2026 04:57
 b14104c7-af42-4a9f-881a-af90bce531ca,trip.hosting,available,309.99,429.99,high,low,4,namesilo,,,08/09/2026 04:57
-569788e1-1386-4c7f-b395-a4df95631a00,voyage.cyou,premium,310.7,621.2,high,low,6,spaceship,,,28/09/2026 02:51
-ecb14c5a-b26d-4645-ac1c-7545e102fddb,tourism.construction,available,31.25,31.25,high,low,7,spaceship,,,29/09/2026 20:31
-54e1fd8e-6d74-4914-9e67-480faf0beaf8,excursion.coupons,available,2.57,43.77,high,low,9,porkbun,,,29/09/2026 18:22
-1430dad6-74c4-4d79-826e-743337bedf1e,voyage.immo,premium,220,220,high,low,6,dynadot,,,28/09/2026 02:51
-ee9995d9-cbf8-46cb-83cf-03dc3715d408,tourist.bar,premium,393.75,,high,low,7,name.com,,,29/09/2026 22:57
-767887fe-d7c6-41db-8b5a-e4c713f9ae69,itinerary.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,01/10/2026 20:07
-5e1c0f4d-f648-41f3-9ce8-4e9396e2a713,vacation.nexus,premium,999.2,,high,low,8,unstoppable,,,29/09/2026 22:55
-2f7dd328-3757-4c20-8843-e15a1bd0204a,tour.zone,premium,78.54,78.54,high,low,4,namesilo,,,24/09/2026 22:26
-3df1ee91-cb12-4d0e-88ac-882ba04907b7,itinerary.democrat,available,5.57,26.97,high,low,9,dynadot,,,01/10/2026 20:07
-64b34957-d38b-411f-9919-167d0387ff0b,excursion.ing,available,10.55,10.55,high,low,9,spaceship,,,29/09/2026 18:22
-30b4bfff-84d1-46cc-a60f-9d2a893127a6,excursion.esq,available,25.98,29.98,high,low,9,namecheap,,,29/09/2026 18:22
 a7208a38-33d8-4efc-a104-0f244d31ca5f,trip.berlin,premium,1296.1,1296.1,high,low,4,namecheap,,,08/09/2026 04:57
-357979c3-0510-4b99-884d-f7ce02e72f79,excursion.biz,premium,181.33,18.83,high,low,9,spaceship,,,29/09/2026 18:22
 15c112d8-b99f-4b1b-a049-0c9801f0bcd3,trip.theatre,available,509.99,529.99,high,low,4,namesilo,,,08/09/2026 04:57
 bdc1603f-110c-48aa-af32-02f441fdcad9,trip.loans,available,17.48,144.98,high,low,4,namecheap,,,08/09/2026 04:57
-235f99c4-3d8f-46d3-9539-0f5ae19d70ce,expedition.healthcare,available,70.55,70.55,high,low,10,porkbun,,,29/09/2026 18:24
-2592f7aa-7cea-4e69-a93a-c52d8cdac182,itinerary.rehab,available,29.18,29.18,high,low,9,spaceship,,,01/10/2026 20:07
-96bbb529-bf85-475f-9826-0aecd3c48f81,tourist.football,available,26.98,36.98,high,low,7,namecheap,,,29/09/2026 22:57
 08a1354f-e639-49e6-8b7e-1efb04d2267e,trip.associates,available,12.98,49.98,high,low,4,namecheap,,,08/09/2026 04:57
-d24b5ef8-5bb3-4fa8-b6bc-a025ba2531de,tourist.charity,available,11.99,23.01,high,low,7,dynadot,,,29/09/2026 22:57
-586c26ed-92f4-4f59-8900-e08f9c356338,expedition.flowers,available,93.35,103.4,high,low,10,spaceship,,,29/09/2026 18:24
 719406d2-04b6-419f-8503-a29ce3541792,trip.tienda,available,59.99,59.99,high,low,4,namesilo,,,08/09/2026 04:57
-0d7a5a21-f435-45de-b89e-78df7215336c,tourism.international,premium,102.67,102.67,high,low,7,spaceship,,,29/09/2026 20:31
-c125e5c1-036e-4cb5-b630-fb0c3a0b14bd,expedition.dentist,available,51.95,51.95,high,low,10,spaceship,,,29/09/2026 18:24
 cfd51dd5-89f5-4516-8ab9-d607009aa499,journey.business,resell,,,high,medium,7,Edomains LLC,09/01/2022 13:15,09/01/2027 13:15,30/09/2026 00:58
 45c3b66b-f1b4-447b-be3b-ea1471a87e2b,journey.biz,resell,,,high,medium,7,"GoDaddy.com, LLC",31/01/2011 17:02,30/01/2027 23:59,30/09/2026 00:58
-1dd6c130-9d2b-435d-9de1-1af28f6a85f3,tourist.link,premium,960,960,high,low,7,namesilo,,,29/09/2026 22:57
-054c972b-823b-404e-b492-b22cfac96f59,tourism.cooking,available,26.97,26.97,high,low,7,dynadot,,,29/09/2026 20:31
-4907f069-767e-49fe-9c97-40d2980db883,tour.city,premium,512,512,high,low,4,namesilo,,,24/09/2026 22:26
-8fc06dd5-5553-4f88-afbf-e37da17263ac,itinerary.hot,available,52.98,58.98,high,low,9,namecheap,,,01/10/2026 20:07
-57bf94cd-f5a8-4b2d-8130-da98a58f717b,tourism.services,resell,,,high,low,7,,,,29/09/2026 20:31
-745d0704-693d-4a5c-9e1b-acc39788c238,tourism.ing,premium,672.95,672.95,high,low,7,spaceship,,,29/09/2026 20:31
-ba7790f6-d442-4674-9823-ec4444db8337,expedition.dance,available,9.52,21.94,high,low,10,spaceship,,,29/09/2026 18:24
-25681f18-d914-45a1-91f0-fe0d20737747,excursion.boo,available,10.55,10.55,high,low,9,spaceship,,,29/09/2026 18:22
-c6a22f5b-2bf8-4d34-8d59-33fed394f033,tour.esq,premium,843.7,843.7,high,low,4,namecheap,,,24/09/2026 22:26
 22fdcefd-f6ce-4330-8394-970de4bd727e,trip.college,available,1.5,81.98,high,low,4,namecheap,,,08/09/2026 04:57
 9137b8bc-8030-46bb-b95e-91a2c237616b,trip.blog,premium,1625,6500,high,low,4,namecheap,,,08/09/2026 04:57
-62577c3c-164b-456c-9557-1e2954c47f68,tourist.pizza,available,17.99,64.99,high,low,7,namesilo,,,29/09/2026 22:57
-93b53c34-8539-4b5d-b282-a14ec4008a9e,vacation.accountants,available,93.35,93.35,high,low,8,spaceship,,,29/09/2026 22:55
-e1ca5024-45eb-4e49-899e-bb5e60f714be,itinerary.company,available,2.57,16.99,high,low,9,porkbun,,,01/10/2026 20:07
-48964a7e-385d-430b-8f39-bb827069ff9d,voyage.loans,available,20.99,116.99,high,low,6,namesilo,,,28/09/2026 02:51
 1750f9e9-51da-40b0-86b1-41b6acd407ac,trip.zip,premium,1298.7,1298.7,high,low,4,namecheap,,,08/09/2026 04:57
-5ddad11f-ba19-421f-9b24-0640ec528cc3,excursion.coach,available,10.55,62.3,high,low,9,spaceship,,,29/09/2026 18:22
-30619ffe-a1d2-4ee3-996d-3711696f092e,excursion.repair,available,5.38,29.18,high,low,9,spaceship,,,29/09/2026 18:22
-ab3741be-f681-4cb8-83cb-b868b29a2f27,expedition.vc,resell,,,high,low,10,Dynadot Inc,11/06/2022 01:07,11/06/2027 01:07,29/09/2026 18:24
 8c31df67-5787-4e2a-82eb-30d726748cb1,tourism.guitars,available,100.2,100.2,high,low,7,cloudflare,,,29/09/2026 20:31
-7d81236f-5f90-45d1-a268-851512f2f67c,itinerary.homes,available,1.24,13.97,high,low,9,spaceship,,,01/10/2026 20:07
-8214d28f-d44e-463e-b23f-cae52b56de9d,excursion.com,resell,,,high,low,9,"NameCheap, Inc.",01/01/1998 05:00,31/12/2026 05:00,29/09/2026 18:22
-0c83a4ab-c67a-4ec2-9102-164ff6f28f9c,expedition.im,available,,,high,low,10,,,,
-4a9a375c-e284-4b6f-b51c-487cf7a4201b,excursion.foundation,available,21.7,21.7,high,low,9,cloudflare,,,29/09/2026 18:22
-adc99bdf-b24f-4d8d-957f-e50b3082a66b,tour.hockey,available,62.98,72.98,high,low,4,namecheap,,,24/09/2026 22:26
-8d6ee008-0d78-4267-bff6-204613a42114,voyage.broker,available,10.55,29.18,high,low,6,spaceship,,,28/09/2026 02:51
+b105f78c-ee88-45b7-8e06-aaeb3ff451d3,trip.wedding,premium,242,29.5,high,low,4,namesilo,,,08/09/2026 04:57
+76f3c64a-d0e3-453e-9d35-7051620a6027,journey.hot,premium,103.7,103.7,high,medium,7,spaceship,,,30/09/2026 00:58
+bab965cd-c9c2-4e3b-af1d-0ba7604639ac,trip.cyou,premium,384,768,high,low,4,namesilo,,,08/09/2026 04:57
+466cc5ab-2168-49af-835c-a281fe45bd2e,journey.protection,available,2060.25,2060.25,high,medium,7,porkbun,,,30/09/2026 00:58
+c99dfa6b-4afd-4db6-b65d-04b99bc6ef8a,trip.cars,available,1999.99,2199,high,low,4,namesilo,,,08/09/2026 04:57
+805ead8f-5d12-4bf8-a31b-b5f3af80fb0d,tourism.living,available,1.34,31.25,high,low,7,spaceship,,,29/09/2026 20:31
+e5e5746a-15ad-46b1-b76f-c086bdaa7a28,tourism.org,resell,,,high,low,7,,,,29/09/2026 20:31
+1dbaae57-bb53-4060-9fe3-a0b02a5ab10a,trip.protection,available,1999.99,2049.99,high,low,4,namesilo,,,08/09/2026 04:57
+1a8b48ce-6a67-40f9-976d-1dbc7640d806,journey.vip,resell,,,high,medium,7,West263 International Limited,17/05/2016 16:00,17/05/2027 16:00,30/09/2026 00:58
+0591616a-5c0c-41b7-b4c5-91c64b8aee60,trip.horse,available,32.49,32.49,high,low,4,namesilo,,,08/09/2026 04:57
+a4bfd457-34ec-40d9-b489-35a785397b03,tourism.ltda,premium,66.3,66.3,high,low,7,namecheap,,,29/09/2026 20:31
+fc4a2ceb-4117-423f-9fcc-c2fbbe473731,journey.miami,available,18.88,18.88,high,medium,7,spaceship,,,30/09/2026 00:58
+a125fd1f-c018-40db-bed6-5d33a0ec84ea,trip.exchange,resell,,,high,low,4,DomainCritics LLC,07/09/2026 15:15,07/09/2027 15:15,26/09/2026 09:46
+dc45b91b-101a-4101-8462-90bf3e636b3b,vacation.us,resell,,,high,low,8,"GoDaddy.com, LLC",24/04/2002 14:00,23/04/2027 23:59,29/09/2026 22:55
+f7da7497-ca40-4641-8a43-0b29703813da,trip.kiwi,premium,202.8,202.8,high,low,4,namecheap,,,08/09/2026 04:57
+0a4543cd-453b-48db-a90c-20da213b3049,trip.im,available,,,high,low,4,,,,
+7f0484d2-c565-4120-8f0f-c8d5f882c5f9,expedition.reisen,premium,68.51,68.51,high,low,10,spaceship,,,29/09/2026 18:24
+1dcd53ea-7da1-4464-a8b2-fbbacd4a1e95,journey.moi,available,25.99,25.99,high,medium,7,namesilo,,,30/09/2026 00:58
+762648de-b168-4a5f-accb-449a4fea0d0a,trip.deals,resell,,,high,low,4,"Global Domains International, Inc. DBA DomainCostClub.com",15/12/2020 23:55,15/12/2026 23:55,26/09/2026 09:46
+90126289-3c12-41e2-8ecf-fae80c52c6ae,tourism.kids,premium,310.7,18.83,high,low,7,spaceship,,,29/09/2026 20:31
+2222d3a2-3f00-498d-94d0-9a9e60abdbfb,trip.osaka,available,,,high,low,4,,,,
+7664fc97-fd8a-4863-9172-aba6d57b8c3e,tourism.holdings,premium,207.2,207.2,high,low,7,spaceship,,,29/09/2026 20:31
+da125684-c411-4394-b03a-b2a713c7df0f,tourism.audio,available,93.35,103.4,high,low,7,spaceship,,,29/09/2026 20:31
+8e6826e6-dcfc-4075-9733-38252c231c52,trip.news,premium,650,1300,high,low,4,namecheap,,,08/09/2026 04:57
+629a4224-3bb3-4fc0-8f23-b0beb7eb893f,tourism.vana,available,2070.2,2070.2,high,low,7,spaceship,,,29/09/2026 20:31
+5af14901-ffda-4800-a959-0bc834620186,tourism.channel,premium,516.67,516.67,high,low,7,spaceship,,,29/09/2026 20:31
+daf1cf4a-e77a-40ee-8aa0-a8eab1d4c110,journey.garden,resell,,,high,medium,7,"Spaceship, Inc.",21/02/2026 16:15,21/02/2027 16:15,30/09/2026 00:58
+1d160997-a9b7-400b-b160-14f519f01b58,tourism.fund,premium,414.2,414.2,high,low,7,spaceship,,,29/09/2026 20:31
+456e4130-9764-4344-9061-1bcb90ec6163,trip.dentist,premium,242,242,high,low,4,namesilo,,,08/09/2026 04:57
+b679160d-9cca-4acf-bd57-ba271bd42e2d,journey.download,premium,448,53.92,high,medium,7,namesilo,,,30/09/2026 00:58
+9abe771b-228a-4ed3-b15e-ff0696f0b8e0,tourism.help,premium,,,high,low,7,,,,29/09/2026 20:31
+a1c8cd7c-1196-4785-b3a2-71d8596184bf,journey.pizza,available,17.99,64.99,high,medium,7,namesilo,,,30/09/2026 00:58
+52c290e5-3ea4-4a52-8396-de6a43ae26d6,journey.clothing,available,10.92,26.97,high,medium,7,dynadot,,,30/09/2026 00:58
+6187bb38-d0e6-4a95-af28-20f16e7e0f68,tourism.credit,available,80.2,80.2,high,low,7,cloudflare,,,29/09/2026 20:31
+dd4caf0b-1926-4094-b127-fe187ff62cb6,tourism.srl,premium,50.74,28.91,high,low,7,porkbun,,,29/09/2026 20:31
+fa4a84c8-b0a3-4e5c-a134-fd6a4aa8332e,journey.limo,available,42.2,42.2,high,medium,7,cloudflare,,,30/09/2026 00:58
+72065786-5093-4b02-b33c-6a812339e942,trip.hamburg,available,69.98,73.98,high,low,4,namecheap,,,08/09/2026 04:57
+3cea9657-01c2-4f6c-9397-bc270359b6a7,journey.organic,available,66.2,66.2,high,medium,7,cloudflare,,,30/09/2026 00:58
+c33f0b24-b7dd-45b8-af16-1fc5ddb073d7,expedition.immobilien,available,30.22,30.22,high,low,10,spaceship,,,29/09/2026 18:24
+67877531-8fae-452d-85b2-da157d384653,trip.sydney,premium,58,58,high,low,4,namesilo,,,08/09/2026 04:57
+86d9b452-390b-471d-ab76-64a74d332815,trip.club,premium,3250,19.5,high,low,4,namecheap,,,08/09/2026 04:57
+4631048a-fbac-4d55-aeee-e689e7b7019f,tourism.doctor,available,90.2,90.2,high,low,7,cloudflare,,,29/09/2026 20:31
+41155a93-b09a-4873-9f91-369f1f9d011b,trip.camera,available,58.99,58.99,high,low,4,namesilo,,,08/09/2026 04:57
+4cbc9a54-36fb-4da1-86bf-e18c83575368,tour.reise,premium,123.75,123.75,high,low,4,name.com,,,24/09/2026 22:26
+c1d9beb3-b01a-4cae-948b-8ad9541fff0c,journey.free,premium,110,110,high,medium,7,dynadot,,,30/09/2026 00:58
+8cac6331-8f83-40c5-9c1e-d67ae5c20f14,tourism.quest,resell,,,high,low,7,,,,29/09/2026 20:31
+41f83b5d-8701-4148-886e-b655e2b7a889,trip.melbourne,premium,58,58,high,low,4,namesilo,,,08/09/2026 04:57
+8a4965a0-f238-4b10-a052-56d06a76f504,tourist.cruises,available,56.99,56.99,high,low,7,namesilo,,,29/09/2026 22:57
+e1b1eb02-baa6-4c2a-b0e8-364bf38f9845,tour.vacations,premium,1040,1040,high,low,4,namecheap,,,24/09/2026 22:26
+53ecca65-2762-4b70-8f4a-9d9ab3ae76a4,tourism.tours,premium,108.9,108.9,high,low,7,dynadot,,,29/09/2026 20:31
+98b3086a-9ea5-43e9-b50f-03c7979deb30,tourism.now,resell,,,high,low,7,,,,29/09/2026 20:31
+60101246-f607-4fad-9048-f1842abb8d0d,tourism.dating,available,20,,high,low,7,unstoppable,,,29/09/2026 20:31
+d9d69f00-ef33-4cf9-b24a-f7c504f1ab48,tourism.skin,available,1.24,13.97,high,low,7,spaceship,,,29/09/2026 20:31
+2ee7dec3-55e6-460d-a283-ea56cfc020a3,trip.party,premium,1107,116,high,low,4,namesilo,,,08/09/2026 04:57
+09bc69fb-7bc4-4cd8-a13b-c8a201063b9c,tourism.page,premium,545.26,545.26,high,low,7,porkbun,,,29/09/2026 20:31
+8bfa9cb9-852a-4654-a2d1-3b6ad7b7da3e,trip.forum,premium,116,116,high,low,4,namesilo,,,08/09/2026 04:57
+f2684c3e-e802-4f03-8fc3-d09ce14000dc,tour.hamburg,available,69.98,73.98,high,low,4,namecheap,,,24/09/2026 22:26
+07e71843-fccf-4b4d-a8a2-c1eeb9184e12,tourism.contractors,premium,68.51,68.51,high,low,7,spaceship,,,29/09/2026 20:31
+f3d42114-0e0d-4343-847f-d29bedf9d419,journey.hosting,available,309.99,429.99,high,medium,7,namesilo,,,30/09/2026 00:58
+ea9f627e-d3ba-47d6-bf1d-b924e00f2803,expedition.maison,available,45.74,45.74,high,low,10,spaceship,,,29/09/2026 18:24
+299b87e3-2d03-489d-b251-10d276e1af05,tourism.monster,available,1.18,13.97,high,low,7,spaceship,,,29/09/2026 20:31
+12377bd4-0038-4d01-b404-0e6572244c4e,expedition.restaurant,available,13.06,53.72,high,low,10,dynadot,,,29/09/2026 18:24
+cb510f04-f171-4b84-9099-7ca7f7dcf1ce,tourism.run,resell,,,high,low,7,,,,29/09/2026 20:31
+d0c478a0-3765-4ebd-b9b8-068a611d38f9,tourism.archi,available,13.14,83,high,low,7,spaceship,,,29/09/2026 20:31
+b263f872-e700-41cd-8c26-b63511eaa6fc,expedition.mx,available,35.57,41.23,high,low,10,porkbun,,,29/09/2026 18:24
+fc1a79e0-0b7b-4151-ba15-95c0ef1c20c1,tourism.gives,available,11.99,23.01,high,low,7,dynadot,,,29/09/2026 20:31
+c412f73e-34ee-49d5-b047-60d92068ba12,trip.menu,available,,,high,low,4,,,,
+9de1f004-2475-436a-901a-6cc6554d8c9e,tourism.tube,premium,1100,21.62,high,low,7,dynadot,,,29/09/2026 20:31
+e9055449-6908-40df-ba4b-33e47d23906f,journey.family,premium,118.8,118.8,high,medium,7,namesilo,,,30/09/2026 00:58
+8bb91a57-1c00-4a62-8290-ca3af0d92b8f,journey.cfd,premium,192,384,high,medium,7,namesilo,,,30/09/2026 00:58
+3523b4e9-e255-496b-be65-db9de2abb121,journey.shop,premium,5175.2,5175.2,high,medium,7,spaceship,,,30/09/2026 00:58
+368781fc-356e-4f0e-8fd6-98fb9be2bc49,tour.maison,available,57.99,57.99,high,low,4,namesilo,,,24/09/2026 22:26
+1fd6bcad-bbf9-4f8a-983e-6dc05c764504,trip.computer,premium,78.54,78.54,high,low,4,namesilo,,,25/09/2026 14:57
+05f68aa7-a7e2-488e-bc7c-0ba4be3ef293,vacation.reise,available,75.2,75.2,high,low,8,cloudflare,,,29/09/2026 22:55
+3c691118-6179-40b9-87ad-ac541bd3de40,journey.memorial,available,40.2,40.2,high,medium,7,cloudflare,,,30/09/2026 00:58
+033cae6e-a9fa-4974-8b47-57f9664049c8,tourism.icu,premium,155.45,310.7,high,low,7,spaceship,,,29/09/2026 20:31
+a6b0dc2c-c58e-4940-91c7-2628c06a22f9,journey.tires,available,72.44,72.44,high,medium,7,spaceship,,,30/09/2026 00:58
+886c41a6-11e5-4b91-81ea-382a9302884b,traveler.viajes,available,35.18,35.18,high,low,8,spaceship,,,30/09/2026 13:52
+e8354b02-ac8e-437f-9933-2b8c70ea741c,tourism.engineer,available,30.2,30.2,high,low,7,cloudflare,,,29/09/2026 20:31
+9ad562b9-c135-4c78-a16c-c42c3acbb977,journey.bayern,available,34.99,34.99,high,medium,7,namesilo,,,30/09/2026 00:58
+a7d93366-996e-4a04-a970-cee6a5eb32af,tour.london,premium,7307.54,31.25,high,low,4,namesilo,,,24/09/2026 22:26
+7ea9c322-75d2-4474-b3cb-f4977ff070c2,expedition.recipes,available,8.5,,high,low,10,unstoppable,,,29/09/2026 18:24
+cc852533-1480-4ce2-92a6-dedc79f59634,voyage.life,resell,,,high,low,6,,,,28/09/2026 02:51
+04d73f1b-b588-499c-b2e8-f87ea470b716,voyage.villas,premium,207.2,207.2,high,low,6,spaceship,,,28/09/2026 02:51
+6177009b-e1f5-47d1-8eb5-c501d2f44f81,trip.yoga,resell,,,high,low,4,"GoDaddy.com, LLC",26/08/2020 18:56,26/08/2027 18:56,26/09/2026 09:46
+f3272ffe-7d87-41d4-8947-2ca7be4867fa,expedition.organic,available,66.2,66.2,high,low,10,cloudflare,,,29/09/2026 18:24
+fb4e09f3-13f2-4444-b610-339791dbe53b,expedition.rip,available,18.2,18.2,high,low,10,cloudflare,,,29/09/2026 18:24
+d650f3c3-39d9-4cb4-a7be-b4220373a2a1,tourist.tours,premium,54.36,108.6,high,low,7,porkbun,,,29/09/2026 22:57
+a57bf391-44e4-4213-985f-6d108b51906d,journey.barcelona,available,25.04,25.04,high,medium,7,spaceship,,,30/09/2026 00:58
+959906cd-723e-47f5-980a-884e9693e466,journey.tel,available,10.98,15.98,high,medium,7,namecheap,,,30/09/2026 00:58
+f471a7ce-2224-438e-9faa-c6159e9a9f10,tour.cc,resell,,,high,low,4,"22net, Inc.",26/05/2004 15:02,26/05/2027 15:02,26/09/2026 09:42
+a0a75ea8-45c4-4250-ad3d-565c30a1de4a,excursion.vacations,available,40.98,49.98,high,low,9,namecheap,,,29/09/2026 18:22
+3abdaa75-5592-4b73-820f-ddf3f9d97b0b,tourism.investments,premium,,,high,low,7,,,,29/09/2026 20:31
+b8af2065-c9ed-49e0-b3fb-cabc01ac92fa,tourism.creditcard,available,129.2,129.2,high,low,7,spaceship,,,29/09/2026 20:31
+bd4cb10a-acce-44b2-a484-e6b8d209ccfc,expedition.plumbing,available,56.2,56.2,high,low,10,cloudflare,,,29/09/2026 18:24
+2231d9bb-5f1b-4591-98c2-6bdb6e64c404,expedition.zip,premium,30.22,30.22,high,low,10,spaceship,,,29/09/2026 18:24
+1dd09825-8987-424f-b337-7e3963fb65e7,trip.nexus,premium,1298.7,1298.7,high,low,4,namecheap,,,08/09/2026 04:57
+9f30eb83-fa7b-4d03-bd9a-ddb22c3d0986,journey.casino,available,125.2,125.2,high,medium,7,cloudflare,,,30/09/2026 00:58
+6057e6f8-ce3f-4ed9-908d-e6494af9ad2a,voyage.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 02:51
+e5911909-7627-4143-bf42-3a76f2c03437,expedition.llc,available,33.2,33.2,high,low,10,cloudflare,,,29/09/2026 18:24
+1f74d418-de0d-4051-b2c2-537bf348d07a,journey.supplies,available,24.99,24.99,high,medium,7,namesilo,,,30/09/2026 00:58
+fd488883-be4b-4db5-9b9d-e45095f9d049,trip.properties,available,15.98,43.98,high,low,4,namecheap,,,08/09/2026 04:57
+a7446d51-7e8a-4de8-89f3-fa765bc92d8d,itinerary.voyage,available,46.78,46.78,high,low,9,spaceship,,,01/10/2026 20:07
+797ffc4a-2f98-43ce-851f-905adc084003,expedition.webcam,available,10.79,10.79,high,low,10,porkbun,,,29/09/2026 18:24
+96c6694b-6ad1-4557-b301-6e0cd2c66d5f,itinerary.taxi,available,7.96,49.88,high,low,9,spaceship,,,01/10/2026 20:07
+ed5eaa34-80b9-41ff-a2cf-984cc54a0209,trip.nyc,premium,3250,32.5,high,low,4,namecheap,,,08/09/2026 04:57
+809b6f3d-0e84-4b10-83a5-ebfcb8e8e686,trip.gmbh,available,45.99,45.99,high,low,4,namesilo,,,08/09/2026 04:57
+fef855fa-8532-47b9-8782-fbcd98530f43,trip.catering,available,38.99,38.99,high,low,4,namesilo,,,08/09/2026 04:57
+7a4aa211-1fe8-4288-b039-da84746bd014,journey.theatre,available,538.98,620,high,medium,7,namecheap,,,30/09/2026 00:58
+e7eac71a-32c2-4d83-8059-72df8d611cdd,trip.gold,resell,,,high,low,4,"DNSPod, Inc.",06/06/2024 15:15,06/06/2027 15:15,26/09/2026 09:46
+3cf500f6-9664-48e1-b758-32d5fd0b7bb4,trip.loan,premium,6500,130,high,low,4,namecheap,,,08/09/2026 04:57
+b14a591d-e14c-40ff-9bd4-6a15adecdb59,journey.limited,available,28.2,28.2,high,medium,7,cloudflare,,,30/09/2026 00:58
+d48bfd3e-5c1f-4c2d-97d8-56cf78666120,expedition.esq,premium,50.92,50.92,high,low,10,spaceship,,,29/09/2026 18:24
+c82c11e0-081b-4c9c-9ed8-2bb9423de2f5,trip.pet,resell,,,high,low,4,"Spaceship, Inc.",13/07/2026 17:00,13/07/2027 17:00,26/09/2026 09:46
+8c857071-5b5c-4330-a96d-72823e1e1d75,trip.reise,premium,242,242,high,low,4,namesilo,,,08/09/2026 04:57
+7d7678a1-c983-4933-977f-33da74e4138d,excursion.reise,available,77.83,77.83,high,low,9,spaceship,,,29/09/2026 18:22
+c5ed567a-2f88-4d5e-98d9-cb525c3aeadf,tourism.casa,resell,,,high,low,7,,,,29/09/2026 20:31
+d3202003-605d-4be8-b2ad-85654a8e024d,journey.srl,premium,50.6,28.04,high,medium,7,dynadot,,,30/09/2026 00:58
+cb1c756b-fcca-440b-8e2f-f085dcb6d599,journey.plus,resell,,,high,medium,7,"Chengdu West Dimension Digital Technology Co., Ltd.",10/06/2020 09:20,10/06/2027 09:20,30/09/2026 00:58
+dd359a7e-9775-46c3-8d2b-b46a55fa502c,tourist.berlin,available,54.82,54.82,high,low,7,dynadot,,,29/09/2026 22:57
+46e33b43-98c3-4c2c-899e-b5a4161e24b2,tourism.tennis,available,52.01,52.01,high,low,7,porkbun,,,29/09/2026 20:31
+30d227e2-69c4-4460-b89d-eb315e8bbd39,journey.studio,resell,,,high,medium,7,"Chengdu West Dimension Digital Technology Co., Ltd.",07/04/2017 17:04,07/04/2027 17:04,30/09/2026 00:58
+28eefc50-3d31-4f77-849c-1672f2573b2a,voyage.estate,available,6.41,31.25,high,low,6,spaceship,,,28/09/2026 02:51
+1d5c54ea-0b93-499b-a177-28abe50e737d,tourism.productions,available,6.48,50.98,high,low,7,namecheap,,,29/09/2026 20:31
+d661ca51-c835-4bd7-949b-85f2d5b2d3dd,trip.desi,available,19.98,22.98,high,low,4,namecheap,,,08/09/2026 04:57
+17d5ef86-3534-43ea-b5d3-753b925e9fa4,trip.futbol,available,5.98,21.98,high,low,4,namecheap,,,08/09/2026 04:57
+cdcac3ec-7837-4da4-b3e0-76be84e2ebf2,tourism.reisen,available,16.76,16.76,high,low,7,spaceship,,,29/09/2026 20:31
+1603a8e3-91c3-4c64-985b-a3ce736336c1,journey.cab,available,32.99,32.99,high,medium,7,namesilo,,,30/09/2026 00:58
+00c8de62-0a8c-471b-8256-94828a47eecc,journey.tube,premium,1100,21.62,high,medium,7,dynadot,,,30/09/2026 00:58
+d0ce40ba-20c0-401e-be33-cf38ecc2fb96,expedition.solutions,available,10.5,,high,low,10,unstoppable,,,29/09/2026 18:24
+bd26b1d8-c46b-42bb-af52-0f36935874c0,tourism.luxe,available,15.73,15.73,high,low,7,spaceship,,,29/09/2026 20:31
+1a234ccd-21da-48c5-a9b7-fc15ef7e36a9,journey.estate,available,6.41,31.25,high,medium,7,spaceship,,,30/09/2026 00:58
+193f6bcc-3beb-4df2-ae7c-831f86d097e4,expedition.diet,available,93.35,103.4,high,low,10,spaceship,,,29/09/2026 18:24
+3067d53a-67af-49b0-9717-1990bfb93cf6,tourism.surgery,available,43.67,43.67,high,low,7,spaceship,,,29/09/2026 20:31
+e5a08bd0-9c2f-4544-871e-4680afc3d2f8,expedition.barcelona,available,25.04,25.04,high,low,10,spaceship,,,29/09/2026 18:24
+fab28eb5-5483-475f-9633-38056cb0e293,trip.vegas,available,12.99,43.99,high,low,4,namesilo,,,08/09/2026 04:57
+ad3ef1c4-5d7e-4e0b-91f4-283c9939d0b6,tourist.country,available,2140.22,2140.22,high,low,7,dynadot,,,29/09/2026 22:57
+9882bda8-f699-44bf-ac60-429ebaa38d95,excursion.de,resell,,,high,low,9,,,,29/09/2026 18:22
+45e5229d-844a-4abe-b539-582cf9bd47e2,tourism.locker,premium,517.7,31.25,high,low,7,spaceship,,,29/09/2026 20:31
+6304db5d-50ab-4876-9122-9a5276205639,tourism.xxx,resell,,,high,low,7,,,,29/09/2026 20:31
+ef5ff29e-3969-4a0f-b518-730d536512ff,expedition.now,resell,,,high,low,10,Unstoppable Domains Inc.,13/01/2025 10:05,13/01/2027 10:05,29/09/2026 18:24
+dc3b9a3f-1dfb-4e5e-982d-2bf4f8cb29f4,expedition.movie,available,36.43,279.65,high,low,10,spaceship,,,29/09/2026 18:24
+3e741980-ee07-4a4f-9347-6faaca4ec7c7,trip.irish,premium,512,512,high,low,4,namesilo,,,08/09/2026 04:57
+f9abd444-f3f5-4fc2-98be-009ab2fc1b4b,journey.charity,available,14.99,23.99,high,medium,7,namesilo,,,30/09/2026 00:58
+56676f73-160b-4a0d-bc4d-896158998ea8,journey.apartments,available,45.74,45.74,high,medium,7,spaceship,,,30/09/2026 00:58
+19ed0eca-9040-4024-8ccd-a18a554fef94,trip.auto,available,1999.99,2199,high,low,4,namesilo,,,08/09/2026 04:57
+cf64e72e-e1d7-4ec0-81ab-c8e04cdd1976,journey.icu,premium,192,384,high,medium,7,namesilo,,,30/09/2026 00:58
+8cc017f9-bc04-4705-9095-090910aa0c00,tourism.bet,resell,,,high,low,7,,,,29/09/2026 20:31
+7d248287-3ef2-4d42-a3ae-f8dc59ae93f3,journey.games,resell,,,high,medium,7,"Chengdu West Dimension Digital Technology Co., Ltd.",16/02/2022 13:15,16/02/2027 13:15,30/09/2026 00:58
+b2640cce-a5b9-415c-886a-6c28dc241235,trip.boats,premium,845,15.73,high,low,4,namecheap,,,
+ee66c60d-6ac6-48a0-ac6c-536fcd8b7f18,vacation.bayern,available,31.99,30.8,high,low,8,porkbun,,,29/09/2026 22:55
+b4684873-51ed-408c-b712-b6b03c0cb565,expedition.world,resell,,,high,low,10,"DNSPod, Inc.",01/04/2019 09:35,01/04/2027 09:35,29/09/2026 18:24
+90efab13-8f22-4bc9-bd54-8651c83594aa,trip.ngo,available,18.98,24.98,high,low,4,namecheap,,,08/09/2026 04:57
+6b039846-7740-48ef-83a7-1cf03ecfb5aa,trip.tv,resell,,,high,low,4,"eNom, LLC",11/10/2000 20:05,11/10/2027 20:05,26/09/2026 09:46
+194f4582-a7fe-448b-8f44-ec5c1f461822,tourism.foo,premium,249.2,,high,low,7,unstoppable,,,29/09/2026 20:31
+d1ecea56-8993-49cc-9b13-5cf240bc5716,tourism.actor,available,9.48,54.98,high,low,7,namecheap,,,29/09/2026 20:31
+52ebb2e3-27a2-4789-b98a-ed53648b941f,journey.town,resell,,,high,medium,7,Dynadot Inc,09/05/2026 17:00,09/05/2027 17:00,30/09/2026 00:58
+005cfe80-6d37-43df-879a-b0fd5dd66823,journey.exposed,available,22.49,22.49,high,medium,7,namesilo,,,30/09/2026 00:58
+bd902fa3-fe5f-4980-a6a2-33dc2d7d726b,itinerary.osaka,available,26.68,26.88,high,low,9,porkbun,,,01/10/2026 20:07
+63a7456f-11c6-4375-965c-3562e12c7959,journey.gallery,available,28.99,28.99,high,medium,7,namesilo,,,30/09/2026 00:58
+9ecec1c8-49b9-424f-b37a-14f3dd65616a,excursion.villas,available,47.81,47.81,high,low,9,spaceship,,,29/09/2026 18:22
+ea40fbd8-26dc-47dc-8611-8c78c1667921,tourism.charity,available,21.7,21.7,high,low,7,cloudflare,,,29/09/2026 20:31
+67a258b6-aeea-492f-9bd6-b03106807833,journey.kaufen,available,5.99,26.99,high,medium,7,namesilo,,,30/09/2026 00:58
+b0796f86-643c-4d22-8da1-4968dd67e74e,traveler.flights,available,58.99,58.99,high,low,8,namesilo,,,30/09/2026 13:52
+89f70fb8-924f-495e-95d9-eb8feb61d792,excursion.osaka,available,26.97,26.97,high,low,9,dynadot,,,29/09/2026 18:22
+8415993f-daa0-4665-b888-2e85ca74e046,tour.qpon,premium,3450,23.54,high,low,4,namesilo,,,24/09/2026 22:26
+b4c62d88-654b-4c89-b4aa-67c5e9698425,trip.domains,available,42.99,42.99,high,low,4,namesilo,,,08/09/2026 04:57
+17ffabb9-4add-4915-9c29-b679d90cb8a5,journey.florist,available,32.99,32.99,high,medium,7,namesilo,,,30/09/2026 00:58
+8b4b24c3-fed1-4807-8b48-8c9bdaf32065,voyage.yoga,available,26.26,26.26,high,low,6,porkbun,,,28/09/2026 02:51
+f2622186-654b-43d3-b56c-0f5ff4df6d86,adventure.reisen,available,16.76,16.76,high,medium,9,spaceship,,,28/09/2026 18:58
+58bbe074-f75e-4c2c-a751-a56620dfc6ba,tourism.financial,available,15.73,46.78,high,low,7,spaceship,,,29/09/2026 20:31
+269dc0a4-dd9b-4650-8f51-f7425554aaab,expedition.autos,resell,,,high,low,10,Porkbun LLC,02/01/2026 04:31,02/01/2027 23:59,29/09/2026 18:24
+b46fc834-e817-45d4-aa5b-849b76eda609,expedition.tools,available,7.45,29.18,high,low,10,spaceship,,,29/09/2026 18:24
+b0a539e5-dcb3-4e07-82c4-e7bf421302d6,journey.boutique,available,2.98,41.98,high,medium,7,namecheap,,,30/09/2026 00:58
+b8cee913-f6a1-460d-8240-9af498cb7b7c,journey.pw,premium,3450,3450,high,medium,7,namesilo,,,30/09/2026 00:58
+655a9fc7-a94b-4009-b74b-72a2a93beb2f,voyage.green,premium,517.7,517.7,high,low,6,spaceship,,,28/09/2026 02:51
+9ffdd2d7-4062-47ee-9c5a-f0e3021fc9a7,tourism.law,available,83,83,high,low,7,spaceship,,,29/09/2026 20:31
+ade15c49-f9d8-4f00-acdb-efe0ec3c8dfa,trip.taxi,resell,,,high,low,4,"Sav.com, LLC - 43",28/04/2026 15:16,28/04/2027 15:16,26/09/2026 09:46
+8f982ad7-faf9-4bcf-b438-5e1e983ca660,expedition.holiday,available,51.95,51.95,high,low,10,spaceship,,,29/09/2026 18:24
+3ee8eb39-475b-45e4-b905-65e149d026f9,tour.co,resell,,,high,low,4,Hello Internet Corp.,25/02/2010 01:16,24/02/2027 23:59,26/09/2026 09:42
+52afe0f2-8785-4f2b-9edb-9a715b08b05a,tourism.store,premium,647.08,2587.7,high,low,7,spaceship,,,29/09/2026 20:31
+d5d7ece9-ff81-4921-980c-dfa70c397d50,voyage.car,available,2070,2400,high,low,6,namecheap,,,28/09/2026 02:51
+ec726a63-2660-4b42-9c9d-ceac06fb1229,trip.black,available,17.48,82.98,high,low,4,namecheap,,,08/09/2026 04:57
+23f619a2-e0df-4422-ae88-56b0a05f170c,expedition.jewelry,available,51.95,51.95,high,low,10,spaceship,,,29/09/2026 18:24
+62c6d1da-2017-4552-879b-8a3d7f7e6d11,tour.cafe,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",01/10/2020 13:40,01/10/2027 13:40,30/09/2026 04:48
+43bdc46e-8526-49bd-ab76-567e4d2e9dd7,trip.ong,available,18.98,24.98,high,low,4,namecheap,,,08/09/2026 04:57
+0b561e8f-65bf-4028-8bd2-953c56df0fae,tour.band,premium,1107,1107,high,low,4,namesilo,,,24/09/2026 22:26
+ef41dfb4-3fb1-4c1f-85e3-c9118b5e908f,trip.actor,available,9.48,54.98,high,low,4,namecheap,,,08/09/2026 04:57
+2ccc6961-eea8-4d65-b1a8-2139118720e9,voyage.global,premium,3312,53.92,high,low,6,namesilo,,,28/09/2026 02:51
+fbdc4d0d-a71b-44d2-ac7b-fdbc0d7c9d67,voyage.horse,available,33.98,43.98,high,low,6,namecheap,,,28/09/2026 02:51
+17ca8d97-c3d3-4a27-b538-0384025a1cab,trip.talk,premium,302.5,302.5,high,low,4,namesilo,,,08/09/2026 04:57
+b9a4d138-8a0c-468c-a013-bfc1ddd73da2,expedition.hamburg,available,69.98,73.98,high,low,10,namecheap,,,29/09/2026 18:24
+b9e88ddf-a70f-4733-b495-7fcaaa459f78,journey.car,available,1999.99,2199,high,medium,7,namesilo,,,30/09/2026 00:58
+f64a8149-e223-4274-a2f0-317510c582c3,trip.observer,premium,29.5,29.5,high,low,4,namesilo,,,08/09/2026 04:57
+43e6abe0-80a9-4406-8ee8-5b5385fe6b54,trip.video,premium,260,520,high,low,4,namecheap,,,08/09/2026 04:57
+9fc4b9c6-2926-4dd9-8113-19bfdb315fff,tour.coffee,available,19.99,50.99,high,low,4,name.com,,,24/09/2026 22:26
+ad72199c-47bc-48fd-9ffa-2aa5a94244fc,expedition.melbourne,available,44.98,53.98,high,low,10,namecheap,,,29/09/2026 18:24
+20578c53-0134-460b-8f24-e0b03c34f160,journey.pub,resell,,,high,medium,7,"Xiamen ChinaSource Internet Service Co., Ltd",04/12/2023 15:15,04/12/2026 15:15,30/09/2026 00:58
+9023ff09-9f6e-4b7e-8efc-8a24062cd960,voyage.immobilien,available,30.22,30.22,high,low,6,spaceship,,,28/09/2026 02:51
+70ffb7f9-8f39-4744-805d-e3b72577c80c,excursion.page,available,10.55,10.55,high,low,9,spaceship,,,29/09/2026 18:22
+3e38c3a7-f442-40dc-9314-0d657c273d9e,excursion.eu,resell,,,high,low,9,Name: Registrar.eu Website: https://www.openprovider.com,,,29/09/2026 18:22
+ac0c4f0e-d507-4056-b2d5-36a4603e45b4,itinerary.so,available,,,high,high,9,,,,
+92721aaf-5843-4495-87ef-21c939f1d98d,expedition.pizza,available,5.98,83.98,high,low,10,namecheap,,,29/09/2026 18:24
+b69ef7c0-0d60-44b0-987c-1036b8ee450b,trip.pub,resell,,,high,low,4,"DNSPod, Inc.",25/09/2014 05:07,25/09/2027 05:07,26/09/2026 09:46
+76d86659-5db3-4e81-b08a-3294ae8556fe,trip.vote,available,23.98,119.98,high,low,4,namecheap,,,08/09/2026 04:57
+cac25f0d-192c-46a9-9365-f54e4b5104c4,journey.tips,resell,,,high,medium,7,Dynadot Inc,22/04/2021 16:44,22/04/2027 16:44,30/09/2026 00:58
+c6ee14fd-5317-4cdb-baad-282b3ba04329,trip.parts,available,10.48,45.98,high,low,4,namecheap,,,08/09/2026 04:57
+f60716ad-5fe6-4f3f-a206-ab8d2bd93f43,tourism.trade,resell,,,high,low,7,,,,29/09/2026 20:31
+11d2d5cd-8197-4b75-b166-f0ad185c938a,tourism.democrat,available,25.2,25.2,high,low,7,cloudflare,,,29/09/2026 20:31
+0a971508-857e-41be-9f80-ac2e59fa12e7,tourism.vodka,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 20:31
+85b058ab-c778-4da2-bd77-6c4bdd207989,itinerary.immo,available,28.15,28.15,high,low,9,spaceship,,,01/10/2026 20:07
+bd5ce290-c994-44e4-a063-39436b4caad7,tourism.associates,premium,,,high,low,7,,,,29/09/2026 20:31
+45ccca72-fdc4-413a-ae9c-215774765583,voyage.vision,premium,102.67,102.67,high,low,6,spaceship,,,28/09/2026 02:51
+80804875-bf96-4123-bc55-58365ed9a0fe,journey.tennis,available,51.95,51.95,high,medium,7,spaceship,,,30/09/2026 00:58
+370d2182-ae87-4be6-9058-9499bacf3cca,tourist.autos,available,1.99,17.29,high,low,7,namesilo,,,29/09/2026 22:57
+44d59ea0-912b-4c0c-b538-5589e83292a9,voyage.id,resell,,,high,low,6,,,,28/09/2026 02:51
+7079629e-0556-4249-a468-fbc66b581a4f,tour.onl,premium,162.5,325,high,low,4,namecheap,,,24/09/2026 22:26
+cf7b6cc2-0823-4f10-ae9e-6708a0441671,voyage.democrat,available,5.38,26.08,high,low,6,spaceship,,,28/09/2026 02:51
+5b7c6d9a-baa7-4761-b161-495224ac869d,voyage.nyc,premium,116,29.5,high,low,6,namesilo,,,28/09/2026 02:51
+70cb0007-e93c-450d-a0c0-22950c1aad03,journey.center,resell,,,high,medium,7,"Xiamen ChinaSource Internet Service Co., Ltd",29/04/2018 23:19,29/04/2027 23:19,30/09/2026 00:58
+063b5c8c-7466-4290-824c-51eade88aaee,tourism.hosting,available,279.65,341.75,high,low,7,spaceship,,,29/09/2026 20:31
+78a7d5f1-ebe5-4925-92ea-5f7c192ed649,trip.free,premium,1107,1107,high,low,4,namesilo,,,08/09/2026 04:57
+c5677358-2225-4f3b-8235-ef58c2c2960f,voyage.bet,resell,,,high,low,6,,,,28/09/2026 02:51
+9185594b-bd1a-4c42-a5c0-0b15bc7249d4,voyage.barcelona,available,25.04,25.04,high,low,6,spaceship,,,28/09/2026 02:51
+acf94495-31a1-41ed-bfc2-061834f3d729,trip.careers,available,28.98,89.98,high,low,4,namecheap,,,08/09/2026 04:57
+d2a72a09-5ef3-422d-adae-00811fd2f532,trip.villas,premium,242,242,high,low,4,namesilo,,,08/09/2026 04:57
+a3ddc5de-a145-4860-ae5c-32b2166cdaee,voyage.email,premium,68.51,68.51,high,low,6,spaceship,,,28/09/2026 02:51
+3e8818bc-c413-4f0c-912a-a007c95c6e6f,itinerary.living,available,1.34,31.25,high,low,9,spaceship,,,01/10/2026 20:07
+1e663322-047d-432d-a7aa-934aade5ec00,destination.reise,available,102.98,127.98,high,low,11,namecheap,,,03/10/2026 21:31
+36899f5b-92a4-42de-ae43-88cb2e4235b9,expedition.sarl,available,5.38,5.38,high,low,10,spaceship,,,29/09/2026 18:24
+9b54a5b9-5242-443a-8b2e-793f47c1021b,voyage.voting,available,978.6,978.6,high,low,6,dynadot,,,28/09/2026 02:51
+9a5cad46-801a-4252-930e-bfc47c8fd1ae,trip.organic,available,,,high,low,4,,,,
+f07cb39e-18ee-48e8-b1f9-ed2708dae212,expedition.cricket,premium,362.45,51.95,high,low,10,spaceship,,,29/09/2026 18:24
+c21344fb-fd99-4e76-bfd8-277331853629,expedition.enterprises,available,3.5,29.01,high,low,10,dynadot,,,29/09/2026 18:24
+5a6bd22d-1b00-4cdc-b5f4-e4bf5e36d616,trip.country,available,2298,2450,high,low,4,namecheap,,,08/09/2026 04:57
+289f0136-6ad1-4ff9-b840-f45b876f61ff,tour.spot,premium,1107,1107,high,low,4,namesilo,,,24/09/2026 22:26
+73bb002d-c8b5-4987-8c4c-df1490f3dcf1,journey.deals,available,39.99,39.99,high,medium,7,namesilo,,,30/09/2026 00:58
+6b257f3e-e250-45ba-ae38-99f44b02d3f6,tourism.moe,premium,88,13.06,high,low,7,dynadot,,,29/09/2026 20:31
+e40d5b9c-7ab8-471c-a687-376d90a95dd3,expedition.soy,available,28.98,39.98,high,low,10,namecheap,,,29/09/2026 18:24
+68cddb33-cc1e-48e1-a1bc-cd019cebca7a,expedition.equipment,available,22.2,22.2,high,low,10,cloudflare,,,29/09/2026 18:24
+8a3e347b-30d1-4071-90bc-890e5a13493a,tour.taxi,resell,,,high,low,4,"Sav.com, LLC - 28",20/06/2026 15:15,20/06/2027 15:15,26/09/2026 09:42
+c1e3aa9d-a891-4390-b29f-a3a36b7aa301,tourism.spot,premium,103.7,103.7,high,low,7,spaceship,,,29/09/2026 20:31
+95710b8a-71e9-4078-8bfc-00d43678626a,journey.codes,available,8.99,71.99,high,medium,7,namesilo,,,30/09/2026 00:58
+89697fe1-f883-49a1-925c-16013bafb852,journey.kiwi,available,31.98,35.68,high,medium,7,namecheap,,,30/09/2026 00:58
+41603dbb-cf22-44c3-931d-73cf01479339,excursion.estate,available,6.41,31.25,high,low,9,spaceship,,,29/09/2026 18:22
+b0e8fba9-c148-4108-bd7b-1e2e4fe2c8ff,journey.immobilien,available,39.98,43.98,high,medium,7,namecheap,,,30/09/2026 00:58
+8d0aeaca-f1f7-4c95-9d7e-84145a2d0b4f,trip.guitars,available,104.99,114.99,high,low,4,namesilo,,,08/09/2026 04:57
+42f59344-48a7-473e-961c-b75c63bf4882,vacation.events,premium,66.5,78.54,high,low,8,unstoppable,,,29/09/2026 22:55
+25a8386c-b1be-42ff-b8e7-3753c83f4c98,expedition.graphics,available,19.48,19.48,high,low,10,dynadot,,,29/09/2026 18:24
+892ddb70-1a40-4152-a826-b4b0ed2ce7bf,expedition.gmbh,available,36.43,36.43,high,low,10,spaceship,,,29/09/2026 18:24
+cdc42023-11db-4c4a-874d-d5e741e3cd12,vacation.living,premium,980,1400,high,low,8,namecheap,,,29/09/2026 22:55
+418e31dc-bf72-4794-8ac3-210302c030d3,voyage.dating,available,11.59,51.95,high,low,6,spaceship,,,28/09/2026 02:51
+565eedf5-d736-4dee-85e2-47f0794b9736,expedition.design,resell,,,high,low,10,"GoDaddy.com, LLC",04/03/2026 18:15,04/03/2027 18:15,29/09/2026 18:24
+d17b17e6-6e59-4696-afad-e348fc5c6d7e,vacation.games,premium,69.3,138.6,high,low,8,namecheap,,,29/09/2026 22:55
+10ddac66-1e74-44e0-838f-8d742a1a5968,journey.fans,premium,51.95,103.7,high,medium,7,spaceship,,,30/09/2026 00:58
+b92c0ee5-ad30-4710-ac9b-59014e954737,journey.press,premium,937.5,,high,medium,7,name.com,,,30/09/2026 00:58
+3417650d-b5e4-47ed-b0ef-d97131ce7f06,expedition.fyi,premium,,,high,low,10,,,,29/09/2026 18:24
+7330f804-cb85-4b7d-b0bb-e71a5c4ea057,tourist.voyage,available,45.2,45.2,high,low,7,cloudflare,,,29/09/2026 22:57
+75ce1993-797e-484c-a99f-b187231cfb91,expedition.page,premium,29.2,34.22,high,low,10,unstoppable,,,29/09/2026 18:24
+63319700-03c4-479b-b23a-bd161b76d606,tour.party,premium,3450,116,high,low,4,namesilo,,,24/09/2026 22:26
+4fea1f5f-c3b7-495f-93db-0fa35efc24bd,tourism.villas,available,47.81,47.81,high,low,7,spaceship,,,29/09/2026 20:31
+cc53f931-ae5e-4ae8-8770-db965e3427c1,expedition.luxury,available,26,26,high,low,10,spaceship,,,29/09/2026 18:24
+0eaff7c2-8dab-400c-a536-613ee2d9d770,tour.work,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",31/10/2020 16:05,31/10/2034 16:05,26/09/2026 09:42
+2f579882-25e4-4085-af67-f0c5301286d1,tour.charity,available,14.99,23.99,high,low,4,namesilo,,,24/09/2026 22:26
+4331cb1d-0370-4f80-99ca-1e6d54974aa0,vacation.parts,available,12.99,41.99,high,low,8,namesilo,,,29/09/2026 22:55
+36b086e1-b5f1-4498-9d74-a67f2acb8d90,holiday.flights,premium,512,512,high,low,7,namesilo,,,29/09/2026 22:56
+a610b194-5643-4158-b313-8abbe23954a6,excursion.site,premium,275,1100,high,low,9,dynadot,,,29/09/2026 18:22
+cdb617a5-335c-4829-a72b-61f178f743db,expedition.hockey,available,46.2,46.2,high,low,10,cloudflare,,,29/09/2026 18:24
+ecccaf28-f84c-47e8-8d2e-7521fbac0cbb,vacation.deals,premium,854,854,high,low,8,namesilo,,,29/09/2026 22:55
+50404a20-5523-4024-97fa-b958f348f7e2,tour.cooking,premium,96,29.5,high,low,4,namesilo,,,24/09/2026 22:26
+7787a595-82f8-43d8-aa19-a9ead11220f1,trip.page,premium,1278.72,1278.72,high,low,4,namesilo,,,08/09/2026 04:57
+720e4386-0ec1-480b-ab64-abf8d38447d4,expedition.car,available,1863.2,2064.2,high,low,10,spaceship,,,29/09/2026 18:24
+2ae2dae2-bb01-4677-bb0a-438a7ad23bf7,tourist.town,premium,218.8,437.19,high,low,7,porkbun,,,29/09/2026 22:57
+85bcb614-f381-4bfc-8efc-984f8e291696,vacation.flights,premium,220,220,high,low,8,dynadot,,,29/09/2026 22:55
+3079dffe-5803-43cd-a6b0-60c67aa665e8,trip.meme,premium,1690,1690,high,low,4,namecheap,,,08/09/2026 04:57
+879f377a-3806-4953-b34e-cc1e18598d3b,voyage.cards,premium,118.8,118.8,high,low,6,namesilo,,,28/09/2026 02:51
+ad401d98-f892-42e8-a741-19910581227c,excursion.hot,available,41.6,41.6,high,low,9,spaceship,,,29/09/2026 18:22
+81ced038-84ad-4d3c-8e49-38d98fd69e64,tourist.blackfriday,available,107.22,107.22,high,low,7,dynadot,,,29/09/2026 22:57
+2cabd11b-6d26-4023-821a-3d2a25f2b960,tourism.tickets,available,326.21,388.33,high,low,7,spaceship,,,29/09/2026 20:31
+91456286-0a54-4453-8272-eabb644240ac,voyage.press,premium,302.5,302.5,high,low,6,namesilo,,,28/09/2026 02:51
+b325557d-b851-44b8-b0e9-890d2701f0cd,tour.world,resell,,,high,low,4,"Spaceship, Inc.",06/06/2024 15:15,06/06/2027 15:15,26/09/2026 09:42
+fe134550-cd09-46b9-8a7c-ab583c0fced5,expedition.jetzt,available,18.83,18.83,high,low,10,spaceship,,,29/09/2026 18:24
+2f6040b9-fc02-422d-8133-25b2b12f7619,journey.mortgage,available,65.98,76.98,high,medium,7,namecheap,,,30/09/2026 00:58
+b4e0a857-5290-447a-8710-316723cc4754,voyage.fit,premium,83,26.08,high,low,6,spaceship,,,28/09/2026 02:51
+e3a445ab-b09f-408f-a679-381036ebc26c,excursion.download,premium,437.5,,high,low,9,name.com,,,29/09/2026 18:22
+bd23417c-696a-4c92-9142-d75920da85e3,excursion.hosting,available,300.2,300.2,high,low,9,cloudflare,,,29/09/2026 18:22
+0a638c0e-c485-4889-8421-ba8f3c112547,tour.protection,available,1999.99,2049.99,high,low,4,namesilo,,,24/09/2026 22:26
+a971cf5d-bce0-404c-9280-24942bc22218,trip.tickets,available,359.99,488.88,high,low,4,namesilo,,,08/09/2026 04:57
+b1ab8239-0484-4ee0-922e-06535301c80a,vacation.la,resell,,,high,low,8,LA Domain Names,11/08/2015 00:25,11/08/2027 23:59,29/09/2026 22:55
+130e5160-8a6b-4347-91f9-00cd1e7142b1,tourism.gripe,available,5.38,5.38,high,low,7,spaceship,,,29/09/2026 20:31
+6639fb41-5ffa-4f67-aa16-8b9114b94f17,tourism.family,premium,54.36,108.6,high,low,7,porkbun,,,29/09/2026 20:31
+e6710d40-03f8-4432-8ed7-625b4cdf261a,tourism.rich,available,79,160.72,high,low,7,dynadot,,,29/09/2026 20:31
+b155c528-2e72-4cc1-aa65-9fda8ab8353f,adventure.reise,available,75.2,75.2,high,medium,9,cloudflare,,,28/09/2026 18:58
+b7be4700-14b4-4b1d-b337-3a7f054411c2,tourist.vin,available,8.5,,high,low,7,unstoppable,,,29/09/2026 22:57
+d9136011-4b07-4a01-9f8b-2ffd4d152ac4,voyage.engineering,premium,,,high,low,6,,,,28/09/2026 02:51
+dbfac7b1-2907-4b9e-8504-e036ea6e569e,vacation.berlin,available,54.82,54.82,high,low,8,dynadot,,,29/09/2026 22:55
+40d374d7-5a21-49fc-98f8-2ab4d9597411,journey.boston,available,19.48,19.48,high,medium,7,dynadot,,,30/09/2026 00:58
+9e1c278b-9530-4419-8da3-811b3d679d25,expedition.gg,resell,,,high,low,10,Dynadot Inc. (https://www.dynadot.com),,,29/09/2026 18:24
+61c3ef57-8166-4a35-af6f-127774724776,excursion.immo,available,28.15,28.15,high,low,9,spaceship,,,29/09/2026 18:22
+729a833d-2eb9-424b-9e84-5d216ebb238e,tour.immobilien,available,37.99,37.99,high,low,4,namesilo,,,24/09/2026 22:26
+3c612300-790a-42a6-9288-3d198b9afec1,expedition.giving,available,6.41,22.39,high,low,10,spaceship,,,29/09/2026 18:24
+3ef33f1e-c37b-4b93-93e4-d99d066c8590,voyage.realty,available,88.18,289.16,high,low,6,spaceship,,,28/09/2026 02:51
+4013eec5-5f71-4bc0-b3cd-95051ed35e3c,tourism.makeup,available,1.24,13.97,high,low,7,spaceship,,,29/09/2026 20:31
+fe47db34-c811-445c-92b0-53540d630e26,tourism.bayern,available,31.99,30.8,high,low,7,porkbun,,,29/09/2026 20:31
+6ff8ab46-44c9-4c49-a42e-6f53064cd01f,tour.recipes,available,11.99,103.99,high,low,4,name.com,,,24/09/2026 22:26
+4119045a-9fe8-491b-8107-866be66509e4,expedition.tires,available,70.2,70.2,high,low,10,cloudflare,,,29/09/2026 18:24
+28249b04-bb9f-4901-8071-3c59b172d6ce,expedition.name,available,7.27,7.27,high,low,10,dynadot,,,29/09/2026 18:24
+d5cc48d2-395c-499d-b0d9-8bab889c3d68,excursion.express,available,9,31.25,high,low,9,spaceship,,,29/09/2026 18:22
+93129b48-4cf3-4df7-ad05-784b0234df34,journey.rsvp,premium,257.92,257.92,high,medium,7,spaceship,,,30/09/2026 00:58
+3329f1c2-49aa-434f-8dfa-1b438fe6d4c8,excursion.deals,available,40.98,51.98,high,low,9,namecheap,,,29/09/2026 18:22
+4b3d1edd-d0ea-4b4e-83c2-2ba25f1c948a,tour.exchange,premium,78.54,78.54,high,low,4,namesilo,,,24/09/2026 22:26
+42836758-9a6a-4e2b-840d-2383fa5ecfe4,vacation.party,premium,362.45,51.95,high,low,8,spaceship,,,29/09/2026 22:55
+df8b628d-fcb6-47d2-8824-96f0215204b5,excursion.support,available,21.2,21.2,high,low,9,cloudflare,,,29/09/2026 18:22
+782cfccf-f02b-4478-8bc1-bc86becb3c77,expedition.loan,premium,362.45,51.95,high,low,10,spaceship,,,29/09/2026 18:24
+a7c32a32-09ff-4db3-984a-02d8276b0fb1,journey.rip,premium,62.3,62.3,high,medium,7,spaceship,,,30/09/2026 00:58
+15cf3fd1-11c3-4aa1-9f25-a192aa83cbd7,traveler.vacations,available,31.25,31.25,high,low,8,spaceship,,,30/09/2026 13:52
+8911e444-ab77-4e68-b848-402e23671f9e,journey.kitchen,available,50.2,50.2,high,medium,7,cloudflare,,,30/09/2026 00:58
+0f0424bd-5a4c-4446-b4e1-c86058af4939,tour.jetzt,available,23.99,23.99,high,low,4,namesilo,,,24/09/2026 22:26
+2c29a9a4-f73d-45f6-a2dc-e326abde7ff4,itinerary.loan,available,4.18,5.18,high,low,9,cloudflare,,,01/10/2026 20:07
+84558acb-73d6-4a5f-9a36-4a8f2a31d79d,vacation.education,available,34.99,34.99,high,low,8,namesilo,,,29/09/2026 22:55
+ee3a4a1e-7c16-4dc5-9517-00cc7e13af2c,itinerary.apartments,available,45.74,45.74,high,low,9,spaceship,,,01/10/2026 20:07
+dd5ef3ac-8efb-427e-bf9b-088cf24f3cd6,excursion.loan,premium,385,55,high,low,9,dynadot,,,29/09/2026 18:22
+9887d472-2c99-4a3b-806c-6c809619de74,expedition.flights,available,32.32,48.37,high,low,10,dynadot,,,29/09/2026 18:24
+5cba65d0-91cc-4547-a43e-7b27c6442bb1,tour.page,premium,648.7,648.7,high,low,4,namecheap,,,24/09/2026 22:26
+ef7a16d2-4f7c-45f0-887a-bec43737f138,tourism.vet,premium,,,high,low,7,,,,29/09/2026 20:31
+87e3c945-2efd-4966-b78f-745c48afe21a,vacation.place,resell,,,high,low,8,,,,29/09/2026 22:55
+fb73612d-a91f-49e2-844d-2ea9736a1e5c,trip.claims,available,11.98,82.98,high,low,4,namecheap,,,08/09/2026 04:57
+fd78b585-eb44-4c58-ad24-62fadeea5610,excursion.tienda,available,46.2,46.2,high,low,9,cloudflare,,,29/09/2026 18:22
+dc8055c2-552d-436e-b394-b89378239dee,tourism.finance,premium,99.5,,high,low,7,unstoppable,,,29/09/2026 20:31
+25d13f56-de0d-433f-b641-c8e2c8e859ad,itinerary.software,available,32.2,32.2,high,low,9,cloudflare,,,01/10/2026 20:07
+d9916532-7683-4c0a-b6e3-ff5bba63327f,expedition.ngo,available,15.2,15.2,high,low,10,cloudflare,,,29/09/2026 18:24
+1d99a770-4730-47e6-92cb-b50115adda73,journey.mobi,resell,,,high,medium,7,Dynadot Inc,14/12/2022 15:15,14/12/2026 15:15,30/09/2026 00:58
+959c15b3-46e0-4eb6-a7aa-6d0c056e7af5,expedition.coupons,available,2.5,45.16,high,low,10,dynadot,,,29/09/2026 18:24
+3e042ee6-0d86-4e52-a97e-c6941fa2a809,itinerary.casa,available,10.2,10.2,high,low,9,cloudflare,,,01/10/2026 20:07
+a25733f5-49f2-44df-95f8-f41108c8844d,tourism.shiksha,premium,650,650,high,low,7,namecheap,,,29/09/2026 20:31
+d9d6faee-1543-4811-8937-d8b4e7c6e0f1,expedition.accountant,premium,362.45,51.95,high,low,10,spaceship,,,29/09/2026 18:24
+2c9bcf4f-a6da-415f-ba9c-8123e64fe21c,tourism.cars,available,1863.2,2064.2,high,low,7,spaceship,,,29/09/2026 20:31
+678b7623-9e28-425f-b2a8-54588ea08d8b,tourism.adult,available,95.2,95.2,high,low,7,cloudflare,,,29/09/2026 20:31
+fa8ba3ce-279e-4952-b1bd-0e0dbbe0f1b7,voyage.ca,resell,,,high,low,6,,,,28/09/2026 02:51
+44b08d22-29f2-40cf-8546-fb52f74500f8,trip.food,premium,227.5,325,high,low,4,namecheap,,,08/09/2026 04:57
+5cc354a5-133b-4cfa-b7b9-e8640231a315,tourism.prof,premium,671.92,671.92,high,low,7,spaceship,,,29/09/2026 20:31
+933a1f06-d81e-4187-b5a8-d02560d59048,itinerary.surf,available,25.2,25.2,high,low,9,cloudflare,,,01/10/2026 20:07
+5d9cf437-9e3b-4275-89ad-7bbc07a11ab7,journey.ing,premium,1345.7,1345.7,high,medium,7,spaceship,,,30/09/2026 00:58
+48b8ae90-3058-42d3-babc-cef3b34f85c6,voyage.support,premium,414.2,414.2,high,low,6,spaceship,,,28/09/2026 02:51
+ded5a143-75e7-4bf8-90ec-1aee49ce30d5,vacation.miami,resell,,,high,low,8,"GoDaddy.com, LLC",04/05/2021 18:45,04/05/2027 18:45,29/09/2026 22:55
+25407ef6-18b9-4e37-b898-11950bd84ad4,trip.vet,premium,78.54,78.54,high,low,4,namesilo,,,08/09/2026 04:57
+44e5100f-a746-4280-8a45-446a0475ddf9,itinerary.rest,available,1.25,26,high,low,9,spaceship,,,01/10/2026 20:07
+e95cfbdf-384d-4917-b17e-e2abb1cff05e,journey.beer,available,1.98,43.98,high,medium,7,namecheap,,,30/09/2026 00:58
+4d553aa5-6a45-49cd-a800-2d18e79b4ec8,tourism.capital,premium,128.7,128.7,high,low,7,namecheap,,,29/09/2026 20:31
+7760008a-b824-4566-8e08-a863068b4a3b,itinerary.rodeo,available,10.58,10.58,high,low,9,spaceship,,,01/10/2026 20:07
+49f908e4-d8b4-4785-bfae-60df3d531b86,journey.law,available,85.82,85.82,high,medium,7,dynadot,,,30/09/2026 00:58
+323ab9b3-028a-4c64-9006-01f8e8e6f734,vacation.download,premium,1107,116,high,low,8,namesilo,,,29/09/2026 22:55
+5efce17e-389e-4865-8b22-2b3abf38b303,expedition.memorial,available,41.6,41.6,high,low,10,spaceship,,,29/09/2026 18:24
+20f26d12-c7e4-4009-b46b-2139dc3fcbdb,tourism.security,available,1863.2,2000.18,high,low,7,spaceship,,,29/09/2026 20:31
+678d380b-2d45-41bd-be9b-bcee8115ebc6,excursion.webcam,available,10.53,10.53,high,low,9,spaceship,,,29/09/2026 18:22
+9c41225c-79cd-43c6-b198-68c189d402ef,voyage.gives,available,6.41,22.39,high,low,6,spaceship,,,28/09/2026 02:51
+3ee7bf0a-98d1-44ca-b961-1d3a5b16fec0,itinerary.boats,available,1.24,13.97,high,low,9,spaceship,,,01/10/2026 20:07
+43d090c2-7926-4253-88ec-fdbdfe959de7,excursion.hiphop,available,20.9,20.9,high,low,9,spaceship,,,29/09/2026 18:22
+58a7c6f1-6ece-443f-969c-4c6916553db5,journey.restaurant,available,10.55,51.95,high,medium,7,spaceship,,,30/09/2026 00:58
+b1c032b4-04a9-4b48-a6b6-c63eb007851c,trip.ing,premium,1690,1690,high,low,4,namecheap,,,08/09/2026 04:57
+5cfc1e30-ec05-4fa1-9af5-7259642f6e53,trip.solar,available,64.99,64.99,high,low,4,namesilo,,,08/09/2026 04:57
+fe0495ca-4afa-456c-a8f5-22cdb000126f,tour.webcam,premium,3250,130,high,low,4,namecheap,,,24/09/2026 22:26
+7a572dd1-c4e4-4c41-a35a-c7570de3c6a4,itinerary.sbs,available,1.99,16.27,high,low,9,dynadot,,,01/10/2026 20:07
+eb37647c-8437-4d76-83f0-ca922c8688df,itinerary.kaufen,available,5.57,24.83,high,low,9,dynadot,,,01/10/2026 20:07
+b146cf99-78d4-46d4-bdb1-1afb79dfa977,tourism.band,available,17.48,39.98,high,low,7,namecheap,,,29/09/2026 20:31
+b1284bf5-ff00-4688-bc06-cea2efb0de54,itinerary.deals,available,40.98,51.98,high,low,9,namecheap,,,01/10/2026 20:07
+27ac5338-4301-4f48-b026-0259586a94a0,voyage.luxe,premium,2070.2,15.73,high,low,6,spaceship,,,28/09/2026 02:51
+8b6e28e6-09f2-4ea3-960d-e53c0c1e35ed,itinerary.family,available,30.2,30.2,high,low,9,cloudflare,,,01/10/2026 20:07
+b1c92420-35b9-40a4-aa0a-73f18615d6f2,vacation.barcelona,available,25.04,25.04,high,low,8,spaceship,,,29/09/2026 22:55
+9a243052-80d2-4805-ac0c-6f35b24cb3a2,expedition.dental,available,81.98,100.98,high,low,10,namecheap,,,29/09/2026 18:24
+33070123-b4e9-4efb-9cad-428c152874ef,tour.tech,premium,6900,6900,high,low,4,namesilo,,,24/09/2026 22:26
+c35e078c-184d-4bb4-b317-6c0a19493011,trip.cfd,resell,,,high,low,4,Dynadot Inc,02/12/2023 19:51,02/12/2026 23:59,26/09/2026 09:46
+c513653e-4ea3-4a2e-a6f0-a283a5808043,excursion.science,available,10.9,10.9,high,low,9,dynadot,,,29/09/2026 18:22
+c9be8d11-7cd7-4463-b72f-725a81fae50b,traveler.cruises,available,44.71,44.71,high,low,8,spaceship,,,30/09/2026 13:52
+c146942e-d50c-4a73-81ff-c5e87516b27f,tourism.cash,available,30.2,30.2,high,low,7,cloudflare,,,29/09/2026 20:31
+e44eb76c-eab4-489b-8729-f2ff2d504063,tourism.ag,available,82.5,82.5,high,low,7,dynadot,,,29/09/2026 20:31
+bc39d641-5c15-4557-9b8e-48256a4e432d,tourism.express,premium,,,high,low,7,"Network Solutions, LLC",17/09/2023 19:27,17/09/2028 19:27,29/09/2026 20:31
+fb96a0fb-8602-48da-b288-cbb99534e23f,itinerary.health,available,12.98,107.98,high,low,9,namecheap,,,01/10/2026 20:07
+1d5f7e3b-504d-4aa2-91cb-21424632cd01,journey.tienda,available,59.99,59.99,high,medium,7,namesilo,,,30/09/2026 00:58
+96739a25-fe69-42c6-90f8-8bbcce54b381,journey.stream,premium,362.45,51.95,high,medium,7,spaceship,,,30/09/2026 00:58
+b4991eb1-5276-4cfb-9218-b1e6373782ca,itinerary.law,available,83,83,high,low,9,spaceship,,,01/10/2026 20:07
+71525b1a-3cd5-44e5-9114-87d07eca4ad2,voyage.university,available,49.88,49.88,high,low,6,spaceship,,,28/09/2026 02:51
+4e630a2b-51bc-46d4-8977-b1182fea559f,tourism.host,premium,517.7,1035.2,high,low,7,spaceship,,,29/09/2026 20:31
+4da49373-a604-429e-b093-8cb99916c8f5,trip.management,available,25.99,25.99,high,low,4,namesilo,,,08/09/2026 04:57
+9d7a7ce3-e93c-4434-80c6-2fd07700f049,trip.guide,resell,,,high,low,4,Dynadot Inc,17/09/2020 08:11,17/09/2027 08:11,26/09/2026 09:46
+e8812d36-9dc7-4c10-9c09-d1ab72087481,expedition.voto,available,10.92,58,high,low,10,dynadot,,,29/09/2026 18:24
+25524137-95b9-4921-a042-34e68ff1fc56,vacation.ngo,available,18.98,24.98,high,low,8,namecheap,,,29/09/2026 22:55
+9d418589-3913-4aba-8172-c8cb6204b4f2,tour.republican,available,7.49,28.99,high,low,4,namesilo,,,24/09/2026 22:26
+1ecb6411-d0da-42ce-b817-90863e1e090f,itinerary.ooo,premium,54.98,22.21,high,low,9,dynadot,,,01/10/2026 20:07
+6c597197-0261-4ba9-9943-0f8c4d5499e9,tourism.kim,available,18.2,18.2,high,low,7,cloudflare,,,29/09/2026 20:31
+ca291a6a-c599-4c26-96bd-9ff4486dd303,tourism.country,available,2140.22,2140.22,high,low,7,dynadot,,,29/09/2026 20:31
+6509eb43-aa34-46d1-956c-9670455b1d32,journey.capital,resell,,,high,medium,7,"Spaceship, Inc.",18/11/2023 17:00,18/11/2027 17:00,30/09/2026 00:58
+e0ce7d5e-9af5-41cf-9969-00a5abb16e19,expedition.vana,available,2070.2,2070.2,high,low,10,spaceship,,,29/09/2026 18:24
+4df4f605-fc14-4867-a54d-d33633ebb278,trip.credit,available,11.99,,high,low,4,name.com,,,
+a14fc6f6-f136-4d5a-a1b0-c89f05ff7621,trip.day,premium,1298.7,1298.7,high,low,4,namecheap,,,08/09/2026 04:57
+67895d51-a4fe-45a6-8708-615eafdda53d,vacation.cool,resell,,,high,low,8,Squarespace Domains II LLC,24/07/2018 10:08,24/07/2027 10:08,29/09/2026 22:55
+488f660f-0e43-4c8e-94aa-696984773217,itinerary.fitness,available,5.66,33.47,high,low,9,porkbun,,,01/10/2026 20:07
+739bb93d-6e47-49ef-97ca-7dcf94939968,expedition.tennis,available,51.95,51.95,high,low,10,spaceship,,,29/09/2026 18:24
+47431ea6-0baf-4571-bdaa-cf4016989dd4,tourism.jetzt,available,7.72,19.05,high,low,7,porkbun,,,29/09/2026 20:31
+49ff48d2-5818-479d-9e52-9e1fda3e5d0a,excursion.fitness,available,8.5,,high,low,9,unstoppable,,,29/09/2026 18:22
+d3b27b2b-7714-44a5-a0e2-6dbba22ae1bd,trip.farm,resell,49.98,,high,low,4,"Spaceship, Inc.",23/02/2026 08:03,23/02/2027 08:03,26/09/2026 09:46
+c2008bf6-65a6-4c47-af69-6eb5c3e8ad3c,itinerary.biz,premium,,,high,low,9,,,,01/10/2026 20:07
+4f986b5a-30ea-40fe-88bd-87c99b7ec498,tourism.limited,available,29.18,29.18,high,low,7,spaceship,,,29/09/2026 20:31
+a61e1460-5f15-4637-b5cc-586665b33baa,expedition.kiwi,available,31.98,35.68,high,low,10,namecheap,,,29/09/2026 18:24
+0fb8ddf1-9bea-4a54-927d-516fd9e5a18e,tour.fan,premium,128.7,128.7,high,low,4,namecheap,,,24/09/2026 22:26
+25830185-80e0-43a6-9501-b265a7d5ab98,expedition.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,29/09/2026 18:24
+b6f670b9-d751-480b-9575-397ab3391699,itinerary.vip,premium,191.57,16.9,high,low,9,porkbun,,,01/10/2026 20:07
+19c41ec6-fe30-401c-ade0-d9a786dc8972,tourism.hockey,available,46.2,46.2,high,low,7,cloudflare,,,29/09/2026 20:31
+18a6528b-a094-4622-b6b7-133caa5e6564,vacation.fast,premium,640,640,high,low,8,namesilo,,,29/09/2026 22:55
+3bd748d6-eef2-403f-b9ac-b78a2280b03a,itinerary.review,premium,,,high,low,9,,,,01/10/2026 20:07
+79da1c9a-8155-407f-b2d8-810bd000ce4b,expedition.sucks,premium,2198.9,2198.9,high,low,10,dynadot,,,29/09/2026 18:24
+de67a972-01f9-4e2a-81c1-8f72b2e5d942,voyage.forsale,premium,99.5,,high,low,6,unstoppable,,,28/09/2026 02:51
+cf9481c8-64b3-4cce-a07e-b294bf48c41a,tourism.fail,available,8.24,31.41,high,low,7,porkbun,,,29/09/2026 20:31
+65239f90-b436-40b6-afaf-f7cf190ad827,vacation.surgery,available,54.99,54.99,high,low,8,namesilo,,,29/09/2026 22:55
+49386630-e8d2-4e8b-a1b2-bc096220eae2,journey.glass,available,58.16,58.16,high,medium,7,spaceship,,,30/09/2026 00:58
+8716ad4a-6419-43ef-88f9-a6f011531c9a,voyage.zone,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",25/03/2025 15:15,25/03/2027 15:15,28/09/2026 02:51
+5d240329-ee22-4207-b55a-bf1689a62fc1,excursion.name,available,7.27,7.27,high,low,9,dynadot,,,29/09/2026 18:22
+1e8544f6-3094-4780-b12c-0a8581987bf8,expedition.gay,available,1.75,31.28,high,low,10,spaceship,,,29/09/2026 18:24
+ba237d15-db36-4b7d-b8e9-3a476df19090,excursion.motorcycles,available,1.99,14.45,high,low,9,dynadot,,,29/09/2026 18:22
+1ffe5495-e75e-432b-9cf5-98c3f5273a76,trip.cool,resell,,,high,low,4,Squarespace Domains II LLC,21/09/2023 15:15,21/09/2027 15:15,26/09/2026 09:46
+18eabb6d-8cb5-412b-948d-f75ca78701a2,tourism.recipes,available,60.2,60.2,high,low,7,cloudflare,,,29/09/2026 20:31
+ce5f89ad-b72b-44f9-aee5-8e3837fed85b,itinerary.farm,available,7.71,32.21,high,low,9,dynadot,,,01/10/2026 20:07
+940ac8d0-e017-4ee9-98bd-3e09dc948525,vacation.online,premium,25000.2,31250,high,low,8,unstoppable,,,29/09/2026 22:55
+2995fc92-63f4-4e26-8f19-40e3e3e72dc9,expedition.rentals,available,10.5,56.98,high,low,10,unstoppable,,,29/09/2026 18:24
+e5be7065-25f4-4207-b6dd-179a69d37d51,voyage.ing,premium,155.45,155.45,high,low,6,spaceship,,,28/09/2026 02:51
+8f379db3-5b3a-4773-98b4-71a9bd70eeda,expedition.degree,available,41.6,41.6,high,low,10,spaceship,,,29/09/2026 18:24
+14ea97a3-104c-43c5-a861-0fcb41cbcb87,excursion.cards,available,2.5,32.21,high,low,9,dynadot,,,29/09/2026 18:22
+a91a804a-6bfe-4729-b2b3-c7519e5c581d,vacation.watch,available,5.99,44.49,high,low,8,namesilo,,,29/09/2026 22:55
+f9f350f0-8e7b-4be8-9651-311d0303c025,excursion.healthcare,available,68.2,68.2,high,low,9,cloudflare,,,29/09/2026 18:22
+f18d4989-7cb7-4cf7-8dae-0cfb3d14a133,trip.webcam,premium,116,29.5,high,low,4,namesilo,,,08/09/2026 04:57
+a3a375d8-e7d5-45ec-9abc-4414be1a316a,itinerary.boutique,available,25.2,25.2,high,low,9,cloudflare,,,01/10/2026 20:07
+8036b8d2-b1b4-45ab-92cc-240d3da3d3b0,journey.auto,available,2070,2950,high,medium,7,namecheap,,,30/09/2026 00:58
+ad6f42ba-4937-4a88-aa56-1ac00546e1ca,expedition.tickets,available,326.21,388.33,high,low,10,spaceship,,,29/09/2026 18:24
+1758cd7c-03d5-41dd-b900-498a908ae0eb,trip.cloud,premium,415262.01,,high,low,4,GoDaddy,23/02/2016 05:02,23/02/2027 05:02,
+6d9bcf2e-ced8-41f1-8872-f2f936023fad,tour.club,premium,6900,17.7,high,low,4,namesilo,,,24/09/2026 22:26
+d5eecc22-9d2a-429e-99f4-7fed79c8d47a,vacation.team,resell,,,high,low,8,"DNSPod, Inc.",24/11/2023 15:15,24/11/2026 15:15,29/09/2026 22:55
+d5162b69-19a4-4584-8383-f30c82e3f155,journey.accountant,premium,550,71.5,high,medium,7,dynadot,,,30/09/2026 00:58
+0b95e92a-a414-41d3-a097-b4b219ec8580,adventure.voyage,resell,,,high,medium,9,"Sav.com, LLC - 15",26/04/2026 15:15,26/04/2027 15:15,28/09/2026 18:58
+a86d9078-7e52-4627-b0e4-7287fcde8a77,trip.plus,resell,,,high,low,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),02/10/2016 13:24,02/10/2027 13:24,03/10/2026 04:43
+3d775ee2-4ebc-4fd9-ab19-b4de665ca1fd,expedition.toys,available,50.2,50.2,high,low,10,cloudflare,,,29/09/2026 18:24
+1e82dbf4-53da-455d-bbf7-e865928e7610,tour.navy,available,43.98,45.98,high,low,4,namecheap,,,24/09/2026 22:26
+ebfa20e8-28f2-492a-8a09-aec2e715b900,excursion.tickets,available,326.21,388.33,high,low,9,spaceship,,,29/09/2026 18:22
+217afbac-032f-445a-9677-d4b9f05fc7d2,expedition.dating,available,12.98,86.98,high,low,10,namecheap,,,29/09/2026 18:24
+077e961f-2a1d-47c8-a373-e460080c4c66,journey.university,available,49.88,49.88,high,medium,7,spaceship,,,30/09/2026 00:58
+dee3a33b-fea5-4a1f-949f-c66568778b61,expedition.futbol,available,5.57,14.13,high,low,10,dynadot,,,29/09/2026 18:24
+63700a7e-1289-4f00-9c6b-4f142645251a,excursion.ltd,available,5.66,25.23,high,low,9,porkbun,,,29/09/2026 18:22
+e5c4dcfa-2df3-4b65-b248-5e4f68a08926,tour.fail,premium,118.8,118.8,high,low,4,namesilo,,,24/09/2026 22:26
+1940bd84-6703-472e-be6a-ee212c7c8831,journey.camera,available,45.2,45.2,high,medium,7,cloudflare,,,30/09/2026 00:58
+92466bc8-473a-47e1-a509-27ad273603fc,journey.fund,resell,,,high,medium,7,"DNSPod, Inc.",01/05/2025 15:15,01/05/2036 15:15,30/09/2026 00:58
+fa811750-298e-4a53-872d-42b0e58d0a99,trip.onl,resell,28.98,,high,low,4,Dynadot Inc,26/02/2026 14:19,26/02/2027 14:19,26/09/2026 09:46
+5207ee10-168c-4c56-9eb2-37e7006989d6,excursion.red,available,11,,high,low,9,unstoppable,,,29/09/2026 18:22
+008fbe33-7641-49e7-a54a-be7d2c9779f0,vacation.space,premium,2587.7,10350.2,high,low,8,spaceship,,,29/09/2026 22:55
+e4e6ce7b-8ff8-43cf-8657-c912ff910f87,excursion.haus,available,10.55,27.11,high,low,9,spaceship,,,29/09/2026 18:22
+46abb599-402a-474a-9424-47dc69a83f81,trip.ceo,premium,510.98,510.98,high,low,4,namesilo,,,08/09/2026 04:57
+6245e7b6-d1c1-41c5-89ec-e7582524139c,expedition.work,premium,50.5,11.8,high,low,10,unstoppable,,,29/09/2026 18:24
+60abb64a-eb43-49d8-a042-353467620fc3,journey.mom,resell,,,high,medium,7,Dynadot Inc,26/07/2026 12:28,26/07/2027 23:59,30/09/2026 00:58
+beb8155b-2eda-46b9-b30c-97296448f80e,voyage.directory,premium,20.5,,high,low,6,unstoppable,,,28/09/2026 02:51
+7defda25-03ee-49af-87ad-0d7330e51a0d,vacation.onl,premium,156.25,,high,low,8,name.com,,,29/09/2026 22:55
+6abf4186-f3ec-4645-b22d-5140b3944705,journey.enterprises,available,8.48,28.15,high,medium,7,spaceship,,,30/09/2026 00:58
+0c335bb9-bc62-4fbd-ad09-83d127cdcd5d,excursion.ventures,available,5.38,47.81,high,low,9,spaceship,,,29/09/2026 18:22
+ec485cfb-9e71-4635-8024-87bf64f9ec8c,expedition.skin,available,1.24,13.97,high,low,10,spaceship,,,29/09/2026 18:24
+ba3f5d34-e651-4887-8213-38087ac0eeb6,tourist.nexus,premium,133.72,133.72,high,low,7,spaceship,,,29/09/2026 22:57
+61e052f4-5357-49a7-a397-6a5b5fcc22d6,expedition.legal,available,57.13,57.13,high,low,10,spaceship,,,29/09/2026 18:24
+710bd23b-aede-44ef-a010-97e8c9f21067,vacation.estate,premium,99.5,118.8,high,low,8,unstoppable,,,29/09/2026 22:55
+ea0a879b-4387-462b-9883-bc002d18f112,expedition.doctor,available,13.5,,high,low,10,unstoppable,,,29/09/2026 18:24
+cbdfbe53-2c5d-45b0-b069-3e302ef5dcd4,tour.trading,available,21.98,27.98,high,low,4,namecheap,,,24/09/2026 22:26
+a6c9bc9b-e927-4687-beea-d29271b2fe34,voyage.futbol,available,7.49,17.99,high,low,6,namesilo,,,28/09/2026 02:51
+49ab699b-53f7-4ca9-a2bd-7fa24362ca40,trip.center,resell,,,high,low,4,"DNSPod, Inc.",04/06/2018 08:20,04/06/2036 08:20,26/09/2026 09:46
+9037a38c-078a-4b00-9334-6859008f505f,itinerary.wine,available,7.45,47.81,high,low,9,spaceship,,,01/10/2026 20:07
+bd79a0ee-2fa3-40e6-807a-d24c0a68d07b,tourism.faith,premium,1092.18,109.69,high,low,7,porkbun,,,29/09/2026 20:31
+d4ce2961-d3d5-4179-a096-f4d89e626dcc,itinerary.red,available,11,,high,low,9,unstoppable,,,01/10/2026 20:07
+517b5913-f37e-4fb5-9499-5a0b91852609,excursion.foo,available,10.81,10.81,high,low,9,porkbun,,,29/09/2026 18:22
+98d88940-bcc0-49b9-ba26-ce8001397ba4,journey.republican,available,7.49,28.99,high,medium,7,namesilo,,,30/09/2026 00:58
+353ff8e4-dea3-4ace-b3f7-62f74a48e946,voyage.fishing,available,32.49,32.49,high,low,6,namesilo,,,28/09/2026 02:51
+8f2969d8-1303-4ea9-84e8-5a082975a923,excursion.gmbh,available,37.32,37.32,high,low,9,dynadot,,,29/09/2026 18:22
+9be67499-73a8-44f6-a19c-ea3695622a51,tour.partners,premium,242,242,high,low,4,namesilo,,,24/09/2026 22:26
+e947bc4d-8566-453a-9254-4a3212a7e031,tour.tennis,premium,128.7,128.7,high,low,4,namecheap,,,24/09/2026 22:26
+25d30039-34c6-4d4b-af03-e5bcff536588,expedition.fashion,available,33.98,45.98,high,low,10,namecheap,,,29/09/2026 18:24
+36c9f137-0328-406d-82e9-716ad0917c86,trip.pw,premium,1107,1107,high,low,4,namesilo,,,08/09/2026 04:57
+a5d2d3df-d1e8-41cb-91e2-072f3ce24fe5,excursion.law,available,83,83,high,low,9,spaceship,,,29/09/2026 18:22
+0d209d00-42fc-4686-a7a9-7dad30035026,journey.gripe,available,6.99,6.99,high,medium,7,namesilo,,,30/09/2026 00:58
+6b68bf61-68b9-4e26-b967-ec18000e7362,vacation.vana,available,2140.22,2140.22,high,low,8,dynadot,,,29/09/2026 22:55
+ac7d7353-f276-4a8b-bcf5-e02501c5ec8a,tourism.catering,available,31.25,31.25,high,low,7,spaceship,,,29/09/2026 20:31
+205a62c7-b0c4-43e5-b986-200177282fb7,tourism.ngo,available,18.98,24.98,high,low,7,namecheap,,,29/09/2026 20:31
+89892267-bd19-48e9-b09f-b04c34008e32,expedition.direct,available,17,,high,low,10,unstoppable,,,29/09/2026 18:24
+615c1a6d-2e1c-48a1-a0d5-e5ea46aef680,tourism.free,premium,1035.2,1035.2,high,low,7,spaceship,,,29/09/2026 20:31
+8fd825f0-4c4d-48b9-a5cf-33487dbbc583,expedition.kids,premium,55,19.48,high,low,10,dynadot,,,29/09/2026 18:24
+cc61823e-9fbe-4683-9106-59565a586504,excursion.partners,available,20,,high,low,9,unstoppable,,,29/09/2026 18:22
+4ff86750-a262-4aab-b04b-46e74e0ca05d,tour.ventures,resell,,,high,low,4,"Sav.com, LLC - 24",15/08/2025 15:15,15/08/2027 15:15,26/09/2026 09:42
+dc45ac9c-5b5c-404b-8edc-bbe2cc9f791b,tourism.film,available,64.42,64.42,high,low,7,dynadot,,,29/09/2026 20:31
+e67dc7f6-165a-4bf9-82eb-270bcba555dd,journey.attorney,premium,207.2,207.2,high,medium,7,spaceship,,,30/09/2026 00:58
+1baf2604-edd3-431e-9e98-85f723de4888,adventure.living,premium,1449.2,2070.2,high,medium,9,spaceship,,,28/09/2026 18:58
+c9f8636e-e947-46a4-b725-ef46a54f05ea,expedition.makeup,available,1.24,13.97,high,low,10,spaceship,,,29/09/2026 18:24
+2f653ff5-e897-4ac4-b218-f4717ecc6f2e,tourist.graphics,available,22.98,31.98,high,low,7,namecheap,,,29/09/2026 22:57
+44959caa-cdaa-4bf1-997b-0e95c69bc5cc,tour.cx,resell,,,high,low,4,West263 International Limited,28/04/2023 17:55,28/04/2027 17:55,26/09/2026 09:42
+0f4c1278-1a81-48e7-83be-ea6da8997002,expedition.motorcycles,available,1.24,13.97,high,low,10,spaceship,,,29/09/2026 18:24
+7fe7e021-1531-4b52-952d-fdacf64510ca,tourism.study,premium,5175.2,5175.2,high,low,7,spaceship,,,29/09/2026 20:31
+84f9c764-899b-4287-b354-4485261b19eb,voyage.shiksha,available,10.55,41.6,high,low,6,spaceship,,,28/09/2026 02:51
+96e85076-d5dd-4f5a-9e2b-52de621d7c20,vacation.pub,available,39.99,39.99,high,low,8,namesilo,,,29/09/2026 22:55

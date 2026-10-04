@@ -1,10 +1,10 @@
-# One-Word Travel Domain Names Across 506+ TLDs (121,440)
+# One-Word Travel Domain Names Across 506+ TLDs (122,820)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-121%2C440%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-122%2C820%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated set of one-word travel domain names spanning 506+ different TLDs, with a median asking price near $862. Updated daily, it covers everything from niche extensions to classic formats, making it easy to compare pricing and brandability across a wide range of travel-related one-word domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **121,440 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **122,820 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 121,440 domains · **Median ask:** $405.17 · **High-demand under $2,500:** 580
+**Public extract:** 1,000 rows · **Live catalog:** 122,820 domains · **Median ask:** $400.80 · **High-demand under $2,500:** 567
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/travel`
@@ -25,7 +25,7 @@ This is a curated set of one-word travel domain names spanning 506+ different TL
 <p align="center">
   <a href="https://unique.domains/domains/sector/travel?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_sector_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./travel.csv">CSV</a> / <a href="./travel.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_sector_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_sector_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_sector_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | journey.reisen  | available | $3.99     | $20.99        | high           | medium | 7      | namesilo                                                  |
-| tour.army       | available | $19.99    | $50.99        | high           | low    | 4      | name.com                                                  |
-| tour.rent       | resell    | $81.98    | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| tour.accountant | premium   | $625      | $81.25        | high           | low    | 4      | name.com                                                  |
-| tour.auto       | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo                                                  |
+| tour.charity    | available | $14.99    | $23.99        | high           | low    | 4      | namesilo                                                  |
+| trip.farm       | resell    | $49.98    | —             | high           | low    | 4      | Spaceship, Inc.                                           |
+| tour.band       | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo                                                  |
+| tour.coffee     | available | $19.99    | $50.99        | high           | low    | 4      | name.com                                                  |
+| trip.onl        | resell    | $28.98    | —             | high           | low    | 4      | Dynadot Inc                                               |
+| tour.club       | premium   | $6,900    | $17.70        | high           | low    | 4      | namesilo                                                  |
+| tour.hamburg    | available | $69.98    | $73.98        | high           | low    | 4      | namecheap                                                 |
 | travel.now      | resell    | $3,125    | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| tour.bayern     | premium   | $568.90   | $50.99        | high           | low    | 4      | name.com                                                  |
-| tour.country    | available | $2,298    | $2,450        | high           | low    | 4      | namecheap                                                 |
-| tour.institute  | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| tour.city       | premium   | $512      | $512          | high           | low    | 4      | namesilo                                                  |
-| tour.creditcard | available | $144.99   | $144.99       | high           | low    | 4      | namesilo                                                  |
-| tour.pw         | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd.       |
-| tour.dealer     | premium   | $2,015    | $2,600        | high           | low    | 4      | namecheap                                                 |
-| tour.hockey     | available | $62.98    | $72.98        | high           | low    | 4      | namecheap                                                 |
-| tour.shopping   | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
-| tour.diy        | premium   | $640      | $640          | high           | low    | 4      | namesilo                                                  |
-| tour.mortgage   | available | $65.98    | $76.98        | high           | low    | 4      | namecheap                                                 |
-| tour.so         | resell    | —         | —             | high           | low    | 4      | NameCheap                                                 |
-| tour.esq        | premium   | $843.70   | $843.70       | high           | low    | 4      | namecheap                                                 |
-| tour.rich       | available | $94.99    | $1,999        | high           | low    | 4      | namesilo                                                  |
+| tour.cooking    | premium   | $96       | $29.50        | high           | low    | 4      | namesilo                                                  |
+| tour.immobilien | available | $37.99    | $37.99        | high           | low    | 4      | namesilo                                                  |
+| tour.cafe       | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd.       |
+| tour.exchange   | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                                  |
+| tour.jetzt      | available | $23.99    | $23.99        | high           | low    | 4      | namesilo                                                  |
+| tour.cc         | resell    | —         | —             | high           | low    | 4      | 22net, Inc.                                               |
+| tour.fail       | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                  |
+| tour.maison     | available | $57.99    | $57.99        | high           | low    | 4      | namesilo                                                  |
+| tour.co         | resell    | —         | —             | high           | low    | 4      | Hello Internet Corp.                                      |
+| tour.fan        | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap                                                 |
+| tour.navy       | available | $43.98    | $45.98        | high           | low    | 4      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 121,440 live domains                                 |
+| 1,000-row public sample | 122,820 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 580 high-demand names under $2,500                   |
+| Basic exported fields   | 567 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/travel?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_sector_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_sector_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_sector_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_sector_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_sector_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
