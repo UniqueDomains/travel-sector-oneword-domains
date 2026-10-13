@@ -1,10 +1,10 @@
-# One-Word Travel Domain Names Across 506+ TLDs (131,690)
+# One-Word Travel Domain Names Across 506+ TLDs (132,156)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-131%2C690%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-132%2C156%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word travel domain names spanning 506+ different TLDs, with a median asking price near $862. Updated daily, it covers everything from niche extensions to classic formats, making it easy to compare pricing and brandability across a wide range of travel-related one-word domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **131,690 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **132,156 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 131,690 domains · **Median ask:** $380.43 · **High-demand under $2,500:** 619
+**Public extract:** 1,000 rows · **Live catalog:** 132,156 domains · **Median ask:** $379.53 · **High-demand under $2,500:** 625
 
-**Last updated:** 2026-10-11
+**Last updated:** 2026-10-13
 **Canonical page:** `https://unique.domains/domains/sector/travel`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | journey.reisen   | available | $3.99     | $20.99        | high           | medium | 7      | namesilo                                                  |
-| tour.army        | available | $19.99    | $50.99        | high           | low    | 4      | name.com                                                  |
-| tour.rent        | resell    | $81.98    | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| tour.bayern      | premium   | $568.90   | $50.99        | high           | low    | 4      | name.com                                                  |
-| tour.auto        | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo                                                  |
+| tour.cars        | available | $2,070    | $2,950        | high           | low    | 4      | namecheap                                                 |
+| tour.ag          | resell    | $89       | —             | high           | low    | 4      | Sav.com, LLC                                              |
+| tour.beauty      | premium   | $2,500    | $2,500        | high           | low    | 4      | name.com                                                  |
+| tour.clothing    | available | $32.99    | $32.99        | high           | low    | 4      | namesilo                                                  |
 | travel.now       | resell    | $3,125    | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| tour.channel     | premium   | $648.70   | $648.70       | high           | low    | 4      | namecheap                                                 |
-| tour.bingo       | available | $53.99    | $53.99        | high           | low    | 4      | namesilo                                                  |
-| tour.land        | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
-| tour.city        | premium   | $512      | $512          | high           | low    | 4      | namesilo                                                  |
-| tour.blackfriday | available | $128.98   | $134.98       | high           | low    | 4      | namecheap                                                 |
-| tour.pw          | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd.       |
-| tour.dad         | premium   | $623.75   | $623.75       | high           | low    | 4      | name.com                                                  |
-| tour.bz          | available | $25       | $27.99        | high           | low    | 4      | name.com                                                  |
-| tour.shopping    | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
-| tour.deal        | premium   | $116      | $116          | high           | low    | 4      | namesilo                                                  |
-| tour.country     | available | $2,298    | $2,450        | high           | low    | 4      | namecheap                                                 |
-| tour.singles     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                              |
-| tour.dealer      | premium   | $2,015    | $2,600        | high           | low    | 4      | namecheap                                                 |
-| tour.creditcard  | available | $144.99   | $144.99       | high           | low    | 4      | namesilo                                                  |
+| tour.clinic      | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                  |
+| tour.diamonds    | available | $75.99    | $75.99        | high           | low    | 4      | name.com                                                  |
+| tour.adult       | resell    | —         | —             | high           | low    | 4      | Name.com, Inc.                                            |
+| tour.cricket     | premium   | $13,800   | $116          | high           | low    | 4      | namesilo                                                  |
+| tour.realty      | available | $109.99   | $299          | high           | low    | 4      | namesilo                                                  |
+| tour.digital     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
+| tour.discount    | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                  |
+| tour.theater     | available | $19.99    | $83.99        | high           | low    | 4      | name.com                                                  |
+| tour.la          | resell    | —         | —             | high           | low    | 4      | LA Domain Names                                           |
+| tour.flights     | premium   | $512      | $512          | high           | low    | 4      | namesilo                                                  |
+| tour.vana        | available | $3,999.99 | $3,999.99     | high           | low    | 4      | name.com                                                  |
+| tour.network     | resell    | —         | —             | high           | low    | 4      | UM DOMAINS PTE. LTD                                       |
+| tour.foo         | premium   | $648.70   | $648.70       | high           | low    | 4      | namecheap                                                 |
+| trip.accountants | available | $117.99   | $117.99       | high           | low    | 4      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 131,690 live domains                                 |
+| 1,000-row public sample | 132,156 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 619 high-demand names under $2,500                   |
+| Basic exported fields   | 625 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Travel Domain Names Across 506+ TLDs*. Version 2026-10-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Travel Domain Names Across 506+ TLDs*. Version 2026-10-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
